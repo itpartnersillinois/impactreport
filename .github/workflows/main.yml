@@ -20,3 +20,5 @@ jobs:
         aws-region: us-east-2
     - name: Deploy static site to S3 bucket
       run: aws s3 sync ./_site/ s3://impactreport.education.illinois.edu/content --delete --acl bucket-owner-full-control
+    - name: Invalidate Cloudfront cache
+      run: aws cloudfront create-invalidation --distribution-id E54UWMBDKRG8B --paths "/*"
