@@ -1,0 +1,36 @@
+.contents {
+    background: $cloud_base;
+    h2 {
+        text-align: center;
+        font-size: 3.7em;
+        border-top: 3px solid $orange_base;
+        border-bottom: 3px solid $orange_base;
+        font-weight: bold;
+    }
+
+    p {
+        font-size: 1.6em;
+        padding: 20px 40px;
+        margin-top: 20px;
+        border-top: 3px solid $orange_base;
+        border-bottom: 3px solid $orange_base;
+    }
+
+    ul {
+        text-align: left;
+        list-style: none;
+        font-size: 1.3em;
+        li {
+            margin-bottom: 20px;
+        }
+        a {
+            text-decoration: none;
+            font-weight: normal;
+            color: $orange_base;
+        }
+        a:hover, a:focus {
+            color: $blue_base;
+            transition: .5s;
+        }
+    }
+}

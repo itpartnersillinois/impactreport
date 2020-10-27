@@ -6,7 +6,7 @@ previousLink: /addressing-anti-black-racism
 nextLink: /using-ai-to-improve-education
 
 ---
-![Helen Neville](/img/helen-neville.png){ .top-left } Educational Psychology and African American Studies professor Helen A. Neville is the founder of the Psychology of Radical Healing Collective, a group of psychology scholars and practitioners who work at the intersections of social justice, culture, ethnicity, race, and healing. The Collective publishes a blog series for Psychology Today that speaks to timely topics, looking to share frameworks for radical healing and hope for individuals and communities dealing with racial, cultural, and ethnic traumas. { .large }
+![Helen Neville](/img/helen-neville.png){ .top-left } Educational Psychology and African American Studies professor **Helen A. Neville** is the founder of the Psychology of Radical Healing Collective, a group of psychology scholars and practitioners who work at the intersections of social justice, culture, ethnicity, race, and healing. The Collective publishes a blog series for Psychology Today that speaks to timely topics, looking to share frameworks for radical healing and hope for individuals and communities dealing with racial, cultural, and ethnic traumas. { .large }
 
 ## How did the Collective come to be, as it now exists?
 

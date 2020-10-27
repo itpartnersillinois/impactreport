@@ -34,8 +34,13 @@ body.top-background .splash {
             text-align: center;
         }
 
+        h2 {
+            padding: 1em 0 0 0;
+        }
+
         .intro-text {
-            font-size: 5vw;
+            font-size: calc(3em + 3vw);
+            padding: 0 20%;
             font-family: 'Fjalla One', sans-serif;
         }
 

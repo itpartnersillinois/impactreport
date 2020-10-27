@@ -56,3 +56,5 @@ nextLink: /priorities-milestones
 * School Executive Leadership | Superintendent Endorsement
 * Social Sciences & Education Policy
 * Teacher Leader Specialization
+
+<style>.splash .full ul.stats.no-bullets { display: none; }</style>

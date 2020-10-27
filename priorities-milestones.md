@@ -22,7 +22,7 @@ This represents all funds awarded from sponsored activity and grants from July 1
 <li><span>14</span> Major foundation grants</li>
 </ul>
 
-## Curriculum & Instruction (C&I)
+## [Curriculum & Instruction (C&I)](https://education.illinois.edu/ci)
 
 ### 2019-20 Milestones
 * Launched the online Ed.M. in C&I with two concentrations in Bilingual/Bi-Cultural and Digital Learning
@@ -41,7 +41,7 @@ This represents all funds awarded from sponsored activity and grants from July 1
 * Support faculty in grant applications during COVID-19
 * Launch Virtual Speaker Series on “Education for the Public Good”
 
-## Educational Psychology (EPSY)
+## [Educational Psychology (EPSY)](https://education.illinois.edu/edpsy)
 
 ### 2019-20 Milestones
 * Hired two new tenure-track faculty members in evaluation and mixed methods
@@ -54,7 +54,7 @@ This represents all funds awarded from sponsored activity and grants from July 1
 * Clarify and refine departmental priorities and strategic plan through the departmental review process
 * Deliver high-quality instruction and mentoring remotely and in alternative formats throughout the duration of the pandemic
 
-## Special Education (SPED)
+## [Special Education (SPED)](https://education.illinois.edu/sped)
 
 ### 2019-20 Milestones
 * Hired two tenure track faculty who focus on high incidence disabilities
@@ -67,7 +67,7 @@ This represents all funds awarded from sponsored activity and grants from July 1
 * Enable students to complete their degree requirements on schedule through flexible coursework and sustained support from department faculty
 * Continue seeking external grants that position us to impact the state and nation
 
-## Education Policy, Organization & Leadership (EPOL)
+## [Education Policy, Organization & Leadership (EPOL)](https://education.illinois.edu/epol)
 ### 2019-20 Milestones
 * Hired seven new faculty
 * Formalized recognition of faculty diversity and equity work in research, teaching, and service in annual reviews

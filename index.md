@@ -4,7 +4,7 @@ pageTitle: 2020 Impact Report
 pageTitle2: Education
 subTitle: College of Education | University of Illinois Urbana-Champaign
 ---
-Table of Contents
+## Table of Contents
 
 * [Message from Dean Anderson](/message-from-dean-anderson/index.html)
 * [By the Numbers: 2020 Growth](/2020-growth/index.html)
