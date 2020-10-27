@@ -5,13 +5,13 @@ body.blue header {
         color: $orange_base;
     }
     
-    a.previous:hover {
+    a.previous:hover, a.previous:focus {
         background-image: url(/img/icons/Orange_Back_Solid.svg);
     }
-    a.home:hover {
+    a.home:hover, a.home:focus {
         background-image: url(/img/icons/Orange_Home_Solid.svg);
     }
-    a.next:hover {
+    a.next:hover, a.next:focus {
         background-image: url(/img/icons/Orange_Next_Solid.svg);
     }
 }
@@ -74,13 +74,13 @@ header {
             }
         }
 
-        a.previous:hover {
+        a.previous:hover, a.previous:focus {
             background-image: url(/img/icons/Blue_Back_Solid.svg);
         }
-        a.home:hover {
+        a.home:hover, a.home:focus {
             background-image: url(/img/icons/Blue_Home_Solid.svg);
         }
-        a.next:hover {
+        a.next:hover, a.next:focus {
             background-image: url(/img/icons/Blue_Next_Solid.svg);
         }
     }

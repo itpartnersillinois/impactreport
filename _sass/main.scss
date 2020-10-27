@@ -5,8 +5,6 @@ $white_base: #FEFEFE;
 $cloud_base: #F8FAFC;
 $black_base: #030303;
 
-@import "./node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss";
-@import "./node_modules/@fortawesome/fontawesome-free/scss/solid.scss";
 @import 'article.scss';
 @import 'blockquote.scss';
 @import 'button.scss';

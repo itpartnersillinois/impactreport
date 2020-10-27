@@ -39,7 +39,7 @@ body.top-background .splash {
         }
 
         .intro-text {
-            font-size: calc(3em + 3vw);
+            font-size: calc(2em + 2vw);
             padding: 0 20%;
             font-family: 'Fjalla One', sans-serif;
         }
@@ -109,6 +109,17 @@ body.top-background .splash {
 @media only screen and ( max-width: 1000px ) {
     .splash {
         display: block;
+
+        .full {
+            .intro-text {
+                    padding: 0;
+                }
+
+            h2 {
+                font-size: 1.25em;
+                padding: 0 10px;
+            }
+            }
    
         .left {       
             width: initial;
