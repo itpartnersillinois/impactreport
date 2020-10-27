@@ -3,7 +3,7 @@ layout: student.liquid
 pageTitle: Erin L. Gahimer
 backgroundImage: erin-l-gahimer.png
 backgroundPosition: center top
-location: bottomleft
+location: fullleft
 previousLink: /online-programs
 nextLink: /outreach-and-impact
 ---

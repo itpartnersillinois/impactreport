@@ -15,7 +15,7 @@
     
     h1 {
         font-family: "Fjalla One", sans-serif;
-        font-size: 4em;
+        font-size: calc(2em + 2.5vw);
         margin-bottom: 0;
         padding-top: 1em;
         font-weight: normal;
@@ -24,7 +24,7 @@
     }
 
     p.tagline {
-        font-size: 2em;
+        font-size: calc(1em + 1.25vw);
     }
 
     h2 {

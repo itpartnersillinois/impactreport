@@ -16,13 +16,19 @@ body.student {
         background: rgba(19, 41, 75, 0.8);
         color: white;
         position: absolute;
-        padding: 15px;
+        padding: 30px;
         left: 72%;
         width: 35%;
         top: 8vh;
 
         &.topleft {
             left: 2%;
+        }
+        
+        &.fullleft {
+            left: 0%;
+            height: 100%;
+            width: 27%;
         }
 
         &.bottomleft {
@@ -61,6 +67,10 @@ body.student {
             width: auto;
             left: 0;
             top: 80vh;
+            &.fullleft {
+                height: initial;
+                width: 100%;
+            }
         }
     }
 }
