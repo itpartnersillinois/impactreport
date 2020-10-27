@@ -10,30 +10,3 @@ main.title {
         margin-right: 10%;
     }
 }
-
-.contents {
-    background: $cloud_base;
-    p {
-        text-align: center;
-        font-size: 3.5em;
-        border-top: 3px solid $orange_base;
-        border-bottom: 3px solid $orange_base;
-    }
-    ul {
-        text-align: left;
-        list-style: none;
-        font-size: 1.3em;
-        li {
-            margin-bottom: 20px;
-        }
-        a {
-            text-decoration: none;
-            font-weight: normal;
-            color: $orange_base;
-        }
-        a:hover, a:focus {
-            color: $blue_base;
-            transition: .5s;
-        }
-    }
-}

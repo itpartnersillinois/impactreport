@@ -3,6 +3,15 @@
     padding: 50px;
     max-width: 1200px;
     margin: auto;
+
+    .number-grid {
+        display: flex;
+        align-items: flex-start;
+
+        a.button {
+            margin: 40px 0 0 40px;
+        }
+    }
     
     h1 {
         font-family: "Fjalla One", sans-serif;
@@ -55,4 +64,17 @@
             }
         }
     }
+}
+
+@media only screen and (max-width: 500px ) {
+    .numbers {
+
+        .number-grid {
+            display: block;
+    
+            a.button {
+                margin: initial;
+            }
+        }
+    }  
 }

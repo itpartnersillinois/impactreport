@@ -8,6 +8,7 @@ stats:
 tagline: Backed by our reputation as one of the top-ranked public universities in the world, our online and Chicago-area programs offer an affordable, flexible, and valuable investment for busy professionals.
 bodyClass: blue
 menu: -orange
+link: https://education.illinois.edu/online-offcampus/programs-degrees
 titleStart: 0
 titleEnd: 7
 previousLink: /ananya-tiwari

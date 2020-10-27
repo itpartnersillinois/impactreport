@@ -10,7 +10,7 @@ nextLink: /graduate-education
 
 ## Middle Grades Education major
 
-Trey Harris is a Golden Apple Scholar who is passionate about the world of education and teaching. Golden Apple prepares (and helps support through tuition assistance) high school seniors and first- and second-year Illinois college students who have the determination and drive to be excellent teachers.
+[Trey Harris](https://storied.illinois.edu/qa-with-trey-harris-edu-21/) is a Golden Apple Scholar who is passionate about the world of education and teaching. Golden Apple prepares (and helps support through tuition assistance) high school seniors and first- and second-year Illinois college students who have the determination and drive to be excellent teachers.
 
 He worked in Chicago Public Schools with their summer school programs, helping students who struggled during the school year to move forward into the next grade.
 
