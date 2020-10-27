@@ -3,7 +3,17 @@ body.blue header {
 
     a:hover, a:focus {
         color: $orange_base;
-    }    
+    }
+    
+    a.previous:hover {
+        background-image: url(/img/icons/Orange_Back_Solid.svg);
+    }
+    a.home:hover {
+        background-image: url(/img/icons/Orange_Home_Solid.svg);
+    }
+    a.next:hover {
+        background-image: url(/img/icons/Orange_Next_Solid.svg);
+    }
 }
 
 header {
@@ -19,6 +29,11 @@ header {
         height: 46px;
         float: left;
         padding: 12px 20px;
+
+        &.icon {
+            margin: 0;
+            padding: 0;
+        }
     }
 
     p {
@@ -38,8 +53,36 @@ header {
     nav {
         float: right;
         padding-right: 10px;
-        font-size: 32px;
-        padding-top: 15px;
+        padding-top: 10px;
+
+        a {
+            height: 50px;
+            width: 50px;
+            display: inline-block;
+            text-indent: 100%;
+            white-space: nowrap;
+            overflow: hidden;
+
+            &.previous {
+                background-image: url(/img/icons/White_Back_Solid.svg);
+            }
+            &.home {
+                background-image: url(/img/icons/White_Home_Solid.svg);
+            }
+            &.next {
+                background-image: url(/img/icons/White_Next_Solid.svg);
+            }
+        }
+
+        a.previous:hover {
+            background-image: url(/img/icons/Blue_Back_Solid.svg);
+        }
+        a.home:hover {
+            background-image: url(/img/icons/Blue_Home_Solid.svg);
+        }
+        a.next:hover {
+            background-image: url(/img/icons/Blue_Next_Solid.svg);
+        }
     }
 }
 
