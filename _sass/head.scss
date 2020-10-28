@@ -88,3 +88,12 @@ a:hover, a:focus {
     font-style: italic;
     text-align: left;
 }
+
+
+body.center-title h1 span.orange.bold {
+    color: inherit;
+    font-weight: inherit;
+    display: block;
+    font-size: 1.75em;
+    padding-bottom: 20px;
+}

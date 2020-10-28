@@ -1,6 +1,8 @@
 ---
 layout: article.liquid
 pageTitle: A Brave New World&#58; Supporting Today’s Educators and Learners
+titleStart: 0
+titleEnd: 22
 byline: by Tom Hanlon
 bodyClass: center-title
 previousLink: /priorities-milestones
