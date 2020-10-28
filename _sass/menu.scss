@@ -4,16 +4,6 @@ body.blue header {
     a:hover, a:focus {
         color: $orange_base;
     }
-    
-    a.previous:hover, a.previous:focus {
-        background-image: url(/img/icons/Orange_Back_Solid.svg);
-    }
-    a.home:hover, a.home:focus {
-        background-image: url(/img/icons/Orange_Home_Solid.svg);
-    }
-    a.next:hover, a.next:focus {
-        background-image: url(/img/icons/Orange_Next_Solid.svg);
-    }
 }
 
 header {
@@ -59,29 +49,6 @@ header {
             height: 50px;
             width: 50px;
             display: inline-block;
-            text-indent: 100%;
-            white-space: nowrap;
-            overflow: hidden;
-
-            &.previous {
-                background-image: url(/img/icons/White_Back_Solid.svg);
-            }
-            &.home {
-                background-image: url(/img/icons/White_Home_Solid.svg);
-            }
-            &.next {
-                background-image: url(/img/icons/White_Next_Solid.svg);
-            }
-        }
-
-        a.previous:hover, a.previous:focus {
-            background-image: url(/img/icons/Blue_Back_Solid.svg);
-        }
-        a.home:hover, a.home:focus {
-            background-image: url(/img/icons/Blue_Home_Solid.svg);
-        }
-        a.next:hover, a.next:focus {
-            background-image: url(/img/icons/Blue_Next_Solid.svg);
         }
     }
 }
