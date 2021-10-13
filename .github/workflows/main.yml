@@ -12,6 +12,7 @@ jobs:
     - run: npm rebuild
     - run: npm run-script gulp
     - run: npm run-script eleventy
+    - run: npm run-script copy2020
     - name: Configure AWS Credentials
       uses: aws-actions/configure-aws-credentials@v1
       with:
