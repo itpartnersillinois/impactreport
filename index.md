@@ -1,31 +1,35 @@
 ---
 layout: title.liquid
-pageTitle: 2020 Impact Report
+pageTitle: 2021 Impact Report
 pageTitle2: Education
 subTitle: College of Education | University of Illinois Urbana-Champaign
 ---
 ## Table of Contents
 
 * [Message from Dean Anderson](/message-from-dean-anderson/index.html)
-* [By the Numbers: 2020 Growth](/2020-growth/index.html)
 * [College Leadership](/college-leadership/index.html)
 * [By the Numbers: Programs](/world-class-programs/index.html)
+* [By the Numbers: 2020 Growth](/2020-growth/index.html)
 * [Priorities & Milestones](/priorities-milestones/index.html)
-* [A Brave New World: Supporting Today’s Educators and Learners](/a-brave-new-world/index.html)
-* [Schools After COVID-19: Seven Steps Towards a Learning Revolution](/schools-after-covid-19/index.html)
-* [COVID-19 has challenged higher education—and spurred a flurry of research activity in the College of Education](/covid-19/index.html)
-* [Fighting for Social Justice](/fighting-for-social-justice/index.html)
-* [Addressing Anti-Black Racism and the Rise of Global Protests: Is It Different This Time?](/addressing-anti-black-racism/index.html)
-* [Inside The Psychology of Radical Healing Collective](/inside-the-psychology-of-radical-healing-collective/index.html)
-* [Using AI to improve education, impact society](/using-ai-to-improve-education/index.html)
+* [Plugging the Teacher-Shortage Gap in Illinois](/plugging-the-teacher-shortage-gap/index.html)
+* [A Shortage of Computer Science Teachers is a Problem Illinois Can Fix](/shortage-of-computer-science-teachers/index.html)
+* [Illinois Early Childhood Asset Map: Turning Data Into Insight](/illinois-early-childhood-asset-map/index.html)
+* [Building a Legacy in Education Finance and Law](/building-a-legacy/index.html)
+* [New book examines race's impact in school choice movement](/new-book-examines-races-impact/index.html)
+* [Research to Help Upgrade Law Enforcement Training Infrastructure](/research-to-help-upgrade/index.html)
+* [What History Professors Really Think About ‘The 1619 Project’](/what-history-professors-really-think/index.html)
+* [States Debate Bills to Restrict How Teachers Discuss Racism, Sexism](/states-debate-bills/index.html)
 * [Research & Recognitions](/research-and-recognitions/index.html)
-* [By the Numbers: 2019-20 Faculty](/2019-20-faculty/index.html)
+* [Education and Design Thinking](/education-and-design-thinking/index.html)
+* [By the Numbers: 2020-21 Faculty](/2020-21-faculty/index.html)
 * [New Scholars](/new-scholars/index.html)
 * [By the Numbers: Undergraduate Education](/undergraduate-education/index.html)
-* [By the Numbers: Graduate Education](/ananya-tiwari/index.html)
+* [By the Numbers: Graduate Education](/graduate-education/index.html)
 * [By the Numbers: Online Programs](/online-programs/index.html)
+* [Public Engagement](/public-engagement/index.html)
+* [Champaign Freedom School](/champaign-freedom-school/index.html)
 * [Outreach & Impact](/outreach-and-impact/index.html)
 * [Donor & Alumni Impact](/donor-and-alumni-impact/index.html)
-* [With Illinois Campaign Progress](archive2020//with-illinois/index.html)
+* [With Illinois Campaign Progress](/with-illinois/index.html)
 
-[Download the 2020 Impact Report as a PDF](/2020-impact-report.pdf)
+[Download the 2021 Impact Report as a PDF](/2021-impact-report.pdf)
