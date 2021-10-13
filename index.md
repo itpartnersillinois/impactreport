@@ -26,6 +26,6 @@ subTitle: College of Education | University of Illinois Urbana-Champaign
 * [By the Numbers: Online Programs](/online-programs/index.html)
 * [Outreach & Impact](/outreach-and-impact/index.html)
 * [Donor & Alumni Impact](/donor-and-alumni-impact/index.html)
-* [With Illinois Campaign Progress](/with-illinois/index.html)
+* [With Illinois Campaign Progress](archive2020//with-illinois/index.html)
 
 [Download the 2020 Impact Report as a PDF](/2020-impact-report.pdf)

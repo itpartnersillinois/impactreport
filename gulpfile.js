@@ -16,4 +16,9 @@ gulp.task("styles", function () {
         .pipe(gulp.dest("style/"));
 });
 
+gulp.task("copy2020", function () {
+    return gulp.src('./archive2020/**')
+        .pipe(gulp.dest('./_site/archive2020'));
+});
+
 gulp.task("default", gulp.series("styles", "webfonts"));
