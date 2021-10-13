@@ -3,15 +3,6 @@ body {
     padding: 0;
 }
 
-p,
-h1,
-h2,
-h3,
-h4,
-li {
-    font-family: "Montserrat", sans-serif;
-}
-
 ul.no-bullets {
     list-style: none;
     padding-left: 1em;
@@ -58,20 +49,6 @@ ul.no-bullets {
 
 .bold {
     font-weight: bold;
-}
-
-main {
-    margin-top: 72px;
-}
-
-a {
-    text-decoration: none;
-    font-weight: bold;
-    color: $orange_base;
-}
-a:hover, a:focus {
-    color: $blue_base;
-    transition: .5s;
 }
 
 .lines {

@@ -1,10 +1,17 @@
 <header>
-        <a href="https://illinois.edu"><img src="/img/menu/illinois{{ menu }}.png" alt="University of Illinois"></a>
-        <p class="title"><a href="/">2020 Impact Report</a><br><a href="https://education.illinois.edu">College of Education</a></p>
-        </div>
-        <nav>
-        <a href="{{ previousLink }}/index.html"><i class="il-icon">back</i></a>
-        <a href="/index.html#toc"><i class="il-icon">home</i></a>
-        <a href="{{ nextLink }}/index.html"><i class="il-icon">next</i></a>
-        </nav>
+<il-header>
+    <div slot="wordmark">
+        <il-unit-wordmark>
+            <p class="il-primary-unit"><a href="https://education.illinois.edu">College of Education </a></p>
+            <h1><a href="/">2021 Impact Report</a></h1>
+        </il-unit-wordmark>
+    </div>
+    <nav slot="links" class="il-links" aria-label="Top">
+        <ul>
+            <li><a href="{{ previousLink }}/index.html">Previous</a></li>
+            <li><a href="/index.html#toc">Home</a></li>
+            <li><a href="{{ nextLink }}/index.html">Next</a></li>
+        </ul>
+    </nav>
+</il-header>
 </header>
