@@ -5,7 +5,7 @@ previousLink: /
 nextLink: /2020-growth
 
 ---
-![Dean James Anderson](/archive2020/img/dean-anderson.png){ .top-left } 
+![Dean James Anderson](/img/dean-anderson.png){ .top-left } 
 ## Great minds are those that distinguish challenges as opportunities for growth. Our faculty, staff, students, and alumni are answering the call, driving progress in all aspects of education. { .blue }
 
 It doesn’t take a scholar or historian to recognize how profoundly the field of education has been affected by the defining events of 2020. As the COVID-19 pandemic and unrest over racial injustices have spread throughout the world, education professionals, practitioners, and students have pivoted in extraordinary ways to find solutions, amid unpredictable circumstances.
@@ -20,7 +20,7 @@ The College’s determination to secure research funding during this demanding y
 
 Yours in Orange & Blue
 
-![James D. Anderson](/archive2020/img/dean-anderson-signature.png)
+![James D. Anderson](/img/dean-anderson-signature.png)
 
 **James D. Anderson**
 Dean, College of Education

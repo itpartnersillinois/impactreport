@@ -16,7 +16,7 @@ nextLink: /back-cover
 
 [Give Now](https://education.illinois.edu/home/make-a-gift){ .button }
 
-## ![With Illinois](/archive2020/img/with-illinois.png) How to Invest in College of Education Students
+## ![With Illinois](/img/with-illinois.png) How to Invest in College of Education Students
 
 **Individual Retirement Account Required Minimum Distribution (RMD)**. At age 72, owners of qualified retirement accounts are required to take an RMD from their retirement funds. Donors can transfer to a qualified charity, such  as the College of Education, up to $100,000 annually.
 

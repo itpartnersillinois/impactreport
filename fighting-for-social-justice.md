@@ -5,9 +5,9 @@ previousLink: /covid-19
 nextLink: /addressing-anti-black-racism
 
 ---
-![Image of people of different races](/archive2020/img/equity-image.png){ .full }
+![Image of people of different races](/img/equity-image.png){ .full }
 
-![Protestors](/archive2020/img/fighting-for-social-justice.png){ .top-left }College of Education faculty continue to apply their research to create more equitable outcomes and advocate for interventions that battle systemic racism in education and society.{ .large }
+![Protestors](/img/fighting-for-social-justice.png){ .top-left }College of Education faculty continue to apply their research to create more equitable outcomes and advocate for interventions that battle systemic racism in education and society.{ .large }
 
 The College of Education has long lived out a firm commitment to social justice. The many injustices—including killings—perpetrated this year by police officers against Black people have sparked worldwide outrage and demonstrations in support of Black Lives Matter and of social equity in general. These injustices, and the need for reform, have brought to the fore the steady work done in these areas by College faculty. 
 

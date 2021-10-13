@@ -9,7 +9,7 @@ previousLink: /priorities-milestones
 nextLink: /schools-after-covid-19
 
 ---
-![Cartoon image of a person thinking surrounded by options](/archive2020/img/a-brave-new-world.png){ .full }
+![Cartoon image of a person thinking surrounded by options](/img/a-brave-new-world.png){ .full }
 
 When COVID-19 struck, the College of Education quickly pivoted to support college faculty, preK-12 teachers, and remote learners with the tools, resources, and guidance needed to navigate an educational world turned upside down by the pandemic.{ .large }
 
