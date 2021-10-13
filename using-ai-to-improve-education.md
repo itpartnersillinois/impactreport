@@ -7,7 +7,7 @@ menu: -orange
 bodyClass: blue
 
 ---
-![Left to Right: Michael Tissenbaum, Denice Hood, Raya Hegeman-Davis](/img/using-ai.png) Left to Right: Michael Tissenbaum, Denice Hood, Raya Hegeman-Davis { .full .caption } 
+![Left to Right: Michael Tissenbaum, Denice Hood, Raya Hegeman-Davis](/archive2020/img/using-ai.png) Left to Right: Michael Tissenbaum, Denice Hood, Raya Hegeman-Davis { .full .caption } 
 
 ## The College of Education is taking part in multiple new artificial intelligence institutes to explore how AI can impact education and society.
 

@@ -6,7 +6,7 @@ previousLink: /education-justice-project
 nextLink: /10-ways
 
 ---
-![Julia Poel](/img/julia-poel.png){ .top-left } [We CU](https://wecu.illinois.edu/) is a service-centered public engagement program designed to support transformative learning experiences for University of Illinois students by empowering them to meet the needs of the local community. It brings together the university community and people within the surrounding communities. { .large }
+![Julia Poel](/archive2020/img/julia-poel.png){ .top-left } [We CU](https://wecu.illinois.edu/) is a service-centered public engagement program designed to support transformative learning experiences for University of Illinois students by empowering them to meet the needs of the local community. It brings together the university community and people within the surrounding communities. { .large }
 
 Julia Poel, sophomore in Elementary Education, worked with the Serve Illinois Commission on a project called Letters Against Isolation. The project involved writing and sending letters to self-isolating seniors in nursing homes and care centers in the community, with the goal of brightening their day and mitigating feelings of loneliness and depression during the COVID-19 health crisis’ restrictions on visitors.
 
@@ -59,4 +59,4 @@ Stone says the group plans to continue to host service challenges, similar to th
 
 “We’ve heard from our students how deeply impacted they are by the murders of George Floyd, Breonna Taylor, and others, and by our country’s  broader systemic racism,” says Stone. “We are looking to develop more opportunities for students to support causes connected to social and racial justice.”
 
-![Rainbow picture with text saying Things work out best for those who make the best of how things work out by John Wooden](/img/letters-against-isolation.png) { .full }
+![Rainbow picture with text saying Things work out best for those who make the best of how things work out by John Wooden](/archive2020/img/letters-against-isolation.png) { .full }

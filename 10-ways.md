@@ -8,7 +8,7 @@ previousLink: /we-cu
 nextLink: /donor-and-alumni-impact
 
 ---
-![Cartoon image of a woman and child sitting at a desk](/img/ten-ways.png){ .full }
+![Cartoon image of a woman and child sitting at a desk](/archive2020/img/ten-ways.png){ .full }
 
 *1*{.tenways} Illinois operates a **network to help military families** whose kids have or are at-risk for disabilities and developmental delays. The university provides, support, training and web-based workshops and other resources.
 

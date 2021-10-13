@@ -6,7 +6,7 @@ previousLink: /outreach-and-impact
 nextLink: /we-cu
 
 ---
-![Rebecca Ginsburg](/img/rebecca-ginsburg.png) { .full } 
+![Rebecca Ginsburg](/archive2020/img/rebecca-ginsburg.png) { .full } 
 
 Every year, **Education Justice Project** updates one reentry guide to reflect the latest information about resources available to those released from prison and returning to Illinois communities, as well as another guide for those being deported to Central American countries following their release.
 

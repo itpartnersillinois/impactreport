@@ -6,7 +6,7 @@ previousLink: /fighting-for-social-justice
 nextLink: /inside-the-psychology-of-radical-healing-collective
 
 ---
-![Top Row: James Anderson, Christopher Span, Rochelle Gutiérrez. Bottom Row: Adrienne Dixson, Rodney Hopson, William Trent](/img/addressing-anti-black-racism.png) Top Row: James Anderson, Christopher Span, Rochelle Gutiérrez. Bottom Row: Adrienne Dixson, Rodney Hopson, William Trent{ .full .caption } 
+![Top Row: James Anderson, Christopher Span, Rochelle Gutiérrez. Bottom Row: Adrienne Dixson, Rodney Hopson, William Trent](/archive2020/img/addressing-anti-black-racism.png) Top Row: James Anderson, Christopher Span, Rochelle Gutiérrez. Bottom Row: Adrienne Dixson, Rodney Hopson, William Trent{ .full .caption } 
 
 Nationally-recognized thought leaders in social justice, equality, and the study of systemic racism shared their perspectives in a recent Virtual Town Hall Meeting. { .large }
 
