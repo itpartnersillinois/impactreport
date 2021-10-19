@@ -1,23 +1,21 @@
 ---
 layout: numbers.liquid
-pageTitle: Online Programs
+pageTitle: Online & Off-Campus Programs
 stats: 
-  - 598 Online and Off-campus graduate students
-  - 28% Graduate students from underrepresented populations
-  - number8 Best Online Graduate Programs in the nation (2020 U.S. News & World Report)
+  - 742 Online and Off-campus graduate students
+  - 27% Graduate students from underrepresented populations
+  - number3 Best Online Graduate Programs in the nation (2021 U.S. News & World Report)
 tagline: Backed by our reputation as one of the top-ranked public universities in the world, our online and Chicago-area programs offer an affordable, flexible, and valuable investment for busy professionals.
-bodyClass: blue
-menu: -orange
 link: https://education.illinois.edu/online-offcampus/programs-degrees
 titleStart: 0
-titleEnd: 7
-previousLink: /ananya-tiwari
-nextLink: /erin-l-gahimer
+titleEnd: 20
+previousLink: /amari-simpson
+nextLink: /haley-shust
 ---
 
 ## Online & Off-campus Programs
 
-### Doctoral and Master’s Degree Program Concentrations in the Department of Education Policy, Organization & Leadership
+### Doctoral and Master’s Degree Program Concentrations in the Department of Education Policy, Organization & Leadership 
 * Diversity & Equity in Education
 * Global Studies in Education
 * Human Resource Development
@@ -27,17 +25,17 @@ nextLink: /erin-l-gahimer
 ### Master’s Degree Program Concentrations in the Department of Curriculum & Instruction
 * Bilingual/Bi-cultural Education
 * Digital Learning
-* Perspectives & Practices
 
 ### Certificates of Specialization in the Department of Education Policy, Organization & Leadership
 * Community College Leadership
-* Designing Learning Systems in the Workplace
 * Diversity & Equity in Education
 * Foundations of eLearning Higher Education
 * Global Studies in Education
 * Human Resource Development
+* Instructional System Design Management & Leadership
 * International Education Administration & Leadership
 * Learning Design & Leadership
+* Leadership & Equity
 * New Learning
 * Online Teaching in Higher Education Environment
 * Instructional Design Mastertrack Certificate Program

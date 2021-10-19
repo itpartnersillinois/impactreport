@@ -1,7 +1,6 @@
 .numbers {
-
-    padding: 50px;
-    max-width: 1200px;
+    padding: 50px 30px;
+    max-width: var(--il-content-max-width);
     margin: auto;
 
     .number-grid {
@@ -14,10 +13,9 @@
     }
     
     h1 {
-        font-family: "Fjalla One", sans-serif;
+        font-family: "Fjalla One",sans-serif;
         font-size: calc(2em + 2.5vw);
-        margin-bottom: 0;
-        padding-top: 1em;
+        line-height: calc(1em + 2.5vw);
         font-weight: normal;
         text-transform: uppercase;
         color: $blue_base;
@@ -28,11 +26,10 @@
     }
 
     h2 {
-        background-color: $blue_base;
+        background-color: var(--il-blue);
         color: white;
-        border-bottom: thin solid $blue_base;
+        border-bottom: thin solid var(--il-blue);
         padding: 10px 20px;
-        margin: 2em 0;
     }
 
     p {
@@ -53,14 +50,17 @@
 
         li {
             padding: 1vw;
-            font-size: 1em;
             line-height: initial;
+            list-style: none;
 
             span {
                 font-size: 4em;
                 font-weight: bold;
                 display: block;
-                color: $orange_base;
+                color: var(--il-orange);
+                text-align: center;
+                font-family: var(--il-montserrat);
+                padding-right: 40px;
             }
         }
     }
