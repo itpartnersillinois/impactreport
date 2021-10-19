@@ -3,8 +3,7 @@ layout: article.liquid
 pageTitle: Public Engagement
 titleStart: 0
 titleEnd: 7
-previousLink: /haley-shust
-nextLink: /champaign-freedom-school
+url: public-engagement
 
 ---
 Our mission extends beyond our classrooms and campus. We make a difference in people’s lives locally, nationally, and globally through invigorating outreach informed by our commitment to community and rigorous research culture{ .large }

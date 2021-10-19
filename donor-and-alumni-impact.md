@@ -3,8 +3,7 @@ layout: article.liquid
 pageTitle: Donor & Alumni Impact
 titleStart: 0
 titleEnd: 6
-previousLink: /10-ways
-nextLink: /marisol-jimenez
+url: donor-and-alumni-impact
 
 ---
 ![Jennifer Jones Alexander and Jarvis Alexander](/img/jennifer-and-jarvis.png){ .top-right }Educators were asked to go above and beyond this year. We are proud and grateful to our alumni and donors for their dedication to education and the University of Illinois. Our alumni and donors are committed to shaping the future of education. Thanks to their generosity, the next generation of education leaders can afford a world-class education at Illinois.{ .large }

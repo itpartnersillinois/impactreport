@@ -7,8 +7,7 @@ pagination:
     data: new-faculty
     size: 100
     alias: new-faculty
-previousLink: /2020-growth
-nextLink: /when-challenge-calls
+url: college-leadership
 ---
 
 {{ college-leadership | transformGridWithImages }}

@@ -4,8 +4,7 @@ pageTitle: Haley Shust
 backgroundImage: haley-shust.png
 backgroundPosition: center top
 location: bottomright
-previousLink: /online-programs
-nextLink: /public-engagement
+url: haley-shust
 ---
 
 ## M.Ed., Curriculum & Instruction with a focus in Digital Learning

@@ -95,4 +95,57 @@ module.exports = (function (eleventyConfig) {
     returnValue = returnValue + '</ul>';
     return returnValue;
   });
+
+  
+  eleventyConfig.addFilter("transformMenu", function (url, menu) {
+    if (url == '') {
+      return '';
+    }
+    var returnValue = 0;
+    var i = 0;
+    menu.forEach(item => {
+      if (item.url === url) {
+        returnValue = i;
+      } else {
+        i++;
+      }
+    });
+    if (returnValue == 0) {
+      return `<il-nav-link>
+        <a href="/index.html#toc">Home</a>
+      </il-nav-link>
+      <il-nav-link>
+        <a href="/${menu[1].url}/index.html">${menu[1].title}</a>
+      </il-nav-link>`;
+      }
+      else if (returnValue == menu.length - 1) {
+        return `<il-nav-link>
+          <a href="/index.html#toc">Home</a>
+        </il-nav-link>
+        <il-nav-link>
+          <a href="/${menu[menu.length - 2].url}/index.html">${menu[menu.length - 2].title}</a>
+        </il-nav-link>`;
+      } else {
+        return `<il-nav-link>
+          <a href="/index.html#toc">Home</a>
+        </il-nav-link>
+        <il-nav-link>
+          <a href="/${menu[returnValue - 1].url}/index.html">${menu[returnValue - 1].title}</a>
+        </il-nav-link>
+        <il-nav-link>
+          <a href="/${menu[returnValue + 1].url}/index.html">${menu[returnValue + 1].title}</a>
+        </il-nav-link>`;
+      }
+
+    return `<il-nav-link>
+    <a href="/index.html#toc">Home</a>
+</il-nav-link>
+<il-nav-link>
+    <a href="#"></a>
+</il-nav-link>
+<il-nav-link>
+    <a href="#">Next</a>
+</il-nav-link>
+`;
+  });
 });

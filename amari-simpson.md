@@ -4,8 +4,7 @@ pageTitle: Amari Simpson
 backgroundImage: amari-simpson.png
 backgroundPosition: top center
 location: bottomleft
-previousLink: /graduate-education
-nextLink: /online-programs
+url: amari-simpson
 ---
 
 ## Ph.D. candidate, Higher Education

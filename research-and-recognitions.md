@@ -1,8 +1,7 @@
 ---
 layout: article.liquid
 pageTitle: Research and Recognitions
-previousLink: /using-ai-to-improve-education
-nextLink: /2019-20-faculty
+url: research-and-recognitions
 
 ---
 ## Studying the Challenges of Immigrant and Refugee Students {.clear}

@@ -3,8 +3,7 @@ layout: splash-full.liquid
 pageTitle: World-Class Programs
 backgroundImage: blue-vertical.png
 bodyClass: nofade centered
-previousLink: /when-challenge-calls
-nextLink: /priorities-milestones
+url: world-class-programs
 
 ---
 

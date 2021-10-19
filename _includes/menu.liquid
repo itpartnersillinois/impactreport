@@ -12,15 +12,7 @@
         </ul>
     </nav>
     <il-nav slot="navigation">
-        <il-nav-link>
-            <a href="/index.html#toc">Home</a>
-        </il-nav-link>
-        <il-nav-link>
-            <a href="{{ previousLink }}/index.html">Previous</a>
-        </il-nav-link>
-        <il-nav-link>
-            <a href="{{ nextLink }}/index.html">Next</a>
-        </il-nav-link>
+        {{ url || transformMenu: menu }}
     </il-nav>
 </il-header>
 </header>

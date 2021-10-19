@@ -9,8 +9,7 @@ tagline: Backed by our reputation as one of the top-ranked public universities i
 link: https://education.illinois.edu/online-offcampus/programs-degrees
 titleStart: 0
 titleEnd: 20
-previousLink: /amari-simpson
-nextLink: /haley-shust
+url: online-programs
 ---
 
 ### Doctoral and Master’s Degree Program Concentrations in the Department of Education Policy, Organization & Leadership 

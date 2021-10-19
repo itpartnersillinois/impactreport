@@ -2,8 +2,7 @@
 layout: article.liquid
 pageTitle: We CU&#58; Empowering Students, Strengthening Community
 byline: by Ashley Lawrence
-previousLink: /education-justice-project
-nextLink: /10-ways
+url: illinois-early-childhood-asset-map
 
 ---
 ![Julia Poel](/img/julia-poel.png){ .top-left } [We CU](https://wecu.illinois.edu/) is a service-centered public engagement program designed to support transformative learning experiences for University of Illinois students by empowering them to meet the needs of the local community. It brings together the university community and people within the surrounding communities. { .large }
