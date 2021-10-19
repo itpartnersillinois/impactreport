@@ -15,8 +15,6 @@ previousLink: /new-scholars
 nextLink: /kapri-dowdell
 ---
 
-## Our Programs
-
 ### Bachelor of Science plus licensure:
 * Early Childhood Education
 * Elementary Education

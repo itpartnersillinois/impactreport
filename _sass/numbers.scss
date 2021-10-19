@@ -1,7 +1,10 @@
 .numbers {
-    padding: 50px 30px;
-    max-width: var(--il-content-max-width);
-    margin: auto;
+    padding: 50px 0;
+
+    .numbers-width {
+        max-width: var(--il-content-max-width);
+        margin: auto;
+    }
 
     .number-grid {
         display: flex;
@@ -22,7 +25,8 @@
     }
 
     p.tagline {
-        font-size: calc(1em + 1.25vw);
+        font-size: calc(1rem + 1.25vw);
+        line-height: calc(1.75rem + 1.75vw);
     }
 
     h2 {
@@ -30,10 +34,6 @@
         color: white;
         border-bottom: thin solid var(--il-blue);
         padding: 10px 20px;
-    }
-
-    p {
-        line-height: 1.8em;
     }
 
     li {
@@ -52,15 +52,13 @@
             padding: 1vw;
             line-height: initial;
             list-style: none;
+            text-align: center;
 
             span {
-                font-size: 4em;
+                font-size: 8.25rem;
                 font-weight: bold;
                 display: block;
                 color: var(--il-orange);
-                text-align: center;
-                font-family: var(--il-montserrat);
-                padding-right: 40px;
             }
         }
     }

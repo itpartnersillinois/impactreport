@@ -13,8 +13,6 @@ previousLink: /amari-simpson
 nextLink: /haley-shust
 ---
 
-## Online & Off-campus Programs
-
 ### Doctoral and Master’s Degree Program Concentrations in the Department of Education Policy, Organization & Leadership 
 * Diversity & Equity in Education
 * Global Studies in Education
