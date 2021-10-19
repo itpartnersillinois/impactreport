@@ -15,8 +15,6 @@ previousLink: /kapri-dowdell
 nextLink: /amari-simpson
 ---
 
-## Our Programs
-
 ### Graduate students apply to one of our four departments.
 * Curriculum & Instruction
 * Education Policy, Organization & Leadership
