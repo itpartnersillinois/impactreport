@@ -1,16 +1,18 @@
 body.student {
-    background-color: $blue_base;
+    background-color: var(--il-blue);
 }
 
-.student {
+main.student {
     display: flex;
     color: white;
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
 
-    min-height: 100vh;
+    min-height: 125vh;
     margin: auto;
+
+    max-width: var(--il-content-max-width);
 
     .box {
         background: rgba(19, 41, 75, 0.8);
@@ -38,7 +40,7 @@ body.student {
 
         h1 {
             font-family: "Fjalla One";
-            color: $orange_base;
+            color: var(--il-orange);
             margin-bottom: 0;
             padding-bottom: 0;
         }
@@ -46,7 +48,7 @@ body.student {
         h2 {
             font-size: 1.3em;
             font-weight: bold;
-            color: $orange_base;
+            color: var(--il-orange);
             margin-top: 0;
         }
 
