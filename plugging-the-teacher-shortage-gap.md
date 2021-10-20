@@ -1,61 +1,67 @@
 ---
 layout: article.liquid
-pageTitle: We CU&#58; Empowering Students, Strengthening Community
-byline: by Ashley Lawrence
+pageTitle: Plugging the Teacher-Shortage Gap in Illinois
+byline: by Tom Hanlon
 url: plugging-the-teacher-shortage-gap
 
 ---
-![Julia Poel](/img/julia-poel.png){ .top-left } [We CU](https://wecu.illinois.edu/) is a service-centered public engagement program designed to support transformative learning experiences for University of Illinois students by empowering them to meet the needs of the local community. It brings together the university community and people within the surrounding communities. { .large }
+![Teacher teaching students in a classroom with a blackboard and pictures behind her](/img/plugging.png) { .full }
 
-Julia Poel, sophomore in Elementary Education, worked with the Serve Illinois Commission on a project called Letters Against Isolation. The project involved writing and sending letters to self-isolating seniors in nursing homes and care centers in the community, with the goal of brightening their day and mitigating feelings of loneliness and depression during the COVID-19 health crisis’ restrictions on visitors.
+Teacher shortages plague both the state of Illinois and the nation. Nancy Latham, Associate Dean of Undergraduate Programs and Executive Director of the Council on Teacher Education (CoTE), studied how long College of Education at Illinois graduates remain in the field—and came away with reassuring data. { .large }
 
-She describes the project as a fulfilling experience. “It is rewarding to know that my work on these letters will help someone else have a good day during this time of isolation,” Julia says. “By combatting loneliness, I am helping my community care for our seniors’ mental and physical health.”
+"Over a 15-year period, from 2003 to 2015, over 93 percent of our teacher education graduates were employed for some time period in education within the state. As a land grant institution, we are contributing to the Illinois workforce.” That’s one of several findings in a longitudinal study of 5,725 graduates prepared in University of Illinois Urbana-Champaign professional educator licensure programs.
 
-We CU has been supported at the outset by the Office of the Chancellor, Center for Social and Behavioral Science (CSBS), Interdisciplinary Health Sciences Institute (IHSI), School of Social Work, Siebel Center for Design, and the College of Education. New campus sponsors include the Humanities Research Institute, College of Liberal Arts and Sciences, and the University of Illinois Alumni Association.
+## College of Education Graduates are Persisting
 
-The initiative was conceptualized in response to priorities identified during the university’s “The Next 150” strategic planning process— specifically, that public engagement become a formalized part of the Illinois student experience. The program’s goal is to develop Illinois students to be future leaders who grasp the unique commitments, traditions, and challenges of distinct communities by facilitating service learning and volunteering opportunities with campus and offcampus organizations.
+In addition, 70 percent of graduates from that 15-year time frame are still employed in education. “Only thirty percent have left permanently,” Latham notes. “Those figures are very competitive and very promising.”
 
-With its deep understanding of community engagement at the local level, the College of Education was well-positioned to lead this charge. “For years there have been various efforts and discussions across campus regarding the need to grow, organize, and measure our impact with community organizations since public engagement is significant to our university’s land grant mission,” says Dean James Anderson, a member of the Public Engagement subcommittee for the Strategic Plan. 
+They are particularly impressive considering that 50 percent of all new teachers leave the field within five years.
 
-“Our College is committed to a culture of community engagement, and the larger idea of being an engaged university rather than a university that also does engagement. Through our College’s investment in We CU, we are underscoring service as one of our core values and leading the way for a meaningful, rewarding experience for everyone.” { .blockquote }
+“Some even say that half of new teachers leave the profession within the first three years,” she says. “And you have to remember, we’re at an institution that, probably much more than most, encourages its graduates to immediately think about graduate school. So an interesting follow-up would be, ‘of the 30 percent who permanently left, did they leave for grad school?’”
 
-Emily Stone, research development manager for the College of Education and IHSI, together with Katie Shumway in the School of Social Work, are co-directors of We CU and are the driving force behind the public engagement program. Emily also credits Erin Budesheim, Gabby Drong, and Ananya Tiwari (winner of the 2020 Illinois  Innovation Prize) all Educational Psychology graduate students, for providing key leadership and student support as the program came together. 
+Latham notes that 50 percent of College of Education graduates in professional educator licensure programs were employed for all eligible quarters (meaning all quarters they could have been employed since graduating), minus a short hiatus. 
 
-“Seeing the passion and excitement of students to volunteer and meet community needs inspires me,” says Stone. “We anticipated running a pilot of We CU with about  100 students this summer, but when 450 signed up for our information sessions we knew the program would be much larger.” 
+“That figure puts us right there with national numbers, as well,” she says.
 
-<div class="aside right">
-<h2>Community engagement is more important than ever, as organizations across our community are facing unprecedented challenges resulting from the COVID-19 pandemic.</h2>
+When asked why the Education at Illinois’ graduates rate well in persistence, Latham points to the faculty and clinical experiences. “Our programs are grounded in the expertise and research our faculty bring into the preparation coursework, and the strong and substantive clinical experiences provided in tandem with our school partners.”
 
-The We CU 10-week summer scholars program empowered students to respond to these challenges. Scholars were matched with community-based projects that could be completed remotely. Participating students could also apply for mini grants to offset costs associated with service activities. Students who completed at least 40  hours of service during the 10-week summer program were recognized with a We CU honor ceremony and certificate of completion. { .large }
+## Critical—and Accurate—Information
+
+The study, relying on data from the College itself and from the Illinois Department of Employment Security (IDES), gives the College’s programs important information about their graduates, Latham says. “It was a straight attrition study. It’s important to do this type of study. We are annually deeply examining the data, and I believe this is a model for how it should be done.” 
+
+Latham suggests the IDES study’s design is a great example for how state data on teacher workforce pathways and attrition should be
+longitudinally collected and analyzed. 
+
+“As Illinois increases the pathways to becoming a licensed teacher, following each of the pathways in this model will help inform state education agencies and legislators in future teacher preparation directions that are best for Illinois learners,” she says. “Current models are limited by employment scope and longitude.”
+
+To illustrate, she says, she herself would be considered a “leaver” because she is not working in a PK-12 Illinois public school. “Our graduates can be employed in forprofit infant-toddler programs, Head Start, private schools, and so on. They can be contributing to the field, but they come up as ‘leavers.’
+
+“That’s very different from how we arrived at our persistence ratings, which is by looking at how many possible quarters you could have been employed, and how many you actually were employed.”
 
 <ul class="stats no-bullets">
-<li><span>232</span> Total number of students who participated in We CU.</li>
-<li><span>4,504</span> Total number of service hours performed during the 10-week summer pilot program.</li>
+<li><span>5,725</span> The number of teachers employed in the state of Illinois as part of a 15-year longitudinal study.</li>
+<li><span>70%</span> After 15 years, 70% of College of Education graduates were still employed in the field. Only 30% had left the field.</li>
+<li><span>93%</span> College of Education teacher licensure graduates who were employed for some time period in education within the state of Illinois from 2003-2015.</li>
+<li><span>50%</span> National Average: 50 percent of all new teachers leave the field within five years.</li>
 </ul>
+
+## Unique Study Providing Baseline
+
+That’s why, Latham says, the IDES study is unique. “For our field, I think this was the most thorough design we could come up with.”
+
+Latham says the results of the study were reassuring. “They’re exactly what I thought they would be.”
+
+She wants to continue doing the study to see what happens when graduates hit the 30-year mark. "At that point, teachers could potentially be retiring. Seeing the data would be interesting.”
+
+From their current data, she also wants to dig deeper into the teachers who graduated from 2003 to 2008, as that data could provide a truer window into persistence.
+
+<div class="aside right">
+<img src="/img/leadership/nancy-latham.png" alt="Nancy Latham" width="100%">
+
+Nancy Latham, Associate Dean of Undergraduate Programs and Executive Director of the Council on Teacher Education (CoTE).
 </div>
 
-## Pilot Program Focused on Pandemic 
+“It’s an important baseline that we need to be doing statewide and nationally, to know where our teachers are, when they persist, and when they don’t,” Latham says. “And we need to be able to account for the variables involved, such as shifting legislative mandates and preparation requirements.
 
-The onset of the pandemic created urgent needs for community organizations, as well as a heightened desire for connection and purpose for many students—accelerating the We CU program’s launch timeline and participation numbers.
+“We have to have a system in place to watch it over time.”
 
-On June 1, 2020, We CU officially launched a 10-week summer pilot program to address local community needs during the COVID-19 pandemic. Some 232 students representing 12 colleges from across the Urbana-Champaign campus became the inaugural cohort of We CU Community Engaged Scholars. Using GivePulse, an online platform that lists volunteer opportunities and tracks service hours, We CU students were matched with one or more of the nearly 50 volunteer projects—all of which  could be completed 100% remotely—submitted by 34 local organizations. Scholars received online training and were able to apply for “mini-grants” to offset costs associated with service activities. 
-
-We CU students logged a combined 4,504 hours of community outreach during the pilot.
-
-COVID-19 related service projects included developing contact tracing methods, sewing re-usable face masks, helping organizations move their in-person activities to virtual platforms, and more.
-
-“We saw an opportunity to create community for students as they work together on these projects, and to provide support for organizations who needed rapid help moving things online that were never online before,” says Stone.
-
-Students who completed at least 40 hours of service during the 10-week pilot program were recognized during the virtual We CU Scholar Recognition Ceremony on August 13. 
-
-## Future Directions
-
-Consistent evaluation and revision of the program is essential to its future success, says Christopher Napolitano, Educational Psychology faculty member and part of a research team assessing We CU. With the success of the 10-week pilot program, there is plenty of participation data to measure impact and help shape an improved future experience. Madison Sewell, doctoral student in EPSY’s Developmental Sciences and part of the research team, is currently analyzing data from the pilot program to provide insights for publications and program adjustments.
-
-Additionally, Stone, along with the Chancellor’s Office, is working to leverage the summer pilot program’s success to secure additional funding to support a full four-year We CU Community Engaged Scholars framework for all incoming students. The full program will honor students at  graduation who have completed 300-400 hours of service during their academic career.
-
-Stone says the group plans to continue to host service challenges, similar to the 10-week focus on COVID-19 projects, providing more chances for students to make a difference in the community.
-
-“We’ve heard from our students how deeply impacted they are by the murders of George Floyd, Breonna Taylor, and others, and by our country’s  broader systemic racism,” says Stone. “We are looking to develop more opportunities for students to support causes connected to social and racial justice.”
-
-![Rainbow picture with text saying Things work out best for those who make the best of how things work out by John Wooden](/img/letters-against-isolation.png) { .full }

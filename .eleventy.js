@@ -35,7 +35,7 @@ module.exports = (function (eleventyConfig) {
   eleventyConfig.addFilter("transformListWithImages", function (item) {
     var returnValue = '<ul class="imagelist">';
     item.forEach(element => {
-      returnValue = returnValue + `<li><a href="https://education.illinois.edu/faculty/${element.username}"><img src="/archive2020${element.image}" alt="${element.header}"></a><p class="header"><a href="https://education.illinois.edu/faculty/${element.username}">${element.header}</a></p><p class="subheader">${element.subheader}</p>${element.text}</li>`;
+      returnValue = returnValue + `<li><a href="https://education.illinois.edu/faculty/${element.username}"><img src="${element.image}" alt="${element.header}"></a><p class="header"><a href="https://education.illinois.edu/faculty/${element.username}">${element.header}</a></p><p class="subheader">${element.subheader}</p>${element.text}</li>`;
     });
     returnValue = returnValue + '</ul>';
     return returnValue;
@@ -44,7 +44,7 @@ module.exports = (function (eleventyConfig) {
   eleventyConfig.addFilter("transformListWithImagesSimple", function (item) {
     var returnValue = '<ul class="imagelist">';
     item.forEach(element => {
-      returnValue = returnValue + `<li><a href="https://education.illinois.edu/faculty/${element.username}"><img class="simple" src="/archive2020${element.image}" alt="${element.header}"></a><p><a href="https://education.illinois.edu/faculty/${element.username}"><span style="font-weight: bold;">${element.header}</span></a>, ${element.text}</li>`;
+      returnValue = returnValue + `<li><a href="https://education.illinois.edu/faculty/${element.username}"><img class="simple" src="${element.image}" alt="${element.header}"></a><p><a href="https://education.illinois.edu/faculty/${element.username}"><span style="font-weight: bold;">${element.header}</span></a>, ${element.text}</li>`;
     });
     returnValue = returnValue + '</ul>';
     return returnValue;
@@ -53,7 +53,7 @@ module.exports = (function (eleventyConfig) {
   eleventyConfig.addFilter("transformGridWithImagesSimple", function (item) {
     var returnValue = '<ul class="imagegrid text">';
     item.forEach(element => {
-      returnValue = returnValue + `<li><a href="https://education.illinois.edu/faculty/${element.username}"><img src="/archive2020${element.image}" alt="${element.header}"></a><p><a href="https://education.illinois.edu/faculty/${element.username}"><span style="font-weight: bold;">${element.header},</span></a> ${element.text}</p></li>`;
+      returnValue = returnValue + `<li><a href="https://education.illinois.edu/faculty/${element.username}"><img src="${element.image}" alt="${element.header}"></a><p><a href="https://education.illinois.edu/faculty/${element.username}"><span style="font-weight: bold;">${element.header},</span></a> ${element.text}</p></li>`;
     });
     returnValue = returnValue + '</ul>';
     return returnValue;
@@ -62,7 +62,7 @@ module.exports = (function (eleventyConfig) {
   eleventyConfig.addFilter("transformGridWithImages", function (item) {
     var returnValue = '<ul class="imagegrid">';
     item.forEach(element => {
-      returnValue = returnValue + `<li><a href="https://education.illinois.edu/faculty/${element.url}"><img src="/archive2020${element.image}" alt="${element.header}"></a><p><a href="https://education.illinois.edu/faculty/${element.url}">${element.header},</a> ${element.subheader}</p></li>`;
+      returnValue = returnValue + `<li><a href="https://education.illinois.edu/faculty/${element.url}"><img src="${element.image}" alt="${element.header}"></a><p><a href="https://education.illinois.edu/faculty/${element.url}">${element.header},</a> ${element.subheader}</p></li>`;
     });
     returnValue = returnValue + '</ul>';
     return returnValue;
