@@ -11,8 +11,7 @@ stats:
   - 2% Undergraduate students from international populations
 tagline: With our focus on diversity, technology, in-depth field work, and research, our graduates are prepared to succeed and lead from the classroom to the boardroom.
 link: https://education.illinois.edu/programs/undergrad/programs-degrees
-previousLink: /new-scholars
-nextLink: /kapri-dowdell
+url: undergraduate-education
 ---
 
 ### Bachelor of Science plus licensure:

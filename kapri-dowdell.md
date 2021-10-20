@@ -4,8 +4,7 @@ pageTitle: Kapri Dowdell
 backgroundImage: kapri-dowdell.png
 backgroundPosition: center top
 location: bottomleft
-previousLink: /undergraduate-education
-nextLink: /graduate-education
+url: kapri-dowdell
 ---
 
 ## Special Education major

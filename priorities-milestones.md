@@ -3,9 +3,7 @@ layout: article.liquid
 pageTitle: Priorities & Milestones
 titleStart: 0
 titleEnd: 11
-menu: -orange
-previousLink: /world-class-programs
-nextLink: /a-brave-new-world
+url: priorities-milestones
 bodyClass: blue
 ---
 

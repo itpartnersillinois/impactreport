@@ -1,22 +1,21 @@
 ---
 layout: splash-full.liquid
 pageTitle: World-Class Programs
-backgroundImage: blue-vertical.png
+backgroundImage: world-class-programs.png
 bodyClass: nofade centered
-previousLink: /when-challenge-calls
-nextLink: /priorities-milestones
+url: world-class-programs
 
 ---
 
-## *2021 U.S. News & World Report* rankings for our departments and programs.
+## *2022 U.S. News & World Report* rankings for our departments and programs.
+* #6 Educational Psychology
+* #7 Curriculum & Instruction
 * #9 Special Education
-* #10 Curriculum & Instruction
-* #13 Educational Psychology
+* #9 Education Administration
 * #13 Elementary Teacher Education
-* #14 Education Administration
-* #18 Secondary Teacher Education
-* #20 Higher Education Administration
-* #22 Education Policy
+* #15 Secondary Teacher Education
+* #17 Higher Education Administration
+* #21 Education Policy
 { .no-bullets .large }
 
 ## Curriculum & Instruction 

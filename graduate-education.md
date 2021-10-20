@@ -11,8 +11,7 @@ stats:
   - 29% Graduate students from underrepresented populations
 tagline: We offer Certificate of Advanced Study, Master of Education, Master of Science, Master of Arts, Doctorate of Education, and Doctorate of Philosophy degrees. Our graduate students exemplify leadership in educational research and practice across disciplines. 
 link: https://education.illinois.edu/programs/grad/programs-degrees
-previousLink: /kapri-dowdell
-nextLink: /amari-simpson
+url: graduate-education
 ---
 
 ### Graduate students apply to one of our four departments.

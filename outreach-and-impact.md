@@ -3,8 +3,7 @@ layout: article.liquid
 pageTitle: Outreach & Impact
 titleStart: 0
 titleEnd: 8
-previousLink: /erin-l-gahimer
-nextLink: /education-justice-project
+url: outreach-and-impact
 
 ---
 ![Karla McAdam, INTC Director](/img/karla-mcadam.png){ .top-left } Our mission extends beyond our classrooms and campus. We make a difference in people’s lives locally, nationally, and globally through invigorating outreach informed by our commitment to community and rigorous research culture{ .large }

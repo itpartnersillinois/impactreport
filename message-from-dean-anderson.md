@@ -1,8 +1,7 @@
 ---
 layout: article.liquid
 pageTitle: Message from Dean Anderson
-previousLink: /
-nextLink: /college-leadership
+url: message-from-dean-anderson
 
 ---
 ![Dean James Anderson](/img/dean-anderson.png){ .top-left } 
