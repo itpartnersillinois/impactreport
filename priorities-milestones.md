@@ -12,70 +12,70 @@ bodyClass: blue
 This represents all funds awarded from sponsored activity and grants from July 1, 2019 – June 30, 2020.
 
 <ul class="stats no-bullets">
-<li><span>$44M</span> Active grant funding</li>
-<li><span>84</span> Active grants</li>
-<li><span>32</span> National Science Foundation grants</li>
-<li><span>11</span> State of Illinois Agency grants</li>
-<li><span>17</span> U.S. Department of Education grants </li>
-<li><span>14</span> Major foundation grants</li>
+<li><span>$48M</span> Active grant funding</li>
+<li><span>93</span> Active grants</li>
+<li><span>26</span> National Science Foundation grants</li>
+<li><span>13</span> State of Illinois Agency grants</li>
+<li><span>13</span> U.S. Department of Education grants </li>
+<li><span>32</span> Major foundation grants</li>
 </ul>
 
 ## [Curriculum & Instruction (C&I)](https://education.illinois.edu/ci)
 
-### 2019-20 Milestones
-* Launched the online Ed.M. in C&I with two concentrations in Bilingual/Bi-Cultural and Digital Learning
-* Supported bilingual faculty in Campus Board applications for ground-breaking research with diverse learners
-* Received funding from the Bureau of Educational Research to conduct cutting-edge COVID-19 research
-* Supported DELTA faculty in successful NSF grant applications
-* Designed seven new courses for the Computer Science Education endorsement
-* Implemented new course in Technology Applications for current teachers
-* Designed new synchronous and asynchronous courses for online master’s degree
+### 2020-21 Milestones
+* Designed Proseminar for all 1st and 2nd year doctoral students
+* Launched Computer Science Education endorsement in Summer 2021
+* Increased enrollment in C&I online Ed.M. program
+* Implemented COVID-19 research grants
+* Designed CS + Education bachelor's degree with two concentrations: Secondary Education and Learning Sciences
+* Gained approval for Middle Grades Education certificate program
 
-### Priorities for 2020-21
-* Increase enrollment in C&I online Ed.M. program
-* Design new foundational courses for Ph.D. program
-* Implement anti-racist approaches to education
-* Launch Computer Science Education endorsement in summer 2021
-* Support faculty in grant applications during COVID-19
-* Launch Virtual Speaker Series on “Education for the Public Good”
+### Priorities for 2021-22
+* Implement newly designed Proseminar
+* Review online master's degree program
+* Recruit for CS + Education, BS
+* Implement Provost’s Initiative on Instructional Needs by providing math support to licensure students
+* Implement Provost’s Initiative on Innovative Programs: “Bringing Us Back Together” through community spaces, supporting multimodal writing and revising literacy courses
 
 ## [Educational Psychology (EPSY)](https://education.illinois.edu/edpsy)
 
-### 2019-20 Milestones
-* Hired two new tenure-track faculty members in evaluation and mixed methods
-* Our Counseling Psychology Program (CPP) entered its 35th year of APA accreditation and is rated fourth in the nation by CounselingPsychology.Org
-* Admitted largest cohort of QUERIES student in nearly a decade
+### 2020-21 Milestones
+* Hired a new tenure-track faculty member in Counseling Psychology
+* Gained final approval for our new M.S. program in Mental Health
+* Underwent EPSY's first-ever external departmental review
+* Maintained and protected the health of all our students, staff, and faculty
+* Launched a suite of online courses in data analysis and visualization in R
 
-### Priorities for 2020-21
-* Launch a suite of online courses in data analysis and visualization in R
-* Continue to strengthen the Counseling Psychology program with new faculty hires
-* Clarify and refine departmental priorities and strategic plan through the departmental review process
-* Deliver high-quality instruction and mentoring remotely and in alternative formats throughout the duration of the pandemic
+### Priorities for 2021-22
+* Continue to strengthen the Developmental Sciences division with a new faculty hire
+* Begin instruction of first cohort of master's students in Mental Health program
+* Continue to seek external grant funding to expand research that impacts psychological science and education
+* Work to establish a College of Education mental health research clinic
 
 ## [Special Education (SPED)](https://education.illinois.edu/sped)
 
-### 2019-20 Milestones
-* Hired two tenure track faculty who focus on high incidence disabilities
-* Received multiple Office of Special Education Program (OSEP) leadership and preparation grants
-* Faculty held key leadership positions in national organizations, received numerous awards for their research, mentoring, and public engagement, and were actively involved on state and community boards and committees
+### 2020-21 Milestones
+* Hired two new faculty members
+* Increased student enrollment at bachelor’s, master’s and doctoral levels
+* Received funding from the Illinois State Board of Education to create the Center for Transition and Work
+* Awarded multiple grants to support research related to COVID-19
+* Faculty held key leadership positions in national organizations, received numerous external and internal awards, and were actively involved on national, state, and community boards and committees
 
-### Priorities for 2020-21
-* Increase Special Education faculty’s online presence
-* Redesign course offerings and fieldwork to provide students with innovative online instruction that delivers high quality instruction during the pandemic
-* Enable students to complete their degree requirements on schedule through flexible coursework and sustained support from department faculty
-* Continue seeking external grants that position us to impact the state and nation
+### Priorities for 2021-22
+* Continue to provide support to students, staff, and faculty during this challenging time
+* Redesign a few courses and fieldwork to provide students with innovative, high quality online instruction
+* Continue to seek external grants that position us to impact the state and nation
 
 ## [Education Policy, Organization & Leadership (EPOL)](https://education.illinois.edu/epol)
-### 2019-20 Milestones
-* Hired seven new faculty
-* Formalized recognition of faculty diversity and equity work in research, teaching, and service in annual reviews
-* Collaboration with the National Cancer Institute to focus on a graduate certificate of specialization in cancer care education for underrepresented populations
-* Developed new graduate Certificates of Specialization in Community College Leadership and Digital Learning Systems
-* Developed a graduate Certificate of Specialization in Online Teaching in Higher Education Environments for additional skill development in response to COVID-19 and ensuring quality online teaching training
-* Established the Graduate Student Advisory Committee
-* Aligned Ed.D. degree offerings among campus, off campus, and online programs to maximize student experience
+### 2020-21 Milestones
+* Hired three tenure-track and two specialized faculty, leveraging strategic funding opportunities from campus
+* Online master’s program ranked #3 overall and #1 for veterans by the USNWR
+* Faculty held leadership positions in national organizations, received numerous external and internal awards, and were actively involved on national, state, and community boards and committees
+* Graduate students recognized for their leadership and commitment to social justice as teachers and administrators in K-12 and higher education
+* Online doctorate application yield during the pandemic nearly doubled the average rate
 
-### Priorities for 2020-21
-* Restructure EPOL concentration areas to align with faculty research and teaching strengths, continuing to provide quality graduate student experiences
-* Be responsive in this COVID-19 moment to research the effects of the pandemic on our society’s most vulnerable populations and address systemic racism in education
-* Provide effective mentoring and support for faculty and students
+### Priorities for 2021-22
+* Redesign concentration areas to align students’ needs and faculty expertise to enhance the quality of graduate education
+* Increase marketing efforts for recruitment in online Ed.M. programs
+* Innovatively design online microcredential professional development courses across P-20 and adult education
+* Create and sustain mentoring and community building opportunities for students and faculty
