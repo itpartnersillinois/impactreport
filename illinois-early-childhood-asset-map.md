@@ -9,7 +9,7 @@ url: illinois-early-childhood-asset-map
 
 Illinois Early Childhood Asset Map (IECAM) helps state agencies understand the risks the state faces in early childhood well-being, and where those risks are not being adequately addressed. And that’s good news for the children of the state of Illinois. { .large }
 
-IECAM—Illinois Early Childhood Asset Map—was created to provide early childhood data that state agencies and policymakers can translate into information to gain the insight they need to facilitate the appropriate allocation of resources and improve outcomes for children in Illinois.
+**IECAM—Illinois Early Childhood Asset Map—** was created to provide early childhood data that state agencies and policymakers can translate into information to gain the insight they need to facilitate the appropriate allocation of resources and improve outcomes for children in Illinois.
 
 Created in 2006 and housed at the University of Illinois Urbana- Champaign, IECAM has been a twoperson operation for most of its existence, but in recent years has added staff to increase its output and effectiveness. Currently, IECAM is partnering with the Erikson Institute, a graduate school in child development, and Voices for Illinois Children, an advocacy group, to develop a new edition of the Illinois Risk and Reach Report. The report is a set of data tools that includes an interactive website of child well-being indicators in relation to family stability, health, and early care and education.
 
