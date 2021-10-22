@@ -27,4 +27,8 @@ The data comes from a variety of sources, Thomas says: the Illinois Department o
 
 As for the state of Illinois, IECAM gives policymakers and other stakeholders in Chicago a greater understanding of what the situation is downstate, Corr adds. “We’ve been able to bring visibility to the whole state,” she says.
 
+“And we’re helping state agencies build their own capacity in knowing their own data,” Thomas says. The organization provides ongoing technical assistance and runs computer labs showing agencies how to use data, and helps agencies make databased decisions during the pandemic. “We’ve been collecting data so long on these systems and programs that we’re in a unique position to think about wise, data-based decisions during COVID,” Thomas says. “We’re providing the baseline for what life was like in early childhood before COVID—and that’s something that other states are grappling with.”
 
+Thomas and Corr are quick to point out how their growing team has allowed IECAM to “work its magic,” as Corr says. “We have an amazing team. The level of expertise around data, data systems, how to merge those systems, coupled with the early childhood knowledge of the political funding mechanisms in the state and the history of what’s happened in the state has allowed us to work really well together and branch out into new directions,” Corr notes.
+
+What makes IECAM’s work immensely easier, Thomas says, is the backing of the College of Education and the University of Illinois. “If we have a question about data that we aren’t familiar with, we can call on the expertise of faculty across campus,” she says. “We have a wealth of expertise all around us. It’s really good.”
