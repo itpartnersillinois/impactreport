@@ -1,7 +1,7 @@
 ---
 layout: article.liquid
-pageTitle: We CU&#58; Empowering Students, Strengthening Community
-byline: by Ashley Lawrence
+pageTitle: Building a Legacy in Education Finance and Law
+byline: by Tom Hanlon
 url: building-a-legacy
 
 ---
