@@ -5,7 +5,7 @@ byline: by Kim Gudeman, Critical Infrastructure Resilience Institute
 url: research-to-help-upgrade
 
 ---
-![Julia Poel](/img/julia-poel.png){ .top-left } [We CU](https://wecu.illinois.edu/) is a service-centered public engagement program designed to support transformative learning experiences for University of Illinois students by empowering them to meet the needs of the local community. It brings together the university community and people within the surrounding communities. { .large }
+![Julia Poel](/img/william-cope.png){ .top-left } [We CU](https://wecu.illinois.edu/) is a service-centered public engagement program designed to support transformative learning experiences for University of Illinois students by empowering them to meet the needs of the local community. It brings together the university community and people within the surrounding communities. { .large }
 
 Julia Poel, sophomore in Elementary Education, worked with the Serve Illinois Commission on a project called Letters Against Isolation. The project involved writing and sending letters to self-isolating seniors in nursing homes and care centers in the community, with the goal of brightening their day and mitigating feelings of loneliness and depression during the COVID-19 health crisis’ restrictions on visitors.
 
