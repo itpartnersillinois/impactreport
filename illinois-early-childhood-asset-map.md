@@ -5,7 +5,7 @@ byline: by Tom Hanlon
 url: illinois-early-childhood-asset-map
 
 ---
-![Teacher teaching students in a classroom with a blackboard and pictures behind her](/img/illinois-eearly-childhood.png) { .full }
+![Teacher teaching students in a classroom with a blackboard and pictures behind her](/img/illinois-early-childhood.png) { .full }
 
 Illinois Early Childhood Asset Map (IECAM) helps state agencies understand the risks the state faces in early childhood well-being, and where those risks are not being adequately addressed. And that’s good news for the children of the state of Illinois. { .large }
 
