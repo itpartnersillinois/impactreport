@@ -1,7 +1,7 @@
 ---
 layout: article.liquid
-pageTitle: We CU&#58; Empowering Students, Strengthening Community
-byline: by Ashley Lawrence
+pageTitle: New Book Examines Race's Impact in School Choice Movement
+byline: by Sharita Forrest | UI News Bureau, Photo by Brian Stauffer
 url: new-book-examines-races-impact
 
 ---
