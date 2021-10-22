@@ -91,4 +91,4 @@ It’s possible that the former attorney general of Tennessee, given the chance,
 
 “If you live long enough you can do a lot of things,” he says. “I’ve done a lot of stuff and done some of it right.”
 
-![Rainbow picture with text saying Things work out best for those who make the best of how things work out by John Wooden](/img/letters-against-isolation.png) { .top-left } American Public School Law has set the standard for books in the field of education law for 50 years. The book is in its 9th edition. { .large }
+![American Public School Law](/img/american-public-school-law-book.png) { .top-left } American Public School Law has set the standard for books in the field of education law for 50 years. The book is in its 9th edition. { .large }
