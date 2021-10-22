@@ -1,7 +1,7 @@
 ---
 layout: article.liquid
-pageTitle: We CU&#58; Empowering Students, Strengthening Community
-byline: by Ashley Lawrence
+pageTitle: Research to Help Upgrade Law Enforcement Training Infrastructure
+byline: by Kim Gudeman, Critical Infrastructure Resilience Institute
 url: research-to-help-upgrade
 
 ---
