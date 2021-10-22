@@ -7,8 +7,7 @@ url: new-book-examines-races-impact
 ---
 Embraced by parents, billionaire philanthropists and politicians on both sides of the aisle as a cornerstone of freedom and the antidote to “failing” public schools, the school choice movement has a complex history overshadowed by racism and resistance to desegregation, a new book says. { .large }
 
-**“The Choice We Face: How Segregation, Race and Power Have Shaped America’s Most Controversial
-Education Reform Movement” by Jon Hale, a professor of Education Policy, Organization & Leadership and of Curriculum & Instruction**, traces the history of an idea—taking a critical look at the school choice movement’s origins and evolution, the social and political forces that fueled its rise, and the effects of race and social class.
+![Jon Hale, Associate Professor, Curriculum & Instruction and Education Policy, Organization & Leadership](/img/jon-hale.png){ .top-left } **“The Choice We Face: How Segregation, Race and Power Have Shaped America’s Most Controversial Education Reform Movement” by Jon Hale, a professor of Education Policy, Organization & Leadership and of Curriculum & Instruction**, traces the history of an idea—taking a critical look at the school choice movement’s origins and evolution, the social and political forces that fueled its rise, and the effects of race and social class.
 
 According to Hale, the school choice movement was indelibly shaped by racism. And race plays a pivotal role in who accesses, steers and benefits from school choice initiatives — and who gets left behind.
 
