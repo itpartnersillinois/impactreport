@@ -1,7 +1,7 @@
 ---
 layout: article.liquid
-pageTitle: We CU&#58; Empowering Students, Strengthening Community
-byline: by Ashley Lawrence
+pageTitle: Illinois Early Childhood Asset Map: Turning Data Into Insight
+byline: by Tom Hanlon
 url: illinois-early-childhood-asset-map
 
 ---
