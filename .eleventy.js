@@ -102,50 +102,41 @@ module.exports = (function (eleventyConfig) {
       return '';
     }
     var returnValue = 0;
+    var fulllist = '<il-nav-section><a href="/" slot="label">Full List</a><ul class="il-subnav">';
     var i = 0;
     menu.forEach(item => {
       if (item.url === url) {
         returnValue = i;
-      } else {
-        i++;
-      }
+      } 
+      fulllist = fulllist + `<li><a href="/${menu[i].url}/index.html">${menu[i].title}</a></li>`
+      i++;
     });
+    fulllist = fulllist + '</ul></il-nav-section>';
     if (returnValue == 0) {
       return `<il-nav-link>
         <a href="/index.html#toc">Home</a>
       </il-nav-link>
       <il-nav-link>
-        <a href="/${menu[1].url}/index.html">${menu[1].title}</a>
-      </il-nav-link>`;
+        <a href="/${menu[1].url}/index.html">Next Story</a>
+      </il-nav-link>${fulllist}`;
       }
       else if (returnValue == menu.length - 1) {
         return `<il-nav-link>
           <a href="/index.html#toc">Home</a>
         </il-nav-link>
         <il-nav-link>
-          <a href="/${menu[menu.length - 2].url}/index.html">${menu[menu.length - 2].title}</a>
-        </il-nav-link>`;
+          <a href="/${menu[menu.length - 2].url}/index.html">Previous Story</a>
+        </il-nav-link>${fulllist}`;
       } else {
         return `<il-nav-link>
           <a href="/index.html#toc">Home</a>
         </il-nav-link>
         <il-nav-link>
-          <a href="/${menu[returnValue - 1].url}/index.html">${menu[returnValue - 1].title}</a>
+          <a href="/${menu[returnValue - 1].url}/index.html">Previous Story</a>
         </il-nav-link>
         <il-nav-link>
-          <a href="/${menu[returnValue + 1].url}/index.html">${menu[returnValue + 1].title}</a>
-        </il-nav-link>`;
+          <a href="/${menu[returnValue + 1].url}/index.html">Next Story</a>
+        </il-nav-link>${fulllist}`;
       }
-
-    return `<il-nav-link>
-    <a href="/index.html#toc">Home</a>
-</il-nav-link>
-<il-nav-link>
-    <a href="#"></a>
-</il-nav-link>
-<il-nav-link>
-    <a href="#">Next</a>
-</il-nav-link>
-`;
   });
 });
