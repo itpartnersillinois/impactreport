@@ -1,6 +1,6 @@
 ---
 layout: article.liquid
-pageTitle: Illinois Early Childhood Asset Map: Turning Data Into Insight
+pageTitle: "Illinois Early Childhood Asset Map: Turning Data Into Insight"
 byline: by Tom Hanlon
 url: illinois-early-childhood-asset-map
 
