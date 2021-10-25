@@ -5,9 +5,11 @@ byline: by Tom Hanlon
 url: champaign-freedom-school
 
 ---
-![Students in a classroom](/img/champaign-freedom-school.png){ .large } 
+![Students in a classroom](/img/champaign-freedom-school.png){ .full } 
 
-We CU](https://wecu.illinois.edu/) is a service-centered public engagement program designed to support transformative learning experiences for University of Illinois students by empowering them to meet the needs of the local community. It brings together the university community and people within the surrounding communities. { .large }
+## Transforming Lives and Building Communities
+
+Normally, kids don't want to go to summer school. But Freedom School is not your normal school. Learn why 35 youngsters in the Champaign area couldn't wait to get to school each day this summer. { .large }
 
 Julia Poel, sophomore in Elementary Education, worked with the Serve Illinois Commission on a project called Letters Against Isolation. The project involved writing and sending letters to self-isolating seniors in nursing homes and care centers in the community, with the goal of brightening their day and mitigating feelings of loneliness and depression during the COVID-19 health crisis’ restrictions on visitors.
 
@@ -59,5 +61,3 @@ Additionally, Stone, along with the Chancellor’s Office, is working to leverag
 Stone says the group plans to continue to host service challenges, similar to the 10-week focus on COVID-19 projects, providing more chances for students to make a difference in the community.
 
 “We’ve heard from our students how deeply impacted they are by the murders of George Floyd, Breonna Taylor, and others, and by our country’s  broader systemic racism,” says Stone. “We are looking to develop more opportunities for students to support causes connected to social and racial justice.”
-
-![Rainbow picture with text saying Things work out best for those who make the best of how things work out by John Wooden](/img/letters-against-isolation.png) { .full }
