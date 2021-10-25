@@ -68,19 +68,12 @@ The working relationship between the College and SCD is having an impact on teac
 
 When educators teach with humancentered design, James says, “they will be better primed to carry out culturally-sustaining pedagogical practices that help create more equitable situations in schools and help promote social justice teaching and learning in schools as well.”
 
-“The processes of design thinking provide a flexible structure for people to collaboratively approach complex problems. The more we teach students about these processes, the more they will be equipped to solve problems anywhere in the future..” { .blockquote }
-
-
-
-
-
-
 <div class="aside right">
-![Sticky notes on a whiteboard with thought-provoking questions](/img/saad-shehab.png)
+![Saad Shehab](/img/saad-shehab.png)
 
-![Sticky notes on a whiteboard with thought-provoking questions](/img/carrie-james.png)
+![Carrie James](/img/carrie-james.png)
 
-![Sticky notes on a whiteboard with thought-provoking questions](/img/sylvia-yang.png)
+![Sylvia Yang](/img/sylvia-yang.png)
 
 </div>
 
@@ -91,3 +84,5 @@ The working relationship between the College and SCD is having an impact on teac
 “Teaching with human-centered design is very relevant and needed, especially these days where we’re trying to help educators be more inclusive and aware of students’ backgrounds to be able to create better learning experiences,” says Shehab.
 
 When educators teach with humancentered design, James says, “they will be better primed to carry out culturally-sustaining pedagogical practices that help create more equitable situations in schools and help promote social justice teaching and learning in schools as well.”
+
+“The processes of design thinking provide a flexible structure for people to collaboratively approach complex problems. The more we teach students about these processes, the more they will be equipped to solve problems anywhere in the future..” { .blockquote }
