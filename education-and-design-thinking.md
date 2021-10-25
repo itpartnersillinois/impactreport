@@ -109,5 +109,3 @@ Additionally, Stone, along with the Chancellor’s Office, is working to leverag
 Stone says the group plans to continue to host service challenges, similar to the 10-week focus on COVID-19 projects, providing more chances for students to make a difference in the community.
 
 “We’ve heard from our students how deeply impacted they are by the murders of George Floyd, Breonna Taylor, and others, and by our country’s  broader systemic racism,” says Stone. “We are looking to develop more opportunities for students to support causes connected to social and racial justice.”
-
-![Rainbow picture with text saying Things work out best for those who make the best of how things work out by John Wooden](/img/letters-against-isolation.png) { .full }
