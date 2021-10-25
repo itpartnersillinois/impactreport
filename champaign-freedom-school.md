@@ -21,7 +21,8 @@ Hale completed a dissertation on the history of the Mississippi Freedom School w
 
 “The curriculum exposes young people to stories about defeat and triumph,” Robinson says. “The material shows how we rise above, how we have this resilience in our DNA that transcends whatever the system does to us.” { .blockquote }
 
-### Filling a Void
+
+![Emily Stone, Director of Public Engagement](/img/emily-stone.png){ .top-left } ### Filling a Void
 
 Cessily Thomas, a teacher at Centennial High School in Champaign, was with the Champaign Freedom School at its inception in 2003. She served with the program from 2003 to 2010. This summer marked the first Freedom School in Champaign since 2013.
 
