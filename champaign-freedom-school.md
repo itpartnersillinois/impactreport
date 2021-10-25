@@ -45,7 +45,7 @@ The program was only possible with local support for the program. As Jon Hale no
 
 “It is rather expensive,” she says. “But it’s an award-winning program.”
 
-### Strong Iimpact on Children
+### Strong Impact on Children
 
 The impact it has on the children makes the program priceless in Thomas’s eyes. She tells the story of her son, who went to the school this summer, finally wearing the dashiki (a brightlycolored shirt originally from West Africa) that she had bought for him. “Before, it was just a shirt that his mom bought for him so he could match his brother and sister,” she says, laughing. “After a couple of weeks at Freedom School, he understood the strength and the courage and what it means to be a wonderful, beautiful black boy.”
 
