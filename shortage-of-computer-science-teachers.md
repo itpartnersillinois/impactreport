@@ -1,61 +1,52 @@
 ---
 layout: article.liquid
-pageTitle: We CU&#58; Empowering Students, Strengthening Community
-byline: by Ashley Lawrence
+pageTitle: A Shortage of Computer Science Teachers is a Problem Illinois Can Fix
+byline: by Mark Harris and Raya Hegeman-Davis
 url: shortage-of-computer-science-teachers
 
 ---
-![Julia Poel](/img/julia-poel.png){ .top-left } [We CU](https://wecu.illinois.edu/) is a service-centered public engagement program designed to support transformative learning experiences for University of Illinois students by empowering them to meet the needs of the local community. It brings together the university community and people within the surrounding communities. { .large }
+![A teacher pointing at a computer screen helping a grade-age student, with other students in the background programming](/img/shortage-of-computer-science.png) { .full }
 
-Julia Poel, sophomore in Elementary Education, worked with the Serve Illinois Commission on a project called Letters Against Isolation. The project involved writing and sending letters to self-isolating seniors in nursing homes and care centers in the community, with the goal of brightening their day and mitigating feelings of loneliness and depression during the COVID-19 health crisis’ restrictions on visitors.
+Despite being one of the country’s largest producers of computer science college graduates, our K-12 system remains woefully unprepared in cultivating diverse, homegrown tech talent. The state of Illinois has a problem. A computer science-education problem. Why? Because schools don’t have teachers who can teach computer science. { .large }
 
-She describes the project as a fulfilling experience. “It is rewarding to know that my work on these letters will help someone else have a good day during this time of isolation,” Julia says. “By combatting loneliness, I am helping my community care for our seniors’ mental and physical health.”
+This shortage is the No. 1 reason more computer science courses are not offered, according to the first statewide report on computer science in Illinois public schools. The problem is especially dire in rural areas where only about one percent of teachers have a CS certification.
 
-We CU has been supported at the outset by the Office of the Chancellor, Center for Social and Behavioral Science (CSBS), Interdisciplinary Health Sciences Institute (IHSI), School of Social Work, Siebel Center for Design, and the College of Education. New campus sponsors include the Humanities Research Institute, College of Liberal Arts and Sciences, and the University of Illinois Alumni Association.
+We can’t say whether the shortage is a symptom of an education system that's struggled to keep up with the digital revolution, or the cause of it—but we do know the shortage is impairing our schools and, therefore, our competitiveness.
 
-The initiative was conceptualized in response to priorities identified during the university’s “The Next 150” strategic planning process— specifically, that public engagement become a formalized part of the Illinois student experience. The program’s goal is to develop Illinois students to be future leaders who grasp the unique commitments, traditions, and challenges of distinct communities by facilitating service learning and volunteering opportunities with campus and offcampus organizations.
+Illinois is in the bottom third of all states, according to Code.org, a national CS education advocacy group. Only 10 percent of Illinois’ 859 school districts offer advanced placement (AP) computer science courses.
 
-With its deep understanding of community engagement at the local level, the College of Education was well-positioned to lead this charge. “For years there have been various efforts and discussions across campus regarding the need to grow, organize, and measure our impact with community organizations since public engagement is significant to our university’s land grant mission,” says Dean James Anderson, a member of the Public Engagement subcommittee for the Strategic Plan. 
+And the perceptions of computer science where it’s currently not offered show that it’s viewed as less critical, making it unsurprising that computer science is treated as an elective course versus a requirement in almost every school district outside of Chicago Public Schools.
 
-“Our College is committed to a culture of community engagement, and the larger idea of being an engaged university rather than a university that also does engagement. Through our College’s investment in We CU, we are underscoring service as one of our core values and leading the way for a meaningful, rewarding experience for everyone.” { .blockquote }
+But here’s what we also know: technology is the language of business. Every company is now a tech company. And the highest paying jobs and most resilient jobs are tech jobs.
 
-Emily Stone, research development manager for the College of Education and IHSI, together with Katie Shumway in the School of Social Work, are co-directors of We CU and are the driving force behind the public engagement program. Emily also credits Erin Budesheim, Gabby Drong, and Ananya Tiwari (winner of the 2020 Illinois  Innovation Prize) all Educational Psychology graduate students, for providing key leadership and student support as the program came together. 
+Crain’s recently identified the most in-demand and highest-paying jobs in Illinois (“Where the good jobs are,” March 18, 2021). Among them were software developer, software engineer, data scientist, cloud engineer, and information/network security engineer.
 
-“Seeing the passion and excitement of students to volunteer and meet community needs inspires me,” says Stone. “We anticipated running a pilot of We CU with about  100 students this summer, but when 450 signed up for our information sessions we knew the program would be much larger.” 
+We will not develop homegrown, diverse tech talent to step into these jobs without robust K-12 computer science education. Period. 
 
 <div class="aside right">
-<h2>Community engagement is more important than ever, as organizations across our community are facing unprecedented challenges resulting from the COVID-19 pandemic.</h2>
+<h3>The future for Illinois K-12 students who want to learn computer science skills began on June 1, 2021. </h3>
 
-The We CU 10-week summer scholars program empowered students to respond to these challenges. Scholars were matched with community-based projects that could be completed remotely. Participating students could also apply for mini grants to offset costs associated with service activities. Students who completed at least 40  hours of service during the 10-week summer program were recognized with a We CU honor ceremony and certificate of completion. { .large }
+<p>That was the launch date for the first of seven courses in the new Computer Science Teacher Endorsement program offered through the College of Education at the University of Illinois Urbana-Champaign, with collaboration from the university’s Computer Science Department. </p>
 
-<ul class="stats no-bullets">
-<li><span>232</span> Total number of students who participated in We CU.</li>
-<li><span>4,504</span> Total number of service hours performed during the 10-week summer pilot program.</li>
-</ul>
+<p>The program equips Illinois teachers with the foundational knowledge to teach existing computer science courses, develop their own  courses, and integrate new technologies in their teaching—all aimed at providing more equitable learning experiences in computer  science for students across the state.</p>
 </div>
 
-## Pilot Program Focused on Pandemic 
+Within five years, we should aim to have a qualified CS instructor in every Illinois middle and high school. { .large }
 
-The onset of the pandemic created urgent needs for community organizations, as well as a heightened desire for connection and purpose for many students—accelerating the We CU program’s launch timeline and participation numbers.
+More must be done to ensure we successfully implement high quality and equitable CS education across the state.
 
-On June 1, 2020, We CU officially launched a 10-week summer pilot program to address local community needs during the COVID-19 pandemic. Some 232 students representing 12 colleges from across the Urbana-Champaign campus became the inaugural cohort of We CU Community Engaged Scholars. Using GivePulse, an online platform that lists volunteer opportunities and tracks service hours, We CU students were matched with one or more of the nearly 50 volunteer projects—all of which  could be completed 100% remotely—submitted by 34 local organizations. Scholars received online training and were able to apply for “mini-grants” to offset costs associated with service activities. 
+Chicago Public Schools requires students to complete a computer science course to graduate. The state of Illinois should adopt the  same policy. Governor J.B. Pritzker just signed a law requiring school districts to offer at least one computer science course by 2022-23; that’s progress, but not enough.
 
-We CU students logged a combined 4,504 hours of community outreach during the pilot.
+The state needs to dedicate funding every year for the training of computer science teachers. 
 
-COVID-19 related service projects included developing contact tracing methods, sewing re-usable face masks, helping organizations move their in-person activities to virtual platforms, and more.
+We must help school districts build capacity to effectively teach CS, including expanding higher-level courses like advanced placement.
 
-“We saw an opportunity to create community for students as they work together on these projects, and to provide support for organizations who needed rapid help moving things online that were never online before,” says Stone.
+We need to increase access to formal CS training—including endorsement programs—for current teachers, as well as new programs for undergraduates so they are equipped to teach the subject upon graduation.
 
-Students who completed at least 40 hours of service during the 10-week pilot program were recognized during the virtual We CU Scholar Recognition Ceremony on August 13. 
+Increasing the number of proficient CS teachers is one of the strongest ways we can address the disparities that exist for CS education in Illinois.
 
-## Future Directions
+Achieving that goal would have profound effects: Within 10 years, the city’s tech sector should be closer to 25 percent Black or Latinx. And when the next recession or pandemic hits, Chicago—and all of Illinois—would weather it far better than most.
 
-Consistent evaluation and revision of the program is essential to its future success, says Christopher Napolitano, Educational Psychology faculty member and part of a research team assessing We CU. With the success of the 10-week pilot program, there is plenty of participation data to measure impact and help shape an improved future experience. Madison Sewell, doctoral student in EPSY’s Developmental Sciences and part of the research team, is currently analyzing data from the pilot program to provide insights for publications and program adjustments.
+**Mark Harris** is director of community education at the Discovery Partners Institute. {.small}
 
-Additionally, Stone, along with the Chancellor’s Office, is working to leverage the summer pilot program’s success to secure additional funding to support a full four-year We CU Community Engaged Scholars framework for all incoming students. The full program will honor students at  graduation who have completed 300-400 hours of service during their academic career.
-
-Stone says the group plans to continue to host service challenges, similar to the 10-week focus on COVID-19 projects, providing more chances for students to make a difference in the community.
-
-“We’ve heard from our students how deeply impacted they are by the murders of George Floyd, Breonna Taylor, and others, and by our country’s  broader systemic racism,” says Stone. “We are looking to develop more opportunities for students to support causes connected to social and racial justice.”
-
-![Rainbow picture with text saying Things work out best for those who make the best of how things work out by John Wooden](/img/letters-against-isolation.png) { .full }
+**Raya Hegeman-Davis** is computer science education program coordinator in the College of Education at the University of Illinois Urbana-Champaign. {.small}
