@@ -76,36 +76,18 @@ When educators teach with humancentered design, James says, “they will be bett
 
 
 <div class="aside right">
-<h2>Community engagement is more important than ever, as organizations across our community are facing unprecedented challenges resulting from the COVID-19 pandemic.</h2>
+![Sticky notes on a whiteboard with thought-provoking questions](/img/saad-shehab.png)
 
-The We CU 10-week summer scholars program empowered students to respond to these challenges. Scholars were matched with community-based projects that could be completed remotely. Participating students could also apply for mini grants to offset costs associated with service activities. Students who completed at least 40  hours of service during the 10-week summer program were recognized with a We CU honor ceremony and certificate of completion. { .large }
+![Sticky notes on a whiteboard with thought-provoking questions](/img/carrie-james.png)
 
-<ul class="stats no-bullets">
-<li><span>232</span> Total number of students who participated in We CU.</li>
-<li><span>4,504</span> Total number of service hours performed during the 10-week summer pilot program.</li>
-</ul>
+![Sticky notes on a whiteboard with thought-provoking questions](/img/sylvia-yang.png)
+
 </div>
 
-## Pilot Program Focused on Pandemic 
+## A Growing Impact on Education
 
-The onset of the pandemic created urgent needs for community organizations, as well as a heightened desire for connection and purpose for many students—accelerating the We CU program’s launch timeline and participation numbers.
+The working relationship between the College and SCD is having an impact on teachers and students, and that impact promises to grow.
 
-On June 1, 2020, We CU officially launched a 10-week summer pilot program to address local community needs during the COVID-19 pandemic. Some 232 students representing 12 colleges from across the Urbana-Champaign campus became the inaugural cohort of We CU Community Engaged Scholars. Using GivePulse, an online platform that lists volunteer opportunities and tracks service hours, We CU students were matched with one or more of the nearly 50 volunteer projects—all of which  could be completed 100% remotely—submitted by 34 local organizations. Scholars received online training and were able to apply for “mini-grants” to offset costs associated with service activities. 
+“Teaching with human-centered design is very relevant and needed, especially these days where we’re trying to help educators be more inclusive and aware of students’ backgrounds to be able to create better learning experiences,” says Shehab.
 
-We CU students logged a combined 4,504 hours of community outreach during the pilot.
-
-COVID-19 related service projects included developing contact tracing methods, sewing re-usable face masks, helping organizations move their in-person activities to virtual platforms, and more.
-
-“We saw an opportunity to create community for students as they work together on these projects, and to provide support for organizations who needed rapid help moving things online that were never online before,” says Stone.
-
-Students who completed at least 40 hours of service during the 10-week pilot program were recognized during the virtual We CU Scholar Recognition Ceremony on August 13. 
-
-## Future Directions
-
-Consistent evaluation and revision of the program is essential to its future success, says Christopher Napolitano, Educational Psychology faculty member and part of a research team assessing We CU. With the success of the 10-week pilot program, there is plenty of participation data to measure impact and help shape an improved future experience. Madison Sewell, doctoral student in EPSY’s Developmental Sciences and part of the research team, is currently analyzing data from the pilot program to provide insights for publications and program adjustments.
-
-Additionally, Stone, along with the Chancellor’s Office, is working to leverage the summer pilot program’s success to secure additional funding to support a full four-year We CU Community Engaged Scholars framework for all incoming students. The full program will honor students at  graduation who have completed 300-400 hours of service during their academic career.
-
-Stone says the group plans to continue to host service challenges, similar to the 10-week focus on COVID-19 projects, providing more chances for students to make a difference in the community.
-
-“We’ve heard from our students how deeply impacted they are by the murders of George Floyd, Breonna Taylor, and others, and by our country’s  broader systemic racism,” says Stone. “We are looking to develop more opportunities for students to support causes connected to social and racial justice.”
+When educators teach with humancentered design, James says, “they will be better primed to carry out culturally-sustaining pedagogical practices that help create more equitable situations in schools and help promote social justice teaching and learning in schools as well.”
