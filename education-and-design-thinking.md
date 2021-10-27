@@ -56,6 +56,16 @@ SCD offers College of Education of graduate students “authentic research exper
 
 In the summer of 2019, SCD hosted a virtual internship program with about 25 students from various colleges on campus, including Education. “I also worked with three interns from the College of Education on how to conduct literature reviews and things like that,” Shehab says. “The Center provides a nice environment for people to work with us and experience research and learn from our ongoing projects.”
 
+<div class="aside right">
+
+![Saad Shehab](/img/saad-shehab.png)
+
+![Carrie James](/img/carrie-james.png)
+
+![Sylvia Yang](/img/sylvia-yang.png)
+
+</div>
+
 ### Workshops
 
 Shehab and James recently conducted a workshop for teaching assistants in the College on how to incorporate design thinking in courses, and plan to offer similar workshops for C&I faculty. “We’re going to be having a number of instructor workshops run by the Siebel Center that people from the College of Education can attend that would give them a deeper dive into the components of integrating humancentered design into the classroom,” James says. The workshop training in human-centered design, says McCarthey, “works very well with the strategies we have in place for working with TAs to be prepared to work with preservice teachers.” The workshop training in human-centered design, says McCarthey, “works very well with the strategies we have in place for working with TAs to be prepared to work with preservice teachers.”
@@ -68,21 +78,4 @@ The working relationship between the College and SCD is having an impact on teac
 
 When educators teach with humancentered design, James says, “they will be better primed to carry out culturally-sustaining pedagogical practices that help create more equitable situations in schools and help promote social justice teaching and learning in schools as well.”
 
-<div class="aside right">
-![Saad Shehab](/img/saad-shehab.png)
-
-![Carrie James](/img/carrie-james.png)
-
-![Sylvia Yang](/img/sylvia-yang.png)
-
-</div>
-
-## A Growing Impact on Education
-
-The working relationship between the College and SCD is having an impact on teachers and students, and that impact promises to grow.
-
-“Teaching with human-centered design is very relevant and needed, especially these days where we’re trying to help educators be more inclusive and aware of students’ backgrounds to be able to create better learning experiences,” says Shehab.
-
-When educators teach with humancentered design, James says, “they will be better primed to carry out culturally-sustaining pedagogical practices that help create more equitable situations in schools and help promote social justice teaching and learning in schools as well.”
-
-“The processes of design thinking provide a flexible structure for people to collaboratively approach complex problems. The more we teach students about these processes, the more they will be equipped to solve problems anywhere in the future..” { .blockquote }
+**“The processes of design thinking provide a flexible structure for people to collaboratively approach complex problems. The more we teach students about these processes, the more they will be equipped to solve problems anywhere in the future..”** { .blockquote .clear }

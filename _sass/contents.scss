@@ -4,6 +4,7 @@
         text-align: center;
         color: $blue_base;
         font-size: 3.7em;
+        line-height: 1.3em;
         border-top: 3px solid $orange_base;
         border-bottom: 3px solid $orange_base;
         font-weight: bold;
@@ -21,17 +22,14 @@
         text-align: left;
         list-style: none;
         font-size: 1.3em;
+
         li {
             margin-bottom: 20px;
+            list-style: none;
         }
         a {
             text-decoration: none;
             font-weight: normal;
-            color: $orange_base;
-        }
-        a:hover, a:focus {
-            color: $blue_base;
-            transition: .5s;
         }
     }
 }

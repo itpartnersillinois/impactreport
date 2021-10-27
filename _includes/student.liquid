@@ -5,10 +5,12 @@
     </head>
     <body class="student {{ bodyClass }}">
         {% include menu.liquid %}
-        <main class="student il-formatted" style="background-image: url(../img/backgrounds/{{ backgroundImage }}); background-position: {{ backgroundPosition }};">
+        <main class="student il-formatted">
+        <div class="student-container" style="background-image: url(../img/backgrounds/{{ backgroundImage }}); background-position: {{ backgroundPosition }};">
         <div class="box {{ location }}">
             <h1>{{ pageTitle }}</h1>
             {{ content }}
+        </div>
         </div>
         </main>
     </body>
