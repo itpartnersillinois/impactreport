@@ -3,30 +3,14 @@
     <head>
         {% include head.liquid %}
     </head>
-    <body class="{{ bodyClass }} with">
+    <body class="{{ bodyClass }}">
         {% include menu.liquid %}
-        <main class="il-formatted">
-        <h1 class="visuallyhidden">pageTitle</h1>
-        <div class="main-wrapper">
-            <div class="information">
-                <h2>{{ tagline }}</h2>
-                <img src="/img/fundraising-goal.png" alt="Fundraising goal of 25 million with progress of 22.6 million, making it 90% met">
-                <div class="statistic-wrapper">
-                    {% for stat in stats %}
-                       <div>{{ stat | transformStat }}</div>
-                    {% endfor %}
-                </div>
-            </div>
-            <div class="investment">
-                {{ content }}
-            </div>
-        </div>
-        <div class="quote-wrapper">
-        <div class="blockquote">
-            "{{ quote }}"
-            <p class="byline">{{ quotebyline }}</p>
-        </div>
-        </div>
+        <main class="article il-formatted">
+        <div style="display: flex; align-items: center;">
+        <h1>{{ pageTitle | transformTitle: titleStart, titleEnd }}</h1>
+        <img src="/img/{{ headerimg }}" alt="{{ headerimgalt }}" style="padding-left: 50px;">
+        </div>        
+        {{ content }}
         </main>
     </body>
 </html>

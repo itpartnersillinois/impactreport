@@ -1,93 +1,72 @@
 [
     {
-        "image": "/img/faculty/cherie-avent.png",
-        "username": "cmavent",
-        "header": "Cherie Avent",
+        "image": "/img/new-scholars/ADEOYE-ADEYEMO.png",
+        "username": "adeyemo",
+        "header": "Adeoye Adeyemo",
+        "subheader": "Assistant Professor, Education Policy, Organization & Leadership",
+        "text": "Adeoye Adeyemo, a two-time degree alumnus of the University of Illinois Urbana-Champaign, received his Ph.D. from the University of Georgia in Social Foundations of Education. As a former collegiate scholar-athlete and proud Chicago native, he conducts research that examines the experiences, identities, aspirations, and perceptions of Black males who play sports in K-12 settings. Adeyemo’s future research endeavors will examine the experiences of female student-athletes and the experiences of Black male athletes in countries such as Nigeria and other African nations to more broadly engage these athletes in Science, Technology, Engineering, and Math (STEM) fields. Additionally, as part of the EPOL faculty, his research will address the mental health implications of participating in football and its impact on the social determinate of health."
+    },
+    {
+        "image": "/img/new-scholars/SHARON-LEE.png",
+        "username": "lee1",
+        "header": "Sharon Lee",
+        "subheader": "Teaching Assistant Professor, Education Policy, Organization & Leadership",
+        "text": "Sharon Lee, Ph.D., has worked in higher education administration for over 15 years in both academic and student affairs, with a special interest in teaching, advising, and supporting students. She served as the Ed.D. Online Program Manager for the College of Education from 2018-2021. Her research and teaching background is in higher education policy, educational foundations, issues of diversity, access, and equity, and campus climate. Lee is an alumna of the College of Education, earning her doctoral degree in Educational Policy Studies in 2010. Her dissertation, supported by a Spencer Foundation Dissertation Fellowship, examined the history of Asian American student activism at the University of Illinois Urbana-Champaign."
+    },
+    {
+        "image": "/img/new-scholars/JOSE-DEL-REAL-VIRAMONTES.png",
+        "username": "jdelreal",
+        "header": "José Del Real Viramontes",
+        "subheader": "Assistant Professor, Education Policy, Organization & Leadership",
+        "text": "José Del Real Viramontes is an assistant professor in the Higher Education/ Community College Leadership Program. He is also a faculty affiliate with Project Mentoring to Achieve Latino Educational Success (MALES) at the University of Texas at Austin. He holds a Ph.D. in Curriculum and Instruction with a specialization in Cultural Studies in Education from the University of Texas at Austin. As a former community college transfer student, Del Real Viramontes’ research explores the transfer receptive culture for Chicana/o/x and Latina/o/x community college transfer students at predominantly white institutions and highlights how these students navigate and negotiate the ideological, material, and structural conditions of the community college to four-year university transfer process."
+    },
+    {
+        "image": "/img/new-scholars/JINA-KANG.png",
+        "username": "jinakang",
+        "header": "Jina Kang",
+        "subheader": "Assistant Professor, Curriculum & Instruction",
+        "text": "Jina Kang earned a Ph.D. in Curriculum and Instruction from the University of Texas at Austin in 2017 with a concentration in Learning Technologies. Previously, Kang was an assistant professor in the Department of Instructional Technology and Learning Sciences at Utah State University. Her research lies in the field of data science both as a methodology and as a learning and teaching context, specifically in STEM disciplines. Her research applies data science to solve challenging issues of understanding complex and massive interaction data traced in digital learning environments and provide key evidence of students’ scientific skill building processes. Kang also explores how to teach students data science skills by designing DLEs that facilitate students’ development of data literacy, which ultimately supports STEM workforce preparation."
+    },
+    {
+        "image": "/img/new-scholars/JARRETT-LEWIS.png",
+        "username": "jtlewis",
+        "header": "Jarrett Lewis",
         "subheader": "Assistant Professor, Educational Psychology",
-        "text": "Cherie M. Avent received her Ph.D. in Educational Research, Measurement, and Evaluation from the University of North Carolina Greensboro. Prior to pursuing her doctorate, she taught at the Guilford Technical Community College in North Carolina. Cherie’s research focuses on issues related to social justice and communication in program evaluation, with particular focus on STEM evaluation and contexts serving underrepresented minorities. She has evaluated multiple education projects and programs funded by organizations such as the National Science Foundation, U.S. Department of Education, and the College Foundation of North Carolina. Cherie is also co-program chair of the American Evaluation Association STEM Education and Training Topical Interest Group. Cherie believes it is important to build a strong theoretical and methodological foundation that students can use to inform their practice while also promoting equity and democracy. "
+        "text": "Jarrett Lewis earned an M.A. and Ph.D. in Clinical Psychology from DePaul University in Chicago, Illinois. Prior to his studies at DePaul, Lewis attained an M.S. in Psychology from the University of Memphis and a bachelor’s degree in Psychology from Jackson State University in Jackson, Mississippi. His research agenda aims to delineate the mechanisms through which Black and/or African Americans experience and recover from psychological trauma in urban and under-resourced settings. He uses socioecological and developmental lenses to examine the interrelations among etiological factors that contribute to psychological problems and resilience following trauma exposure in African American boys and men. Before joining the College, Lewis completed a postdoctoral fellowship in Trauma Psychology at Rush University Medical Center."
     },
     {
-        "image": "/img/faculty/paul-bruno.png",
-        "username": "pbruno",
-        "header": "Paul Bruno",
+        "image": "/img/new-scholars/RACHEL-MCMILLIAN.png",
+        "username": "racheldm",
+        "header": "Rachel McMillian",
+        "subheader": "Assistant Professor, Curriculum & Instruction",
+        "text": "Rachel McMillian received her bachelor’s degree in History and Black World Studies and her master’s degree in Adolescent Social Studies Education from Miami University, Ohio. Likewise, she attained her Ph.D. in Educational Leadership at her alma mater. Most recently, McMillian was a high school social studies teacher in Cincinnati, Ohio, working with Miami University's Teacher Education Program to recruit and train high school students of color within Cincinnati who desire a career in teaching. Her scholarly research interests include Black education, Black Critical Theory, the civic identity development of Black youth, the schooling/educational experiences of incarcerated youth, and Black prison epistemologies and ontologies. "
+    },
+    {
+        "image": "/img/new-scholars/MALAIKA-MCKEE.png",
+        "username": "malaika",
+        "header": "Malaika McKee",
         "subheader": "Assistant Professor, Education Policy, Organization & Leadership",
-        "text": "Paul Bruno is a doctoral candidate studying Urban Education Policy at the University of Southern California (USC), where he also earned a master’s degree in Economics. His research uses quantitative methods to understand issues of school finance, resource allocation in schools, and new teacher personnel management. His work has been published in Educational Evaluation and Policy Analysis, Journal of Education Finance, American Educational Research Journal, and Educational Leadership. Prior to enrolling at USC, Paul taught middle school science in Oakland and Los Angeles, California. Before teaching, he received a master’s degree in Science and Math Education and bachelor’s degrees in Philosophy and Molecular Biology from the University of California, Berkeley. Paul grew up in the suburbs of Chicago, and now collaborates with his wife, a computer science education researcher."
+        "text": "Malaika McKee joins Education after most recently serving as visiting assistant professor in the College of Liberal Arts & Science’s Department of African American Studies. She was a 2020-2021 NCSA Faculty Fellow and is part of several interdisciplinary research collaborations across the Urbana campus. McKee is interested in how universities encourage civic engagement and how race and gender intersect the process. She investigates how race, space, and place express themselves in the built form and the physiological and is co-founder of the research lab De.SH(ie) [Designing Spaces of Hope (interiors and exteriors)]. McKee holds a Ph.D. in Educational Policy and Administration from the University of Minnesota and an Ed.M. with a concentration in Civic Engagement and Education from Harvard University."
     },
     {
-        "image": "/img/faculty/melissa-goodnight.png",
-        "username": "mrg",
-        "header": "Melissa Goodnight",
-        "subheader": "Assistant Professor, Educational Psychology",
-        "text": "Melissa R. Goodnight holds a Ph.D. in Comparative and International Education from the University of California Los Angeles (UCLA). Her research interests include monitoring and evaluation, qualitative and mixed methods research design, social justice theories, and writing pedagogy. Prior to UCLA, Melissa worked for the Urban Education Institute at the University of Chicago, where she managed and helped facilitate professional development programs for a network of 20 primary, middle, and secondary schools in Chicago. She is passionate about increasing educational access and quality for underserved and historically marginalized communities. Her recently published articles detail persisting social justice concerns within India’s K-12 school system and their implications for evaluation and research design."
+        "image": "/img/new-scholars/EMILY-TARCONISH.png",
+        "username": "ejt",
+        "header": "Emily Tarconish",
+        "subheader": "Teaching Assistant Professor, Special Education",
+        "text": "After completing her Ph.D. at the University of Connecticut, Emily Tarconish moved to the Midwest to start her position as a teaching assistant professor in the College of Education. In her previous roles as a vocational rehabilitation counselor and disability services professional, she worked with high school and college students with disabilities to help them learn about themselves, their abilities, and help them navigate postsecondary education and employment. This work directly influenced her research interests, which include how to make postsecondary environments, including higher education and employment settings accessible, as well as how to promote disability awareness and inclusive practices. Tarconish also studies the lived experiences of survivors of traumatic brain injuries (TBI) and develops interventions to provide access to this population."
     },
     {
-        "image": "/img/faculty/osly-flores.png",
-        "username": "ojflores",
-        "header": "Osly Flores",
-        "subheader": "Assistant Professor, Education Policy, Organization & Leadership",
-        "text": "Osly J. Flores received his Ed.D. in School Leadership in the Department of Administrative and Policy Studies in the School of Education at the University of Pittsburgh in 2017. His research interests focus on investigating and furthering research and practices of school leaders who move toward fairness and justice in leadership. Particular areas of research interest include race-conscious school leadership, school leaders of color, and ethical leadership. In addition, a second area of research interest is in higher education, specifically uncovering supportive practices toward graduate students of color. Prior to coming to Illinois, Osly served as an education specialist within the state of Massachusetts’ Department of Elementary and Secondary Education."
+        "image": "/img/new-scholars/ASIF-WILSON.png",
+        "username": "ajwilso1",
+        "header": "Asif Wilson",
+        "subheader": "Assistant Professor, Curriculum & Instruction",
+        "text": "Asif Wilson, Ph.D., is an assistant professor of Social Studies Education in the Department of Curriculum & Instruction. Wilson’s research broadly focuses on justice-centered pedagogies in P-20 educational contexts. More specifically, his scholarship explores how policies and social movement organizing shape justice-centered pedagogies, how teachers engage in, and conceptualize, justice-centered pedagogies, and how students experience justice-centered educational spaces. Wilson is a three-time alumnus from the University of Illinois Chicago, completing his bachelor’s degree in Elementary Education, master’s degree in Educational Studies, and doctorate in Curriculum and Instruction. He is actively involved in education organizing in Chicago and nationally with several groups."
     },
     {
-        "image": "/img/faculty/jon-hale.png",
-        "username": "jonhale2",
-        "header": "Jon Hale",
-        "subheader": "Associate Professor, Education Policy, Organization & Leadership",
-        "text": "Jon N. Hale earned his Ph.D. in Educational Policy Studies with a specialization in the History of Education from the University of Illinois at Urbana-Champaign in 2009. His research focuses on the history of student and teacher activism, education reform during the Civil Rights movement, and the intersection of race and progressivism in the social studies classroom. Jon’s other professional interests include the history of grassroots education reform efforts, the origins of school choice and neoliberal education policy, and the implementation of the Freedom School model. He is also interested in public, local, and oral history as a means to facilitate community engagement and educational reform. Jon’s research has been recognized through awards from the National Academy of Education, the Spencer Foundation, the American Educational Research Association, and the American Education Studies Association.   "
-    },
-    {
-        "image": "/img/faculty/hyun-sook-kang.png",
-        "username": "hka",
-        "header": "Hyun-Sook Kang",
-        "subheader": "Associate Professor, Education Policy, Organization & Leadership",
-        "text": "Hyun-Sook Kang joined the College of Education in Spring 2020, teaching qualitative and mixed-methods research methods and contributing to student mentoring in the Global Studies in Education and Diversity and Equity programs within the Department of EPOL. After earning her Ph.D. in Educational Linguistics from the University of Pennsylvania, she was on the faculty in the Linguistics Department at Illinois, Illinois State University, and the University of Texas at San Antonio. Hyun’s research interests center on language learning and practice in relation to global mobility, such as immigration and study abroad. Her works have appeared in several international peer-reviewed journals and she is currently serving as Co-editor of Journal of Language, Identity, and Education."
-    },
-    {
-        "image": "/img/faculty/samantha-lindgren.png",
-        "username": "salindgr",
-        "header": "Samantha Lindgren",
-        "subheader": "Assistant Professor, Education Policy, Organization & Leadership",
-        "text": "Samantha Bonnell Lindgren received her doctorate in Agricultural and Biological Engineering from the Grainger College of Engineering at Illinois. Her research examines the role of education for sustainable development and the agentive capacity of youth in international engineering. Her current work is funded by the Link Foundation and is focused on the impact of youth-oriented sustainability education on communities in rural Namibia, and the involvement of youth in a USAID-agriculture project in Cambodia. Samantha is affiliated faculty in the College of Engineering’s Technology Entrepreneurship Center where she will also be teaching. Previously, she was a secondary science teacher before joining the College of Education in 2013 as the Coordinator of STEM Teacher Development in the Office for Mathematics, Science, and Technology Education (MSTE)."
-    },
-    {
-        "image": "/img/faculty/curtis-mason.png",
-        "username": "masonc",
-        "header": "Curtis Mason",
-        "subheader": "Teaching Associate Professor, Education Policy, Organization & Leadership",
-        "text": "Curtis Mason received his Ph.D. in Cultural and Educational Policy Studies at Loyola University, Chicago. Curtis received his bachelor’s degree in English from Truman State University and his master’s in Education from the University of Missouri-Kansas City. He worked as a high school English teacher in Excelsior Springs, Missouri, and as a middle school instructor in Raytown, Missouri. He has also taught courses at Benedictine College, University of Missouri-Kansas City, and Loyola University-Chicago. Curtis’ main research areas are the history of American education and education policy. He is most interested in the rhetoric surrounding educational change, especially in early- and mid-twentieth century American educational policies. "
-    },
-    {
-        "image": "/img/faculty/jennifer-nelson.png",
-        "username": "jln2115",
-        "header": "Jennifer Nelson",
-        "subheader": "Assistant Professor, Education Policy, Organization & Leadership",
-        "text": "Jennifer L. Nelson is an organizational sociologist who studies schools as workplaces for teachers and principals. After completing her Ph.D. in Sociology at Emory University in 2018, she worked as an IES postdoctoral fellow at Vanderbilt University’s Peabody College. Jennifer uses field research methods to investigate how aspects of the organizational environment, such as demographic composition of teaching faculty, spatial arrangements in the workplace, and the principal’s leadership practices shape teachers’ coworker support and relationships. Her other research examines urban teachers’ job reward bundles as predictors of turnover, early childhood teachers’ identity strategies for safeguarding dignity at work, the role of organizational justice in predicting teacher trust, and determinants of state-level adoption of alternative teacher certification laws."
-    },
-    {
-        "image": "/img/faculty/erica-mason.png",
-        "username": "enmason",
-        "header": "Erica Mason",
-        "subheader": "Assistant Professor, Special Education",
-        "text": "Erica N. Mason earned her Ph.D. from the University of Missouri in 2020. She completed her bachelor’s degree in Communication at William Jewell College and her master’s in Special Education at Loyola University, Chicago. Erica is an interdisciplinary thinker who enjoys working between the fields of special education and mathematics education. At Missouri, she had to opportunity to collaborate on an NSF-funded research project at the intersection of these two areas. Erica’s work is aimed at understanding teachers’ views of their students as mathematically capable, and especially how those views get translated into opportunities for students with disabilities to engage in rigorous mathematical activity."
-    },
-    {
-        "image": "/img/faculty/amber-ray.png",
-        "username": "amberray",
-        "header": "Amber Ray",
-        "subheader": "Assistant Professor, Special Education",
-        "text": "Amber B. Ray, Ph.D., joins the Department of Special Education from the University of Hawaii. Her research interests include writing and reading interventions and instruction to help students with disabilities and diverse learning needs succeed. Her research focuses on strategy and self-regulation approaches to instruction and methods of professional development for teachers and school leaders on effective writing and reading instruction. She has experience teaching students with learning disabilities, autism, intellectual disabilities, and emotional and behavioral disorders. Amber received her doctorate in Learning, Literacies, and Technologies specializing in Special Education from Arizona State University."
-    },
-    {
-        "image": "/img/faculty/patrick-rice.png",
-        "username": "price44",
-        "header": "Patrick Rice",
-        "subheader": "Clinical Assistant Professor, Education Policy, Organization & Leadership",
-        "text": "Patrick L. Rice brings years of diverse administrative expertise to the Department of EPOL. He was the former Field Services/Equity Director for the Illinois Association of School Boards for almost a decade. From 2006-2010, Patrick was an adjunct professor for McKendree College in Lebanon, Illinois, and building principal for the Mount Vernon City Schools, District 80. In addition, he was a building administrator for Danville School District 118 and East St. Louis School District 189. Prior to becoming an administrator, Patrick taught U.S. History for East St. Louis District 189 and Springfield Public School District 186. He is the author of three best-selling books: Equity, From the Boardroom to the Classroom; Vanishing School Boards; and The Essential Quick Flip Reference Guide for School Board Members, and over 25 professional publications in the areas of school governance, equity, leadership, and parental/community involvement."
-    },
-    {
-        "image": "/img/faculty/rebecca-taylor.png",
-        "username": "rmt",
-        "header": "Rebecca Taylor",
-        "subheader": "Assistant Professor, Education Policy, Organization & Leadership",
-        "text": "Rebecca M. Taylor was an assistant professor of education at Suffolk University, where she investigated the ethics of higher education policy and practice and taught courses in higher education administration and community engagement. Previously, she was a postdoctoral fellow and director of the Ethically Engaged Leaders Program at Emory University’s Center for Ethics and worked on college access for justice-involved students as a Research Associate in the Stanford Criminal Justice Center (SCJC) at Stanford Law School. Rebecca holds a doctoral degree in Education from Stanford University, a master’s degree in Peace, Conflict, and Development Studies from Universitat Jaume I, and a bachelor’s degree with honors in Mathematics and Philosophy from Washington University, St. Louis. Rebecca’s commitment to educational justice manifests in her scholarship on ethics and justice in educational policy and practice.     "
+        "image": "/img/new-scholars/KARY-ZARATE.png",
+        "username": "kzarat2",
+        "header": "Kary Zarate",
+        "subheader": "Teaching Assistant Professor, Special Education",
+        "text": "Kary Zarate received her Ph.D. in Special Education from the University of Illinois Chicago. Through her teaching and research, Zarate’s work centers on improving educational outcomes for students with significant emotional, behavioral, and cognitive needs through personnel preparation. This includes teaching pre-service educators’ evidence-based practices, methods in which to efficiently and effectively manage collaborative teams, and the training of special education paraprofessionals. Her research examines effective methods of paraprofessional development targeted at improved emotional, behavioral, and academic outcomes for students with individualized education plans. Zarate believes in breaking down barriers for all learners and works diligently to dismantle systems of oppression."
     }
 ]

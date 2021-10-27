@@ -1,44 +1,44 @@
-/* Blockquote main style */
-.blockquote {
-    position: relative;
-    padding: 30px 0;
-    width: 100%;
-    font-size: 1.25em;
-    margin: 10px auto 80px auto;
-    border-top: solid 1px $orange_base;
-    border-bottom: solid 1px $orange_base;
+.il-formatted {
+    /* Blockquote main style */
+    .blockquote {
+        position: relative;
+        padding: 30px 0;
+        width: 100%;
+        font-size: 1.25em;
+        margin: 10px auto 80px auto;
+        border-top: solid 1px $orange_base;
+        border-bottom: solid 1px $orange_base;
 
-    &.nolines
-    {
-        border: none;
-        font-size: 1em;
+        &.nolines {
+            border: none;
+            font-size: 1em;
+        }
+    }
+
+    /* Blockquote header */
+    .blockquote div {
+        position: relative;
+        font-size: 40px;
+        font-weight: 800;
+        line-height: 1;
+        margin: 0;
+    }
+
+    /* Blockquote right double quotes */
+    .blockquote:after {
+        position: absolute;
+        content: "”";
+        color: $orange_base;
+        font-size: 10rem;
+        line-height: 0;
+        bottom: -43px;
+        right: 30px;
+        font-weight: bold;
     }
 }
-
-/* Blockquote header */
-.blockquote div {
-    position: relative;
-    font-size: 40px;
-    font-weight: 800;
-    line-height: 1;
-    margin: 0;
-}
-
-/* Blockquote right double quotes */
-.blockquote:after {
-    position: absolute;
-    content: "”";
-    color: $orange_base;
-    font-size: 10rem;
-    line-height: 0;
-    bottom: -43px;
-    right: 30px;
-    font-weight: bold;
-}
-
 /* increase header size after 600px */
 @media all and (min-width: 600px) {
-    .blockquote div {
+    .il-formatted .blockquote div {
         font-size: 60px;
-   }
+    }
 }

@@ -1,14 +1,16 @@
 body.nofade .splash .full {
+    padding-top: 200px;
     background: none;
 }
 
 body.centered .splash .full {
-    padding: 0 15vw;
+    padding: 200px 15vw 0 15vw;
     font-size: 2em;
 }
 
 body.narrow .splash .full .stats {
     max-width: 800px;
+    padding-top: 200px;
     margin: auto;
 }
 
@@ -53,6 +55,7 @@ body.top-background .splash {
             font-family: 'Fjalla One', sans-serif;
             color: white;
             line-height: normal;
+            margin-top: 80px;
         }
 
         .stats {
