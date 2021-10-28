@@ -128,7 +128,7 @@ module.exports = (function (eleventyConfig) {
         <a href="/index.html#toc">Home</a>
       </il-nav-link>
       <il-nav-link>
-        <a href="/${menu[1].url}/index.html">Next Story</a>
+        <a href="/${menu[1].url}/index.html">Next</a>
       </il-nav-link>${fulllist}`;
       }
       else if (returnValue == menu.length - 1) {
@@ -136,17 +136,17 @@ module.exports = (function (eleventyConfig) {
           <a href="/index.html#toc">Home</a>
         </il-nav-link>
         <il-nav-link>
-          <a href="/${menu[menu.length - 2].url}/index.html">Previous Story</a>
+          <a href="/${menu[menu.length - 2].url}/index.html">Back</a>
         </il-nav-link>${fulllist}`;
       } else {
         return `<il-nav-link>
           <a href="/index.html#toc">Home</a>
         </il-nav-link>
         <il-nav-link>
-          <a href="/${menu[returnValue - 1].url}/index.html">Previous Story</a>
+          <a href="/${menu[returnValue - 1].url}/index.html">Back</a>
         </il-nav-link>
         <il-nav-link>
-          <a href="/${menu[returnValue + 1].url}/index.html">Next Story</a>
+          <a href="/${menu[returnValue + 1].url}/index.html">Next</a>
         </il-nav-link>${fulllist}`;
       }
   });
