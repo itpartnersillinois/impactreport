@@ -23,6 +23,8 @@ Alexander, by the way, had a similar string: His expert testimony helped win not
 
 ## Book and Journal Stand the Test of Time
 
+![American Public School Law](/img/american-public-school-law-book.png){ .top-right } 
+
 A former athlete—he was a quarterback for a small college team and was named Honorable Mention All-American—he still looks trim and fit. He spends his mornings writing, his afternoons teaching, and his evenings reading. He teaches courses in public school law and finance, and higher education law and finance. He uses his own books in his courses, and he has plenty to choose from. Over the years, he has authored, coauthored, or edited 30 books, including the seminal American Public School Law.
 
 The book is in its ninth edition, the last six of which have been coauthored with Alexander’s brother, M. David Alexander. This 1,386-page tome was first published in 1969—back when Neil Armstrong was leaving footprints on the moon and Woodstock was attracting 350,000 to its music festival—and has stood the test of time. American Public School Law came out with its latest edition in 2019, shows no signs of slowing down, and is known as the gold-medal standard for teaching education law.
@@ -90,5 +92,3 @@ With as much fondness, Alexander recalls the success he contributed to in suing 
 It’s possible that the former attorney general of Tennessee, given the chance, would no longer call Kern Alexander “boring.” But Alexander, in his selfeffacing way, shies away from praise.
 
 “If you live long enough you can do a lot of things,” he says. “I’ve done a lot of stuff and done some of it right.”
-
-![American Public School Law](/img/american-public-school-law-book.png){ .top-left } American Public School Law has set the standard for books in the field of education law for 50 years. The book is in its 9th edition. { .small }
