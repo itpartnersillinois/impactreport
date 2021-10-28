@@ -18,15 +18,15 @@ Now, campus and community collaborators have that central point person in Stone,
 
 ## Helping Middle Schoolers Become Global Citizens
 
-The launch of the College of Education’s I-Global program was a complete success for all 195 participants—middle school students from 11 countries, preservice teachers, and graduate students.
+![Janine Soldberg](/img/janine-soldberg.png){ .top-right } The launch of the College of Education’s I-Global program was a complete success for all 195 participants—middle school students from 11 countries, preservice teachers, and graduate students.
 
 Cultural sharing and understanding is at the heart of I-Global, which is designed to help middle schoolers from around the world become global citizens and to give preservice teachers the opportunity to teach students from various cultures. The curriculum is based on the United Nations’ Sustainable Development Goals. Students work on projects within their own group, then share online with I-Global students from other countries.
 
-The overall shared global experience and letting young people show us their plans for the future was absolutely inspiring. I think the experience opened their eyes to a bigger world, and also to their own personal goals. They will hopefully make decisions going forward that will benefit not only themselves, but the rest of the world, because they’ve started thinking about things on this global citizenship level.”
+**"The overall shared global experience and letting young people show us their plans for the future was absolutely inspiring. I think the experience opened their eyes to a bigger world, and also to their own personal goals. They will hopefully make decisions going forward that will benefit not only themselves, but the rest of the world, because they’ve started thinking about things on this global citizenship level.” — Janine Soldberg, veteran teacher and EPOL doctoral student** { .blockquote .clear }
 
 ## New Initiative Brings Asian American Authors to Schools
 
-In a virtual visit to University Primary School in May, a Chinese American author read from her latest picture book and shared how she grappled with feeling different growing up in a small Ohio town.
+![Wei Lui](/img/research-recognition/wei-lui.png){ .top-left } In a virtual visit to University Primary School in May, a Chinese American author read from her latest picture book and shared how she grappled with feeling different growing up in a small Ohio town.
 
 “I had fun as a kid, but I also remember feeling like I didn’t belong,” Andrea Wang said, showing a picture of her second-grade yearbook. 
 
@@ -47,6 +47,8 @@ The initiative’s first steps began with a talk on Asian American history and v
 In addition to developing an Asian American history curriculum, Liu said the initiative hopes to continue the author talks next school year.
 
 ## Early Childhood Education Consortium Plan by Pacione-Zayas Signed into Law
+
+![Little girl raising her hand](/img/consortium.png){ .full }
 
 A wide-ranging new plan to bolster the early childhood education workforce in Illinois by creating a new Early Childhood Education Consortium was signed into law Wednesday, the result of legislation championed by College of Education alumna **State Senator Cristina Pacione-Zayas,** Ed.M. EPOL '03, Ph.D. EPOL '09 (D-Chicago).
 
