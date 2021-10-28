@@ -8,6 +8,7 @@
 
     &.wide {
         grid-template-columns: repeat(auto-fit,450px);
+        justify-content: center;
     }
 
     &.extrawide {
@@ -32,6 +33,7 @@
     
     &.text {
         text-align: left;
+        
 
         li {
             background: $cloud_base;
@@ -55,6 +57,23 @@
 
             p {
                 padding: 0 10px;
+            }
+        }
+    }
+
+    &.outreach {
+        background: #0077BE;
+
+        li {
+            background: #0077BE;
+            color: white;
+            padding: 30px;
+
+            a {
+                color: white;
+            }
+            a:focus, a:hover {
+                color:  var(--il-cloud-3);
             }
         }
     }
