@@ -74,6 +74,13 @@ body.center-title h1 {
             float: right;
             padding: 0 0 30px 30px;
         }
+
+        &.circle {
+            width: 200px;
+            margin: 60px auto auto auto;
+            display: block;
+            border-radius: 50%;
+        }
     }
 
     .aside {

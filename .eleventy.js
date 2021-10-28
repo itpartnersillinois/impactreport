@@ -88,7 +88,7 @@ module.exports = (function (eleventyConfig) {
 
 
   eleventyConfig.addFilter("transformOutreach", function (item) {
-    var returnValue = '<ul class="imagegrid text">';
+    var returnValue = '<ul class="imagegrid wide text outreach">';
     item.forEach(element => {
       returnValue = returnValue + `<li><a href="${element.link}">${element.title}</a> ${element.description}</li>`;
     });
