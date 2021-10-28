@@ -44,7 +44,12 @@ module.exports = (function (eleventyConfig) {
   eleventyConfig.addFilter("transformListWithImagesSimple", function (item) {
     var returnValue = '<ul class="imagelist">';
     item.forEach(element => {
-      returnValue = returnValue + `<li><a href="https://education.illinois.edu/faculty/${element.username}"><img class="simple" src="${element.image}" alt="${element.header}"></a><p><a href="https://education.illinois.edu/faculty/${element.username}"><span style="font-weight: bold;">${element.header}</span></a>, ${element.text}</li>`;
+      var imageClass = element.doubleimage ? 'simple double' : 'simple';
+      if (element.username == '') {
+        returnValue = returnValue + `<li><img class="${imageClass}" src="${element.image}" alt="${element.header}"><p>${element.text}</p></li>`;
+      } else {
+        returnValue = returnValue + `<li><a href="https://education.illinois.edu/faculty/${element.username}"><img class="${imageClass}" src="${element.image}" alt="${element.header}"></a><p><a href="https://education.illinois.edu/faculty/${element.username}"><span style="font-weight: bold;">${element.header}</span></a>, ${element.text}</p></li>`;
+      }
     });
     returnValue = returnValue + '</ul>';
     return returnValue;
@@ -53,7 +58,11 @@ module.exports = (function (eleventyConfig) {
   eleventyConfig.addFilter("transformGridWithImagesSimple", function (item) {
     var returnValue = '<ul class="imagegrid text">';
     item.forEach(element => {
-      returnValue = returnValue + `<li><a href="https://education.illinois.edu/faculty/${element.username}"><img src="${element.image}" alt="${element.header}"></a><p><a href="https://education.illinois.edu/faculty/${element.username}"><span style="font-weight: bold;">${element.header},</span></a> ${element.text}</p></li>`;
+      if (element.username == '') {
+        returnValue = returnValue + `<li><img src="${element.image}" alt="${element.header}"><p>${element.text}</p></li>`;
+      } else {
+        returnValue = returnValue + `<li><a href="https://education.illinois.edu/faculty/${element.username}"><img src="${element.image}" alt="${element.header}"></a><p><a href="https://education.illinois.edu/faculty/${element.username}"><span style="font-weight: bold;">${element.header},</span></a> ${element.text}</p></li>`;
+      }
     });
     returnValue = returnValue + '</ul>';
     return returnValue;
@@ -102,13 +111,15 @@ module.exports = (function (eleventyConfig) {
       return '';
     }
     var returnValue = 0;
-    var fulllist = '<il-nav-section><a href="/" slot="label">Full List</a><ul class="il-subnav">';
+    var fulllist = '<il-nav-section><a href="/index.html" slot="label">Stories</a><ul class="il-subnav">';
     var i = 0;
     menu.forEach(item => {
       if (item.url === url) {
         returnValue = i;
       } 
-      fulllist = fulllist + `<li><a href="/${menu[i].url}/index.html">${menu[i].title}</a></li>`
+      if (i % 3 == 0) {
+        fulllist = fulllist + `<li><a href="/${menu[i].url}/index.html">${menu[i].title}</a></li>`
+      }
       i++;
     });
     fulllist = fulllist + '</ul></il-nav-section>';

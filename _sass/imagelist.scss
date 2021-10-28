@@ -1,5 +1,6 @@
 ul.imagelist {
     list-style: none;
+    padding-top: 40px;
 
     li {
         clear: both;
@@ -15,6 +16,12 @@ ul.imagelist {
 
             &.simple {
                 width: 100px;
+                padding-right: 15px;
+                padding-top: 8px;
+                padding-bottom: 3px;
+            }
+            &.simple.double {
+                width: 215px;
             }
         }
 
