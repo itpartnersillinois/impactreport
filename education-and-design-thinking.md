@@ -56,15 +56,7 @@ SCD offers College of Education of graduate students “authentic research exper
 
 In the summer of 2019, SCD hosted a virtual internship program with about 25 students from various colleges on campus, including Education. “I also worked with three interns from the College of Education on how to conduct literature reviews and things like that,” Shehab says. “The Center provides a nice environment for people to work with us and experience research and learn from our ongoing projects.”
 
-<div class="aside right">
-
-![Saad Shehab](/img/saad-shehab.png)
-
-![Carrie James](/img/carrie-james.png)
-
-![Sylvia Yang](/img/sylvia-yang.png)
-
-</div>
+![Sylvia Yang](/img/headshots-row.png) { .full }
 
 ### Workshops
 
