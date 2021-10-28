@@ -99,6 +99,7 @@ body.center-title h1 {
         grid-template-columns: repeat(auto-fit, 400px);
         text-align: center;
         justify-content: space-evenly;
+        padding-left: 0;
 
         li {
             padding: 1vw;
@@ -109,6 +110,30 @@ body.center-title h1 {
 
             span {
                 font-size: 8rem;
+                font-weight: bold;
+                display: block;
+                color: $orange_base;
+                line-height: initial;
+            }
+        }
+    }
+
+    .stats-small {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, 300px);
+        text-align: center;
+        justify-content: space-evenly;
+        padding-left: 0;
+
+        li {
+            padding: 1vw;
+            font-size: 1.25em;
+            text-align: center;
+            list-style: none;
+            margin: 0;
+
+            span {
+                font-size: 6rem;
                 font-weight: bold;
                 display: block;
                 color: $orange_base;
