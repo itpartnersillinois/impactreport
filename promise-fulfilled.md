@@ -5,6 +5,8 @@ byline: by Tom Hanlon
 url: promise-fulfilled
 
 ---
+![Anne Byrd and James Anderson posing](/img/promise-fulfilled.jpg){ .top-left }
+
 Anderson's nearly five decades of academic excellence and leadership has fulfilled what he calls “a moral obligation to succeed” and honors the sacrifices of his mother and grandmother. { .large }
 
 James D. Anderson has spent nearly five decades in leadership positions in education. Among his numerous publications is a book, The Education of Blacks in the South, 1860-1935, that won the American Educational Research Association (AERA) Outstanding Book Award. In 2020 he received the AERA’s highest honor, a Presidential Citation. Anderson was elected to the National Academy of Education, considered the highest honor in the field of educational scholarship. He has served as an expert witness in a series of federal desegregation and affirmative action cases, and as an advisor for and participant in several PBS documentaries. He has garnered numerous honors at the University of Illinois, among them his selection as a Presidential Fellow. He became dean of the College of Education in 2017 after serving for nearly a quarter century as department head for EPOL.
@@ -26,6 +28,8 @@ Eutaw was the site of racial terrorism in the years following the Civil War, cul
 Against that violent and oppressive backdrop, Anderson’s grandmother, born in Alabama to slaves, was intimidated from going to school, and never went. His mother, Annie Byrd, was forced to stop her education after ninth grade. That was, at the time, the farthest the county allowed Black students to go.
 
 “That gives you a sense of the place my grandmother and mother were born in,” Anderson says. “You just wonder what their lives might have been like if they’d been able to get a good education and advance themselves.”
+
+![Anne Byrd](/img/promise-fulfilled-side.jpg){ .top-right }
 
 Anderson’s grandmother determined that her daughter would go as far in school as she could. Annie Byrd did that. Annie, a single mother, was bent on her four boys going farther than she did. They all did that. 
 
