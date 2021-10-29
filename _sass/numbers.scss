@@ -1,8 +1,10 @@
 .numbers {
+    padding: 220px 0 50px 0;
 
-    padding: 50px;
-    max-width: 1200px;
-    margin: auto;
+    .numbers-width {
+        max-width: var(--il-content-max-width);
+        margin: auto;
+    }
 
     .number-grid {
         display: flex;
@@ -14,29 +16,24 @@
     }
     
     h1 {
-        font-family: "Fjalla One", sans-serif;
+        font-family: "Fjalla One",sans-serif;
         font-size: calc(2em + 2.5vw);
-        margin-bottom: 0;
-        padding-top: 1em;
+        line-height: calc(1em + 2.5vw);
         font-weight: normal;
         text-transform: uppercase;
         color: $blue_base;
     }
 
     p.tagline {
-        font-size: calc(1em + 1.25vw);
+        font-size: calc(1rem + 1.25vw);
+        line-height: calc(1.75rem + 1.75vw);
     }
 
     h2 {
-        background-color: $blue_base;
+        background-color: var(--il-blue);
         color: white;
-        border-bottom: thin solid $blue_base;
+        border-bottom: thin solid var(--il-blue);
         padding: 10px 20px;
-        margin: 2em 0;
-    }
-
-    p {
-        line-height: 1.8em;
     }
 
     li {
@@ -53,14 +50,15 @@
 
         li {
             padding: 1vw;
-            font-size: 1em;
             line-height: initial;
+            list-style: none;
+            text-align: center;
 
             span {
-                font-size: 4em;
+                font-size: 8.25rem;
                 font-weight: bold;
                 display: block;
-                color: $orange_base;
+                color: var(--il-orange);
             }
         }
     }

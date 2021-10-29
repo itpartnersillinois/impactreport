@@ -1,35 +1,53 @@
 ul.imagelist {
     list-style: none;
-    padding-left: 1em;
+    padding-top: 40px;
 
     li {
         clear: both;
         margin-bottom: 50px;
+        list-style: none;
+        margin-left: 0;
 
         img {
             float: left;
-            padding-right: 15px;
+            padding-right: 45px;
             padding-bottom: 15px;
             width: 300px;
 
             &.simple {
                 width: 100px;
+                padding-right: 15px;
+                padding-top: 8px;
+                padding-bottom: 3px;
+            }
+            &.simple.double {
+                width: 215px;
             }
         }
 
         .header {
-            font-size: 2em;
+            font-size: 2.5rem;
             font-weight: bold;
             color: $orange_base;
             margin-bottom: 0;
         }
 
         .subheader {
-            font-size: 1em;
+            font-size: 1.25rem;
             font-weight: bold;
             border-bottom: thin solid $orange_base;
-            padding-bottom: 1em;
+            padding: 1rem 0;
             margin-top: 0;
+        }
+    }
+}
+
+@media only screen and (min-width: 1100px) {
+    ul.imagelist {
+        li {
+            img {
+                padding-bottom: 95px;
+            }
         }
     }
 }

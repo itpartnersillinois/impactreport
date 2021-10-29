@@ -1,19 +1,23 @@
+.il-formatted {
 a.button {
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     display: block;
     padding: .75em 1em;
-    background: $orange_base;
+    background: var(--il-orange);
     color: #fff;
     text-align: center;
     text-decoration: none!important;
     border: 2px solid transparent;
     margin: 40px 10%;
-    font-size: 1.5em;
+    font-size: 1.5rem;
+    font-weight: 700;
     font-family: Montserrat,sans-serif;
 }
 
 a.button:hover, a.button:focus {
     color: #fff;
-    background: $blue_base;
+    background: var(--il-blue);
+    transition: background-color .3s;
+}
 }

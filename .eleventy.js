@@ -35,7 +35,7 @@ module.exports = (function (eleventyConfig) {
   eleventyConfig.addFilter("transformListWithImages", function (item) {
     var returnValue = '<ul class="imagelist">';
     item.forEach(element => {
-      returnValue = returnValue + `<li><a href="https://education.illinois.edu/faculty/${element.username}"><img src="/archive2020${element.image}" alt="${element.header}"></a><p class="header"><a href="https://education.illinois.edu/faculty/${element.username}">${element.header}</a></p><p class="subheader">${element.subheader}</p>${element.text}</li>`;
+      returnValue = returnValue + `<li><a href="https://education.illinois.edu/faculty/${element.username}"><img src="${element.image}" alt="${element.header}"></a><p class="header"><a href="https://education.illinois.edu/faculty/${element.username}">${element.header}</a></p><p class="subheader">${element.subheader}</p>${element.text}</li>`;
     });
     returnValue = returnValue + '</ul>';
     return returnValue;
@@ -44,7 +44,12 @@ module.exports = (function (eleventyConfig) {
   eleventyConfig.addFilter("transformListWithImagesSimple", function (item) {
     var returnValue = '<ul class="imagelist">';
     item.forEach(element => {
-      returnValue = returnValue + `<li><a href="https://education.illinois.edu/faculty/${element.username}"><img class="simple" src="/archive2020${element.image}" alt="${element.header}"></a><p><a href="https://education.illinois.edu/faculty/${element.username}"><span style="font-weight: bold;">${element.header}</span></a>, ${element.text}</li>`;
+      var imageClass = element.doubleimage ? 'simple double' : 'simple';
+      if (element.username == '') {
+        returnValue = returnValue + `<li><img class="${imageClass}" src="${element.image}" alt="${element.header}"><p>${element.text}</p></li>`;
+      } else {
+        returnValue = returnValue + `<li><a href="https://education.illinois.edu/faculty/${element.username}"><img class="${imageClass}" src="${element.image}" alt="${element.header}"></a><p><a href="https://education.illinois.edu/faculty/${element.username}"><span style="font-weight: bold;">${element.header}</span></a>, ${element.text}</p></li>`;
+      }
     });
     returnValue = returnValue + '</ul>';
     return returnValue;
@@ -53,7 +58,11 @@ module.exports = (function (eleventyConfig) {
   eleventyConfig.addFilter("transformGridWithImagesSimple", function (item) {
     var returnValue = '<ul class="imagegrid text">';
     item.forEach(element => {
-      returnValue = returnValue + `<li><a href="https://education.illinois.edu/faculty/${element.username}"><img src="/archive2020${element.image}" alt="${element.header}"></a><p><a href="https://education.illinois.edu/faculty/${element.username}"><span style="font-weight: bold;">${element.header},</span></a> ${element.text}</p></li>`;
+      if (element.username == '') {
+        returnValue = returnValue + `<li><img src="${element.image}" alt="${element.header}"><p>${element.text}</p></li>`;
+      } else {
+        returnValue = returnValue + `<li><a href="https://education.illinois.edu/faculty/${element.username}"><img src="${element.image}" alt="${element.header}"></a><p><a href="https://education.illinois.edu/faculty/${element.username}"><span style="font-weight: bold;">${element.header},</span></a> ${element.text}</p></li>`;
+      }
     });
     returnValue = returnValue + '</ul>';
     return returnValue;
@@ -62,7 +71,7 @@ module.exports = (function (eleventyConfig) {
   eleventyConfig.addFilter("transformGridWithImages", function (item) {
     var returnValue = '<ul class="imagegrid">';
     item.forEach(element => {
-      returnValue = returnValue + `<li><a href="https://education.illinois.edu/faculty/${element.url}"><img src="/archive2020${element.image}" alt="${element.header}"></a><p><a href="https://education.illinois.edu/faculty/${element.url}">${element.header},</a> ${element.subheader}</p></li>`;
+      returnValue = returnValue + `<li><a href="https://education.illinois.edu/faculty/${element.url}"><img src="${element.image}" alt="${element.header}"></a><p><a href="https://education.illinois.edu/faculty/${element.url}">${element.header},</a> ${element.subheader}</p></li>`;
     });
     returnValue = returnValue + '</ul>';
     return returnValue;
@@ -79,7 +88,7 @@ module.exports = (function (eleventyConfig) {
 
 
   eleventyConfig.addFilter("transformOutreach", function (item) {
-    var returnValue = '<ul class="imagegrid text">';
+    var returnValue = '<ul class="imagegrid wide text outreach">';
     item.forEach(element => {
       returnValue = returnValue + `<li><a href="${element.link}">${element.title}</a> ${element.description}</li>`;
     });
@@ -94,5 +103,51 @@ module.exports = (function (eleventyConfig) {
     });
     returnValue = returnValue + '</ul>';
     return returnValue;
+  });
+
+  
+  eleventyConfig.addFilter("transformMenu", function (url, menu) {
+    if (url == '') {
+      return '';
+    }
+    var returnValue = 0;
+    var fulllist = '<il-nav-section><a href="/index.html" slot="label">Stories</a><ul class="il-subnav">';
+    var i = 0;
+    menu.forEach(item => {
+      if (item.url === url) {
+        returnValue = i;
+      } 
+      if (i % 3 == 0) {
+        fulllist = fulllist + `<li><a href="/${menu[i].url}/index.html">${menu[i].title}</a></li>`
+      }
+      i++;
+    });
+    fulllist = fulllist + '</ul></il-nav-section>';
+    if (returnValue == 0) {
+      return `<il-nav-link>
+        <a href="/index.html#toc">Home</a>
+      </il-nav-link>
+      <il-nav-link>
+        <a href="/${menu[1].url}/index.html">Next</a>
+      </il-nav-link>${fulllist}`;
+      }
+      else if (returnValue == menu.length - 1) {
+        return `<il-nav-link>
+          <a href="/index.html#toc">Home</a>
+        </il-nav-link>
+        <il-nav-link>
+          <a href="/${menu[menu.length - 2].url}/index.html">Back</a>
+        </il-nav-link>${fulllist}`;
+      } else {
+        return `<il-nav-link>
+          <a href="/index.html#toc">Home</a>
+        </il-nav-link>
+        <il-nav-link>
+          <a href="/${menu[returnValue - 1].url}/index.html">Back</a>
+        </il-nav-link>
+        <il-nav-link>
+          <a href="/${menu[returnValue + 1].url}/index.html">Next</a>
+        </il-nav-link>${fulllist}`;
+      }
   });
 });

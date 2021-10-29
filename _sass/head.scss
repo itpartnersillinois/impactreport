@@ -3,15 +3,6 @@ body {
     padding: 0;
 }
 
-p,
-h1,
-h2,
-h3,
-h4,
-li {
-    font-family: "Montserrat", sans-serif;
-}
-
 ul.no-bullets {
     list-style: none;
     padding-left: 1em;
@@ -27,8 +18,8 @@ ul.no-bullets {
     border-top: 2px solid $orange_base;
 }
 
-
-.xx-large {
+.il-formatted {
+p.xx-large, ul.xx-large, li.xx-large, div.xx-large {
     font-size: 2.5em;
 }
 
@@ -36,8 +27,9 @@ ul.no-bullets {
     font-size: 1.5em;
 }
 
-.large {
-    font-size: 1.25em;
+p.large, div.large, ul.large, li.large {
+    font-size: 1.65em;
+    font-weight: 700;
 }
 
 .small {
@@ -60,20 +52,6 @@ ul.no-bullets {
     font-weight: bold;
 }
 
-main {
-    margin-top: 72px;
-}
-
-a {
-    text-decoration: none;
-    font-weight: bold;
-    color: $orange_base;
-}
-a:hover, a:focus {
-    color: $blue_base;
-    transition: .5s;
-}
-
 .lines {
     border-top: thin solid $blue_base;
     border-bottom: thin solid $blue_base;
@@ -87,6 +65,7 @@ a:hover, a:focus {
     font-size: .8em;
     font-style: italic;
     text-align: left;
+}
 }
 
 

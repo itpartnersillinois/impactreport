@@ -1,21 +1,23 @@
 ---
 layout: article.liquid
 pageTitle: Message from Dean Anderson
-previousLink: /
-nextLink: /2020-growth
+url: message-from-dean-anderson
 
 ---
 ![Dean James Anderson](/img/dean-anderson.png){ .top-left } 
-## Great minds are those that distinguish challenges as opportunities for growth. Our faculty, staff, students, and alumni are answering the call, driving progress in all aspects of education. { .blue }
+## We are an engaged Education community. { .orange }
 
-It doesn’t take a scholar or historian to recognize how profoundly the field of education has been affected by the defining events of 2020. As the COVID-19 pandemic and unrest over racial injustices have spread throughout the world, education professionals, practitioners, and students have pivoted in extraordinary ways to find solutions, amid unpredictable circumstances.
+The theme of community engagement—to our students, local community, and the world—is carried throughout the stories we bring you in the _2021 Impact Report_.
 
-The College of Education community quickly transitioned its curriculum to remote teaching and learning formats, with the undeterred goal of an excellent academic experience for our students. No doubt because of this commitment to excellence, in Fall 2020 a record number of talented first-year students have chosen to pursue their degree in education at Illinois. 
+The College’s mission of teaching, research, and service echoes the reason the University of Illinois was established as a land-grant institution over 150 years ago: to enhance the lives of people in Illinois, across the nation, and around the world through leadership in learning, discovery, and engagement.
 
-To effectively lead our programs and research activities, the College has added to our faculty ranks again in 2020. More faculty means increased capacity for groundbreaking research and service, meeting the needs of Illinois students and educators alike. In the coming year, the College is poised to support educational success through additional efforts like LearnAway—our website repository of expertly-curated resources, tips, ideas, and tools for remote learning—free to all educators, everywhere.
+Chancellor Jones stated in his 2017 State of the University address, as he launched the campus’ Strategic Plan: “Inseparable from our investments and innovations around diversity will be our efforts to move from being a university with engagement programs to a Publicly Engaged University...we cannot deliver on the land-grant promise of the 21st century if public engagement is not an organizing principle for us as a university.”
 
-The College’s determination to secure research funding during this demanding year is also remarkable. We saw an increase in grant submissions which speaks to our faculty and staff’s dedication to truly making a difference. We hosted another successful Illinois Statewide K-12 Computer Science Education Summit, and the We CU Community Engaged Scholars Program, funded through numerous campuslevel awards, is a shining example of how Education’s people lead the way in research and service for the public good.
+Education at Illinois has a long and rich history of engagement with local, regional, national, and global communities. Through our centers, initiatives, and offices, we seek to view engagement through the lens of being a “mutually beneficial exchange of knowledge and resources in a context of partnership and reciprocity.” (Carnegie Foundation, 2006.)
 
+Today, engagement is a core value of the Education at Illinois experience. From hiring our first-ever Director of Public Engagement for the College, to reenergizing a local Freedom School, to launching a new master’s program in Mental Health Counseling, we support faculty, staff, and student engagement in a myriad of ways.
+
+I am extremely proud of our College of Education students, faculty, staff, and alumni’s dedication to public engagement and service. Engagement is woven into the fabric of everything we do in Education, and we are a stronger and more beautiful community because of it.
 
 
 Yours in Orange & Blue

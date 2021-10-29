@@ -2,22 +2,26 @@
 <html lang="en">
     <head>
         {% include head.liquid %}
+        <title>{{ pageTitle }} | Impact Report 2021 | College of Education | U of I</title>
     </head>
     <body class="{{ bodyClass }}">
         {% include menu.liquid %}
-        <main class="numbers">
-        <h1>{{ pageTitle | transformTitle: titleStart, titleEnd }} </h1>
-        <div class="number-grid">
+        <main class="numbers il-formatted">
+        <h1 class="numbers-width">{{ pageTitle | transformTitle: titleStart, titleEnd }} </h1>
+        <div class="numbers-width number-grid">
         <p class="tagline">{{ tagline }} </p>
-        <a href="{{ link }}" class="button orange">View Programs</a>
         </div>
-        <h2>2019 By The Numbers</h2>
-        <ul class="stats no-bullets">
+        <h2><div class="numbers-width">2021 By The Numbers</div></h2>
+        <ul class="numbers-width stats no-bullets">
         {% for stat in stats %}
             <li>{{ stat | transformStat }}</li>
         {% endfor %}
         </ul>
+        <h2><div class="numbers-width">Our Programs</div></h2>
+        <div class="numbers-width">
+        <a href="{{ link }}" class="il-button" style="float: right; margin-left: 50px;">Explore Our Programs</a>
         {{ content }}
+        </div>
         </main>
     </body>
 </html>
