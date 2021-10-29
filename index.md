@@ -37,3 +37,6 @@ subTitle: College of Education | University of Illinois Urbana-Champaign
 * [Scholar-Practitioner: Kim Ferraro](/scholar-practitioner-kim-ferraro/index.html)
 * [Alumna and Donor Rebecca Cline on Giving Back](/alumna-and-donor-rebecca-cline-on-giving-back/index.html)
 * [How to Invest in College of Education Students](/how-to-invest/index.html)
+
+
+[View the 2020 Impact Report](/archive2020/index.html)
