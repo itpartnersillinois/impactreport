@@ -39,7 +39,7 @@ url: world-class-programs
 ## Special Education 
 * Special Education
 * Infancy & Early Childhood Special Education
-* Learning Behavior Specialist I
+* Learning & Behavior Specialist I
 * Learning & Behavior Specialist II in Multiple Disabilities
 
 ## Education Policy, Organization & Leadership 

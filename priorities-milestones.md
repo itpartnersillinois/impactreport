@@ -57,7 +57,7 @@ This represents all funds awarded from sponsored activity and grants from July 1
 ### 2020-21 Milestones
 * Hired two new faculty members
 * Increased student enrollment at bachelor’s, master’s and doctoral levels
-* Received funding from the Illinois State Board of Education to create the Center for Transition and Work
+* Received funding from the Illinois State Board of Education to create the Illinois Center for Transition and Work
 * Awarded multiple grants to support research related to COVID-19
 * Faculty held key leadership positions in national organizations, received numerous external and internal awards, and were actively involved on national, state, and community boards and committees
 
