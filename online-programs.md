@@ -23,6 +23,9 @@ url: online-programs
 * Bilingual/Bi-cultural Education
 * Digital Learning
 
+### Master’s Degree Program in the Department of Special Education
+* Learning & Behavior Specialist II (LBSII) in Multiple Disabilities
+
 ### Certificates of Specialization in the Department of Education Policy, Organization & Leadership
 * Community College Leadership
 * Diversity & Equity in Education
