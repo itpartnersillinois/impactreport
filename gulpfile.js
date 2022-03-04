@@ -27,3 +27,10 @@ gulp.task("copy2021", function () {
 });
 
 gulp.task("default", gulp.series("styles", "webfonts"));
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 86d1433 (Update)
+=======
+>>>>>>> 7dcf2e4 (Update gulpfile.js)
+>>>>>>> b62d195 (Update gulpfile.js)
