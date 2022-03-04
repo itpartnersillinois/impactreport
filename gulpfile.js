@@ -31,3 +31,8 @@ gulp.task("copy2021", function () {
     return gulp.src('./archive2021/**')
         .pipe(gulp.dest('./_site/archive2021'));
 });
+<<<<<<< HEAD
+=======
+
+gulp.task("default", gulp.series("styles", "webfonts"));
+>>>>>>> 7dcf2e4 (Update gulpfile.js)
