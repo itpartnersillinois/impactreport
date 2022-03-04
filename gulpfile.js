@@ -1,7 +1,7 @@
 var gulp = require("gulp");
 var concat = require("gulp-concat");
 var cssmin = require('gulp-cssmin');
-var sass = require('gulp-sass');
+var sass = require('gulp-dart-sass');
 
 gulp.task("webfonts", function () {
     return gulp.src(['node_modules/@fortawesome/fontawesome-free/webfonts/*'])
