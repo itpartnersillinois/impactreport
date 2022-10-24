@@ -21,10 +21,16 @@ gulp.task("copy2020", function () {
         .pipe(gulp.dest('./_site/archive2020'));
 });
 
+<<<<<<< HEAD
+=======
+gulp.task("default", gulp.series("styles", "webfonts"));
+
+>>>>>>> 6421660 (Update)
 gulp.task("copy2021", function () {
     return gulp.src('./archive2021/**')
         .pipe(gulp.dest('./_site/archive2021'));
 });
+<<<<<<< HEAD
 
 gulp.task("default", gulp.series("styles", "webfonts"));
 <<<<<<< HEAD
@@ -34,3 +40,5 @@ gulp.task("default", gulp.series("styles", "webfonts"));
 =======
 >>>>>>> 7dcf2e4 (Update gulpfile.js)
 >>>>>>> b62d195 (Update gulpfile.js)
+=======
+>>>>>>> 6421660 (Update)
