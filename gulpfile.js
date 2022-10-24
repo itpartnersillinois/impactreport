@@ -27,7 +27,3 @@ gulp.task("copy2021", function () {
 });
 
 gulp.task("default", gulp.series("styles", "webfonts"));
-gulp.task("copy2021", function () {
-    return gulp.src('./archive2021/**')
-        .pipe(gulp.dest('./_site/archive2021'));
-});
