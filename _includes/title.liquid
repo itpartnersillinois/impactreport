@@ -7,8 +7,17 @@
     <body>
         {% include menu.liquid %}
         <main class="title il-formatted">
+<<<<<<< HEAD
             <h1 class="il-invisible">Impact Report 2022</h1>
             <a href="/message_dean_mouza/index.html"><img src="/img/great_minds_title.png" alt="Impact Report 2022" class="titleimage" /></a>
+=======
+            <h1 class="visuallyhidden">{{ pageTitle }}</h1>
+            <a href="/message_dean_mouza/index.html"><img src="/img/great_minds_title.png" alt="{{ pageTitle }}" class="titleimage" /></a>
+            <a id="toc"></a>
+            <div class="contents">
+            {{ content }}
+            </div>
+>>>>>>> 2102f3b (All the changes for 2022)
         </main>
         {% include sidenav.liquid %}
     </body>
