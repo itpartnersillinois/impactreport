@@ -1,80 +1,80 @@
 [
     {
-        "image": "/img/dean-anderson.png",
-        "url": "janders",
-        "header": "James D. Anderson",
+        "image": "/img/dean_chrystalla_mouza.png",
+        "url": "cmouza",
+        "header": "Chrystalla Mouza",
         "subheader": "Dean"
     },
     {
-        "image": "/img/leadership/amanda-brown.png",
+        "image": "/img/leadership/amanda_brown.png",
         "url": "acbrown1",
         "header": "Amanda Brown",
-        "subheader": "Assistant Dean for Administration, Budget, and Resource Planning"
+        "subheader": "Executive Assistant Dean for Administration"
     },
     {
-        "image": "/img/leadership/kiel-christianson.png",
+        "image": "/img/leadership/kiel_christianson.png",
         "url": "kiel",
         "header": "Kiel Christianson",
         "subheader": "Chair of Educational Psychology"
     },
     {
-        "image": "/img/leadership/lisa-denson-rives.png",
+        "image": "/img/leadership/lisa_denson_rives.png",
         "url": "lkdenson",
         "header": "Lisa Denson-Rives",
         "subheader": "Assistant Dean for Advancement"
     },
     {
-        "image": "/img/leadership/sangeetha-gopalakrishnan.png",
+        "image": "/img/leadership/sangeetha_gopalakrishnan.png",
         "url": "gsangee",
         "header": "Sangeetha Gopalakrishnan",
         "subheader": "Director of Online Programs"
     },
     {
-        "image": "/img/leadership/jessica-li.png",
-        "url": "jli2011",
-        "header": "Jessica Li",
-        "subheader": "Associate Dean for Research and Director of the Bureau of Educational Research"
-    },
-    {
-        "image": "/img/leadership/nancy-latham.png",
+        "image": "/img/leadership/nancy_latham.png",
         "url": "nilatha",
         "header": "Nancy Latham",
         "subheader": "Associate Dean for Undergraduate Programs and Executive Director of the Council on Teacher Education"
     },
     {
-        "image": "/img/leadership/sarah-mccarthey.png",
+        "image": "/img/leadership/jessica_li.png",
+        "url": "jli2011",
+        "header": "Jessica Li",
+        "subheader": "Associate Dean for Research and Director of the Bureau of Educational Research"
+    },
+    {
+        "image": "/img/leadership/sarah_mccarthey.png",
         "url": "mccarthe",
         "header": "Sarah McCarthey",
         "subheader": "Head of Curriculum & Instruction"
     },
     {
-        "image": "/img/leadership/hedda-meadan-kaplansky.png",
-        "url": "meadan",
-        "header": "Hedda Meadan-Kaplansky",
-        "subheader": "Head of Special Education"
-    },
-    {
-        "image": "/img/leadership/karla-moller.png",
+        "image": "/img/leadership/karla_moller.png",
         "url": "kjmoller",
         "header": "Karla Möller",
         "subheader": "Associate Dean for Graduate Programs"
     },
     {
-        "image": "/img/leadership/yoon-pak.png",
+        "image": "/img/leadership/yoon_pak.png",
         "url": "yoonpak",
         "header": "Yoon Pak",
         "subheader": "Head of Education Policy, Organization & Leadership"
     },
     {
-        "image": "/img/leadership/emily-stone.png",
+        "image": "/img/leadership/michelle_perry.png",
+        "url": "mperry",
+        "header": "Michelle Perry",
+        "subheader": "Interim Head of Special Education"
+    },
+    {
+        "image": "/img/leadership/amy_summers.png",
+        "url": "arsummer",
+        "header": "Amy Summers",
+        "subheader": "Assistant to the Dean"
+    },
+    {
+        "image": "/img/leadership/emily_stone.png",
         "url": "ers",
         "header": "Emily Stone",
         "subheader": "Director of Public Engagement"
-    },
-    {
-        "image": "/img/leadership/toshua-york.png",
-        "url": "tmyork",
-        "header": "Toshua York",
-        "subheader": "Director of Budget and Resource Planning"
     }
 ]

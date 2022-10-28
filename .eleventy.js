@@ -19,7 +19,7 @@ module.exports = (function (eleventyConfig) {
     if (start == null || start == undefined) {
       return title;
     }
-    return `<span style='text-transform: uppercase;'>${title.slice(0, start)}<span class='orange bold'>${title.slice(start, end)}</span>${title.slice(end)}<\span>`; 
+    return `<span>${title.slice(0, start)}<span class='orange bold'>${title.slice(start, end)}</span>${title.slice(end)}<\span>`; 
   });
 
   eleventyConfig.addFilter("transformStat", function (stat) {
@@ -77,18 +77,17 @@ module.exports = (function (eleventyConfig) {
     return returnValue;
   });
 
-  eleventyConfig.addFilter("transformCovid19Projects", function (item) {
-    var returnValue = '<ul class="imagegrid text extrawide">';
+  eleventyConfig.addFilter("transformGridWithImagesWide", function (item) {
+    var returnValue = '<ul class="imagegrid wide">';
     item.forEach(element => {
-      returnValue = returnValue + `<li class="nopadding"><h3>${element.title}</h3><p class="pi">${element.pi}</p><p>${element.description}</p></li>`;
+      returnValue = returnValue + `<li><a href="https://education.illinois.edu/faculty/${element.url}"><img src="${element.image}" alt="${element.header}"></a><p><a href="https://education.illinois.edu/faculty/${element.url}">${element.header},</a> ${element.subheader}</p></li>`;
     });
     returnValue = returnValue + '</ul>';
     return returnValue;
   });
 
-
   eleventyConfig.addFilter("transformOutreach", function (item) {
-    var returnValue = '<ul class="imagegrid wide text outreach">';
+    var returnValue = '<ul class="imagegrid text outreach">';
     item.forEach(element => {
       returnValue = returnValue + `<li><a href="${element.link}">${element.title}</a> ${element.description}</li>`;
     });
@@ -148,6 +147,38 @@ module.exports = (function (eleventyConfig) {
         <il-nav-link>
           <a href="/${menu[returnValue + 1].url}/index.html">Next</a>
         </il-nav-link>${fulllist}`;
+      }
+  });
+
+  eleventyConfig.addFilter("transformArrows", function (url, menu) {
+    if (url == '') {
+      return '';
+    }
+    var returnValue = 0;
+    var i = 0;
+    menu.forEach(item => {
+      if (item.url === url) {
+        returnValue = i;
+      } 
+      i++;
+    });
+
+    if (returnValue == 0) {
+      return `<nav class="arrows" aria-label="forward and back navigation">
+      <a href="/index.html#toc" class="back"><span class="il-icon">back</span></a>
+      <a href="/${menu[1].url}/index.html" class="next"><span class="il-icon">next</span></a>
+      </nav>`;
+      }
+      else if (returnValue == menu.length - 1) {
+        return `<nav class="arrows" aria-label="forward and back navigation">
+        <a href="/${menu[menu.length - 1].url}" class="back"><span class="il-icon">back</span></a>
+        <a href="/index.html#toc" class="next"><span class="il-icon">next</span></a>
+        </nav>`;
+      } else {
+        return `<nav class="arrows" aria-label="forward and back navigation">
+        <a href="/${menu[returnValue - 1].url}" class="back"><span class="il-icon">back</span></a>
+        <a href="/${menu[returnValue + 1].url}" class="next"><span class="il-icon">next</span></a>
+        </nav>`;
       }
   });
 });

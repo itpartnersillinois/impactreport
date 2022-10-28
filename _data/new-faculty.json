@@ -1,72 +1,51 @@
 [
     {
-        "image": "/img/new-scholars/adeoye-adeyemo.png",
-        "username": "adeyemo",
-        "header": "Adeoye Adeyemo",
+        "image": "/img/new_faculty/mari_altshuler.png",
+        "username": "mshuler",
+        "header": "Mari Altshuler",
+        "subheader": "Teaching Assistant Professor, Curriculum & Instruction",
+        "text": "Mari Altshuler aims to support young children and their teachers in believing that they are capable math learners and thinkers. She studies how early elementary school students form relationships with mathematics,. Her research highlights the importance of making space in math classrooms for students to exercise agency. Altshuler recently completed her Ph.D. in Learning Sciences at Northwestern University in Evanston, where she worked with in-service and pre-service elementary school teachers to explore students’ complex mathematical ideas. "
+    },
+    {
+        "image": "/img/new_faculty/lorenzo_baber.png",
+        "username": "ldbaber",
+        "header": "Lorenzo Baber",
+        "subheader": "Professor, Education Policy, Organization & Leadership",
+        "text": "Lorenzo Baber returns to the University of Illinois Urbana-Champaign after serving as a tenured faculty member at Loyola University Chicago and Iowa State University. He is the new director of the College’s Office of Community College Research and Leadership. His scholarly interests examine equity and social justice in postsecondary education. His research foci include leadership within community college contexts, experiences of minoritized students in postsecondary STEM education, and use of critical social theory to inform higher education policies and practices. He holds a Ph.D. in Education Policy Studies from Pennsylvania State University."
+    },
+    {
+        "image": "/img/new_faculty/chang_kyu_kwon.png",
+        "username": "kwonc",
+        "header": "Chang-Kyu Kwon",
         "subheader": "Assistant Professor, Education Policy, Organization & Leadership",
-        "text": "Adeoye Adeyemo, a two-time degree alumnus of the University of Illinois Urbana-Champaign, received his Ph.D. from the University of Georgia in Social Foundations of Education. As a former collegiate scholar-athlete and proud Chicago native, he conducts research that examines the experiences, identities, aspirations, and perceptions of Black males who play sports in K-12 settings. Adeyemo’s future research endeavors will examine the experiences of female student-athletes and the experiences of Black male athletes in countries such as Nigeria and other African nations to more broadly engage these athletes in Science, Technology, Engineering, and Math (STEM) fields. Additionally, as part of the EPOL faculty, his research will address the mental health implications of participating in football and its impact on the social determinate of health."
+        "text": "Chang-kyu Kwon received his Ph.D. in Learning, Leadership & Organization Development from the University of Georgia in 2019 and his M.A. in Organizational Behavior & Evaluation from Claremont Graduate University. Kwon’s research is informed by adult learning and development theories and seeks to create whole person organizational systems in which people with minoritized identities can be fully themselves. He was recognized by the Academy of Human Resource Development’s 2022 Richard A. Swanson Research Excellence Award."
     },
     {
-        "image": "/img/new-scholars/sharon-lee.png",
-        "username": "lee1",
-        "header": "Sharon Lee",
-        "subheader": "Teaching Assistant Professor, Education Policy, Organization & Leadership",
-        "text": "Sharon Lee, Ph.D., has worked in higher education administration for over 15 years in both academic and student affairs, with a special interest in teaching, advising, and supporting students. She served as the Ed.D. Online Program Manager for the College of Education from 2018-2021. Her research and teaching background is in higher education policy, educational foundations, issues of diversity, access, and equity, and campus climate. Lee is an alumna of the College of Education, earning her doctoral degree in Educational Policy Studies in 2010. Her dissertation, supported by a Spencer Foundation Dissertation Fellowship, examined the history of Asian American student activism at the University of Illinois Urbana-Champaign."
-    },
-    {
-        "image": "/img/new-scholars/jose-del-real-viramontes.png",
-        "username": "jdelreal",
-        "header": "José Del Real Viramontes",
-        "subheader": "Assistant Professor, Education Policy, Organization & Leadership",
-        "text": "José Del Real Viramontes is an assistant professor in the Higher Education/ Community College Leadership Program. He is also a faculty affiliate with Project Mentoring to Achieve Latino Educational Success (MALES) at the University of Texas at Austin. He holds a Ph.D. in Curriculum and Instruction with a specialization in Cultural Studies in Education from the University of Texas at Austin. As a former community college transfer student, Del Real Viramontes’ research explores the transfer receptive culture for Chicana/o/x and Latina/o/x community college transfer students at predominantly white institutions and highlights how these students navigate and negotiate the ideological, material, and structural conditions of the community college to four-year university transfer process."
-    },
-    {
-        "image": "/img/new-scholars/jina-kang.png",
-        "username": "jinakang",
-        "header": "Jina Kang",
-        "subheader": "Assistant Professor, Curriculum & Instruction",
-        "text": "Jina Kang earned a Ph.D. in Curriculum and Instruction from the University of Texas at Austin in 2017 with a concentration in Learning Technologies. Previously, Kang was an assistant professor in the Department of Instructional Technology and Learning Sciences at Utah State University. Her research lies in the field of data science both as a methodology and as a learning and teaching context, specifically in STEM disciplines. Her research applies data science to solve challenging issues of understanding complex and massive interaction data traced in digital learning environments and provide key evidence of students’ scientific skill building processes. Kang also explores how to teach students data science skills by designing DLEs that facilitate students’ development of data literacy, which ultimately supports STEM workforce preparation."
-    },
-    {
-        "image": "/img/new-scholars/jarrett-lewis.png",
-        "username": "jtlewis",
-        "header": "Jarrett Lewis",
+        "image": "/img/new_faculty/jessica_gladstone.png",
+        "username": "jglads2",
+        "header": "Jessica Gladstone",
         "subheader": "Assistant Professor, Educational Psychology",
-        "text": "Jarrett Lewis earned an M.A. and Ph.D. in Clinical Psychology from DePaul University in Chicago, Illinois. Prior to his studies at DePaul, Lewis attained an M.S. in Psychology from the University of Memphis and a bachelor’s degree in Psychology from Jackson State University in Jackson, Mississippi. His research agenda aims to delineate the mechanisms through which Black and/or African Americans experience and recover from psychological trauma in urban and under-resourced settings. He uses socioecological and developmental lenses to examine the interrelations among etiological factors that contribute to psychological problems and resilience following trauma exposure in African American boys and men. Before joining the College, Lewis completed a postdoctoral fellowship in Trauma Psychology at Rush University Medical Center."
+        "text": "Jessica Gladstone received her B.S. and M.S. in Applied Psychology from the University of West Florida and her Ph.D. from the University of Maryland, specializing in both Developmental Sciences and Educational Psychology. As a postdoc at New York University and Virginia Commonwealth University, she explored student motivation from different theoretical and methodological perspectives. Her current research examines students’ STEM motivation and engagement, the impact of socializers on this, and the ways that motivation and engagement can predict achievement."
     },
     {
-        "image": "/img/new-scholars/rachel-mcmillian.png",
-        "username": "racheldm",
-        "header": "Rachel McMillian",
-        "subheader": "Assistant Professor, Curriculum & Instruction",
-        "text": "Rachel McMillian received her bachelor’s degree in History and Black World Studies and her master’s degree in Adolescent Social Studies Education from Miami University, Ohio. Likewise, she attained her Ph.D. in Educational Leadership at her alma mater. Most recently, McMillian was a high school social studies teacher in Cincinnati, Ohio, working with Miami University's Teacher Education Program to recruit and train high school students of color within Cincinnati who desire a career in teaching. Her scholarly research interests include Black education, Black Critical Theory, the civic identity development of Black youth, the schooling/educational experiences of incarcerated youth, and Black prison epistemologies and ontologies. "
+        "image": "/img/new_faculty/aixa_marchand.png",
+        "username": "admarch",
+        "header": "Aixa Marchand",
+        "subheader": "Assistant Professor, Educational Psychology",
+        "text": "Aixa Marchand received her Ph.D. in Psychology and Education with certificates in African American and Diasporic Studies and Graduate Teaching from the University of Michigan. Marchand’s main line of research applies an interdisciplinary lens to the societal, contextual, and cultural factors that shape the academic achievement of students of color, with a focus on working with Black parents. More specifically, her research focuses on the attributions that Black parents make about educational inequities and how these attributions may relate to their school engagement."
     },
     {
-        "image": "/img/new-scholars/malaika-mckee.png",
-        "username": "malaika",
-        "header": "Malaika McKee",
-        "subheader": "Assistant Professor, Education Policy, Organization & Leadership",
-        "text": "Malaika McKee joins Education after most recently serving as visiting assistant professor in the College of Liberal Arts & Science’s Department of African American Studies. She was a 2020-2021 NCSA Faculty Fellow and is part of several interdisciplinary research collaborations across the Urbana campus. McKee is interested in how universities encourage civic engagement and how race and gender intersect the process. She investigates how race, space, and place express themselves in the built form and the physiological and is co-founder of the research lab De.SH(ie) [Designing Spaces of Hope (interiors and exteriors)]. McKee holds a Ph.D. in Educational Policy and Administration from the University of Minnesota and an Ed.M. with a concentration in Civic Engagement and Education from Harvard University."
+        "image": "/img/new_faculty/kaylin_ratner.png",
+        "username": "kratner",
+        "header": "Kaylin Ratner",
+        "subheader": "Assistant Professor, Educational Psychology",
+        "text": "Kaylin Ratner received a Ph.D. in Developmental Psychology from Cornell University with concentrations in Social and Personality Development, Developmental Psychopathology, and Applied Statistics. She earned a M.A. (Clinical Psychology) and B.S. (Psychology, honors) degrees from the University of Central Florida. Ratner studies how adolescents and young adults reconcile their senses of identity, purpose, and meaning in life, and how these psychosocial processes interface with mental health."
     },
     {
-        "image": "/img/new-scholars/emily-tarconish.png",
-        "username": "ejt",
-        "header": "Emily Tarconish",
-        "subheader": "Teaching Assistant Professor, Special Education",
-        "text": "After completing her Ph.D. at the University of Connecticut, Emily Tarconish moved to the Midwest to start her position as a teaching assistant professor in the College of Education. In her previous roles as a vocational rehabilitation counselor and disability services professional, she worked with high school and college students with disabilities to help them learn about themselves, their abilities, and help them navigate postsecondary education and employment. This work directly influenced her research interests, which include how to make postsecondary environments, including higher education and employment settings accessible, as well as how to promote disability awareness and inclusive practices. Tarconish also studies the lived experiences of survivors of traumatic brain injuries (TBI) and develops interventions to increase access to this population."
-    },
-    {
-        "image": "/img/new-scholars/asif-wilson.png",
-        "username": "ajwilso1",
-        "header": "Asif Wilson",
-        "subheader": "Assistant Professor, Curriculum & Instruction",
-        "text": "Asif Wilson, Ph.D., is an assistant professor of Social Studies Education in the Department of Curriculum & Instruction. Wilson’s research broadly focuses on justice-centered pedagogies in P-20 educational contexts. More specifically, his scholarship explores how policies and social movement organizing shape justice-centered pedagogies, how teachers engage in, and conceptualize, justice-centered pedagogies, and how students experience justice-centered educational spaces. Wilson is a three-time alumnus from the University of Illinois Chicago, completing his bachelor’s degree in Elementary Education, master’s degree in Educational Studies, and doctorate in Curriculum and Instruction. He is actively involved in education organizing in Chicago and nationally with several groups."
-    },
-    {
-        "image": "/img/new-scholars/kary-zarate.png",
-        "username": "kzarat2",
-        "header": "Kary Zarate",
-        "subheader": "Teaching Assistant Professor, Special Education",
-        "text": "Kary Zarate received her Ph.D. in Special Education from the University of Illinois Chicago. Through her teaching and research, Zarate’s work centers on improving educational outcomes for students with significant emotional, behavioral, and cognitive needs through personnel preparation. This includes teaching pre-service educators’ evidence-based practices, methods to efficiently and effectively manage collaborative teams, and the training of special education paraprofessionals. Her research examines effective methods of paraprofessional development targeted at improved emotional, behavioral, and academic outcomes for students with individualized education programs. Zarate believes in breaking down barriers for all learners and works diligently to dismantle systems of oppression."
+        "image": "/img/new_faculty/michele_schutz.png",
+        "username": "maschutz",
+        "header": "Michele Schutz",
+        "subheader": "Assistant Professor, Special Education",
+        "text": "Michele Schutz earned her Ph.D. in Special Education from Vanderbilt University. She earned her bachelor’s degree in Special Education from Illinois State University and her master’s degree in Multiple Disabilities and Secondary Transition from the University of Illinois Chicago. Schutz’s research interests center on the transition of youth with significant disabilities from high school to adult outcomes, especially meaningful employment. support needs to work experiences, particularly in rural communities. She is particularly interested in the roles that various school staff play in facilitating career development for students with disabilities, particularly in rural communities."
     }
 ]

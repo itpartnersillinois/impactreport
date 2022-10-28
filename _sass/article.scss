@@ -12,13 +12,12 @@ body.center-title h1 {
     h3,
     h4 {
         color: $blue_base;
-        line-height: 1.7em;
+        font-family: "Montserrat", sans-serif;
+        font-weight: 700;
     }
 
     h1 {
-        font-family: "Fjalla One", sans-serif;
         font-size: 4em;
-        font-weight: normal;
         margin-bottom: 0;
         padding-bottom: 0;
     }
@@ -77,9 +76,10 @@ body.center-title h1 {
 
         &.circle {
             width: 200px;
-            margin: 60px auto auto auto;
+            margin: auto;
             display: block;
             border-radius: 50%;
+            padding: 0 30px;
         }
     }
 
@@ -103,10 +103,14 @@ body.center-title h1 {
 
     .stats {
         display: grid;
-        grid-template-columns: repeat(auto-fit, 400px);
+        grid-template-columns: repeat(auto-fit, 375px);
         text-align: center;
         justify-content: space-evenly;
         padding-left: 0;
+
+        &.big {
+            grid-template-columns: repeat(auto-fit, 500px);
+        }
 
         li {
             padding: 1vw;
@@ -114,6 +118,13 @@ body.center-title h1 {
             text-align: center;
             list-style: none;
             margin: 0;
+            font-weight: bold;
+            font-family: "Montserrat", sans-serif;
+
+            img {
+                width: 100%;
+                max-width: 100%;
+            }
 
             span {
                 font-size: 8rem;
@@ -122,29 +133,9 @@ body.center-title h1 {
                 color: $orange_base;
                 line-height: initial;
             }
-        }
-    }
 
-    .stats-small {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, 300px);
-        text-align: center;
-        justify-content: space-evenly;
-        padding-left: 0;
-
-        li {
-            padding: 1vw;
-            font-size: 1.25em;
-            text-align: center;
-            list-style: none;
-            margin: 0;
-
-            span {
-                font-size: 6rem;
-                font-weight: bold;
-                display: block;
-                color: $orange_base;
-                line-height: initial;
+            span.blue {
+                color: $blue_base;
             }
         }
     }

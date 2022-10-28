@@ -6,12 +6,9 @@
     </head>
     <body class="{{ bodyClass }}">
         {% include menu.liquid %}
-        <main class="article il-formatted">
-        <div style="display: flex; align-items: center;">
-        <h1>{{ pageTitle | transformTitle: titleStart, titleEnd }}</h1>
-        <img src="/img/{{ headerimg }}" alt="{{ headerimgalt }}" style="padding-left: 50px;">
-        </div>        
-        {{ content }}
+        <main class="article with il-formatted">
+                {{ content }}
         </main>
+        {% include sidenav.liquid %}
     </body>
 </html>

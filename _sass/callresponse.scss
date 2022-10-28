@@ -1,0 +1,23 @@
+.call-response-main {
+    display: flex; 
+    column-gap: 100px;
+
+    .call-response-sub {
+        flex: 0 0 50%;
+
+        img { 
+            width: 100%;
+            max-width: 100%;
+        }
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .call-response-main {
+        display: block; 
+
+        .call-response-second {
+            padding-top: 50px;
+        }
+    }
+}

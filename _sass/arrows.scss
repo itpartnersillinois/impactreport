@@ -1,0 +1,35 @@
+.arrows {
+    .next {
+    position: fixed;
+    top: 50%;
+    right: 0;
+  }
+
+  .back {
+    position: fixed;
+    top: 50%;
+    left: 0;
+  }
+
+  .il-icon {
+    font-size: 118px;
+  }
+}
+
+@media only screen and (max-width: 1378px) {
+    .arrows {
+        .next {
+            top: initial;
+            bottom: 0;
+        }
+    
+      .back {
+        top: initial;
+        bottom: 0;
+      }
+    }
+
+    .article {
+        padding-bottom: 110px;
+    }
+}

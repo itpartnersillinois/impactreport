@@ -41,6 +41,10 @@ main.student {
                 top: 50vh;
             }
 
+            &.bottomright {
+                top: 88vh;
+            }
+
             h1 {
                 font-family: "Fjalla One";
                 color: var(--il-orange);

@@ -33,7 +33,6 @@ body.top-background .splash {
         min-height: calc(100vh - 10em);
 
         h1 {
-            text-align: center;
             color: white;
             line-height: normal;
         }
@@ -46,13 +45,12 @@ body.top-background .splash {
 
         li {
             line-height: normal;
-            list-style: none;
         }
 
         .intro-text {
             font-size: calc(2em + 2vw);
-            padding: 0 20%;
-            font-family: 'Fjalla One', sans-serif;
+            font-weight: 700;
+            font-family: 'Montserrat', sans-serif;
             color: white;
             line-height: normal;
             margin-top: 80px;

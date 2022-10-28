@@ -7,11 +7,12 @@
     <body>
         <main class="title il-formatted">
             <h1 class="visuallyhidden">{{ pageTitle }}</h1>
-            <a href="/dean-mouza/index.html"><img src="/img/great_minds_title.png" alt="{{ pageTitle }}" class="titleimage" /></a>
+            <a href="/message_dean_mouza/index.html"><img src="/img/great_minds_title.png" alt="{{ pageTitle }}" class="titleimage" /></a>
             <a id="toc"></a>
             <div class="contents">
             {{ content }}
             </div>
         </main>
+        {% include sidenav.liquid %}
     </body>
 </html>

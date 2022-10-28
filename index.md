@@ -6,7 +6,7 @@ subTitle: College of Education | University of Illinois Urbana-Champaign
 ---
 ## Table of Contents
 
-* [A message from Dean Mouza](/dean-mouza/index.html)
+* [A message from Dean Mouza](/message_dean_mouza/index.html)
 * [College of Education Leadership](/index.html)
 * [Call and Response](/index.html)
 * [Our World-Class Programs](/index.html)
