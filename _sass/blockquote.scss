@@ -13,6 +13,11 @@
             border: none;
             font-size: 1em;
         }
+
+        &.blockquote-left {
+            margin-left: 0;
+            width: 50%;
+        }
     }
 
     /* Blockquote header */

@@ -154,7 +154,7 @@ module.exports = (function (eleventyConfig) {
     if (url == '') {
       return '';
     }
-    var returnValue = 0;
+    var returnValue = -1;
     var i = 0;
     menu.forEach(item => {
       if (item.url === url) {
@@ -163,22 +163,25 @@ module.exports = (function (eleventyConfig) {
       i++;
     });
 
-    if (returnValue == 0) {
+    if (returnValue == -1) {
+      return `<nav class="arrows" aria-label="forward and back navigation">
+      <a href="/${menu[0].url}/index.html" class="next"><span class="il-icon">next</span></a>
+      </nav>`;
+    }
+    else if (returnValue == 0) {
       return `<nav class="arrows" aria-label="forward and back navigation">
       <a href="/index.html#toc" class="back"><span class="il-icon">back</span></a>
       <a href="/${menu[1].url}/index.html" class="next"><span class="il-icon">next</span></a>
       </nav>`;
-      }
-      else if (returnValue == menu.length - 1) {
-        return `<nav class="arrows" aria-label="forward and back navigation">
-        <a href="/${menu[menu.length - 1].url}" class="back"><span class="il-icon">back</span></a>
-        <a href="/index.html#toc" class="next"><span class="il-icon">next</span></a>
-        </nav>`;
-      } else {
-        return `<nav class="arrows" aria-label="forward and back navigation">
-        <a href="/${menu[returnValue - 1].url}" class="back"><span class="il-icon">back</span></a>
-        <a href="/${menu[returnValue + 1].url}" class="next"><span class="il-icon">next</span></a>
-        </nav>`;
-      }
+    } else if (returnValue == menu.length - 1) {
+      return `<nav class="arrows" aria-label="forward and back navigation">
+      <a href="/${menu[menu.length - 1].url}" class="back"><span class="il-icon">back</span></a>
+      </nav>`;
+    } else {
+      return `<nav class="arrows" aria-label="forward and back navigation">
+      <a href="/${menu[returnValue - 1].url}" class="back"><span class="il-icon">back</span></a>
+      <a href="/${menu[returnValue + 1].url}" class="next"><span class="il-icon">next</span></a>
+      </nav>`;
+    }
   });
 });

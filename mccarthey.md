@@ -13,4 +13,4 @@ It’s not the first time McCarthey has helped students financially. She also es
 
 Additionally, McCarthey and her husband, Mark Dressman, professor emeritus in Curriculum & Instruction, established the McCarthey Dressman Education Foundation in 2000 to serve as a catalyst in maximizing the skills and creativity of educators at the K-12 levels and to cultivate pioneering approaches to teaching that result in dynamic student learning. The foundation pays particular attention to proposals that best serve the at-risk and underfunded.
 
-"We have a real desire to make a difference in the world, to make it a better place, and often where you can make the greatest impact is at the local levels.” —Sarah McCarthey { .blockquote }
+"We have a real desire to make a difference in the world, to make it a better place, and often where you can make the greatest impact is at the local levels.” —Sarah McCarthey { .blockquote .blockquote-left }

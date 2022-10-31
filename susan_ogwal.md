@@ -21,6 +21,6 @@ During Ogwal’s 2021 to 2022 ISPP appointment, she accompanied Lt. Governor Str
 
 Ogwal also helped to launch the Lt. Governor’s Agriculture Equity and Food Insecurity Initiative, which promotes diversity and equity in the agriculture industry and access to nutrient-dense, culturally relevant food for all. She visited communities throughout Illinois to connect with residents, organizations, and state legislators in efforts to advance education, career pathways, and opportunity in the agriculture industry. 
 
-“Agriculture is the number one industry in Illinois, but when we look at the work being done, we see a lot of disparity in emerging farmers, especially with Black people, Indigenous people, and people of color who are in that industry,” says Ogwal. “And we also can’t talk about agriculture without talking about food and making sure it’s accessible to everybody.” { .blockquote }
-
 We need to make sure that everybody has food on the table when we talk about the equity work that needs to be done, says Ogwal.
+
+“Agriculture is the number one industry in Illinois, but when we look at the work being done, we see a lot of disparity in emerging farmers, especially with Black people, Indigenous people, and people of color who are in that industry,” says Ogwal. “And we also can’t talk about agriculture without talking about food and making sure it’s accessible to everybody.” { .blockquote }
