@@ -1,62 +1,72 @@
 body.student {
-    background-color: $blue_base;
+    background-color: var(--il-blue);
 }
 
-.student {
-    display: flex;
-    color: white;
-    width: 100%;
-    background-repeat: no-repeat;
-    background-size: cover;
+main.student {
+    padding-top: 180px;
 
-    min-height: 100vh;
-    margin: auto;
-
-    .box {
-        background: rgba(19, 41, 75, 0.8);
+    div.student-container {
+        display: flex;
         color: white;
-        position: absolute;
-        padding: 30px;
-        left: 72%;
-        width: 35%;
-        top: 8vh;
+        width: 100%;
+        background-repeat: no-repeat;
+        background-size: cover;
 
-        &.topleft {
-            left: 2%;
-        }
-        
-        &.fullleft {
-            left: 0%;
-            height: 100%;
-            width: 27%;
-        }
+        min-height: 125vh;
+        margin: auto;
 
-        &.bottomleft {
-            left: 2%;
-            top: 50vh;
-        }
+        max-width: var(--il-content-max-width);
 
-        h1 {
-            font-family: "Fjalla One";
-            color: $orange_base;
-            margin-bottom: 0;
-            padding-bottom: 0;
-        }
+        .box {
+            background: rgba(19, 41, 75, 0.8);
+            color: white;
+            position: absolute;
+            padding: 30px;
+            left: 66%;
+            width: 30%;
+            top: 68vh;
 
-        h2 {
-            font-size: 1.3em;
-            font-weight: bold;
-            color: $orange_base;
-            margin-top: 0;
-        }
+            &.topleft {
+                left: 2%;
+            }
 
-        p {
-            font-size: 1.3em;
-            line-height: 1.4em;
-        }
+            &.fullleft {
+                left: 0%;
+                height: 100%;
+                width: 27%;
+            }
 
-        p.blockquote-small {
-            font-weight: bold;
+            &.bottomleft {
+                left: 2%;
+                top: 50vh;
+            }
+
+            &.bottomright {
+                top: 88vh;
+            }
+
+            h1 {
+                font-family: "Fjalla One";
+                color: var(--il-orange);
+                margin-bottom: 0;
+                padding-bottom: 0;
+            }
+
+            h2 {
+                font-size: 1.3em;
+                font-weight: bold;
+                color: var(--il-orange);
+                margin-top: 0;
+            }
+
+            p {
+                font-size: 1.3em;
+                line-height: 1.4em;
+            }
+
+            p.blockquote-small {
+                font-weight: bold;
+            }
         }
     }
 }

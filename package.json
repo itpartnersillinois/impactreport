@@ -8,7 +8,7 @@
     "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
     "gulp-cssmin": "^0.2.0",
-    "gulp-sass": "^4.1.0",
+    "gulp-dart-sass": "*",
     "markdown-it": "^11.0.0",
     "markdown-it-attrs": "^3.0.3",
     "sass": "^1.26.9"
@@ -17,11 +17,13 @@
     "npm-run-all": "^4.1.5"
   },
   "scripts": {
+    "dev": "npm run gulp && npm run eleventy",
     "gulp": "gulp",
     "eleventy": "eleventy --formats=\"html,md,liquid,gif,jpg,png,css,svg,ttf,woff,woff2,pdf\"",
     "eleventy-archive": "eleventy --formats=\"html,md,liquid,gif,jpg,png,css,svg,ttf,woff,woff2,pdf\" --pathprefix=archive2020 --output=archive2020",
     "copy2020": "gulp copy2020",
-    "all": "npm run gulp && npm run eleventy && npm run copy2020"
+    "copy2021": "gulp copy2021",
+    "all": "npm run gulp && npm run eleventy && npm run copy2020 && npm run copy2021"
   },
   "author": "Bryan Jonker, jonker@illinois.edu",
   "license": "ISC"

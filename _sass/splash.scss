@@ -1,14 +1,16 @@
 body.nofade .splash .full {
+    padding-top: 200px;
     background: none;
 }
 
 body.centered .splash .full {
-    padding: 0 15vw;
+    padding: 200px 15vw 0 15vw;
     font-size: 2em;
 }
 
 body.narrow .splash .full .stats {
     max-width: 800px;
+    padding-top: 200px;
     margin: auto;
 }
 
@@ -31,17 +33,27 @@ body.top-background .splash {
         min-height: calc(100vh - 10em);
 
         h1 {
-            text-align: center;
+            color: white;
+            line-height: normal;
         }
 
         h2 {
             padding: 1em 0 0 0;
+            color: white;
+            line-height: normal;
+        }
+
+        li {
+            line-height: normal;
         }
 
         .intro-text {
             font-size: calc(2em + 2vw);
-            padding: 0 20%;
-            font-family: 'Fjalla One', sans-serif;
+            font-weight: 700;
+            font-family: 'Montserrat', sans-serif;
+            color: white;
+            line-height: normal;
+            margin-top: 80px;
         }
 
         .stats {
@@ -53,6 +65,8 @@ body.top-background .splash {
             li {
                 padding: 1vw;
                 font-size: 1.5em;
+                line-height: normal;
+                list-style: none;
 
                 span {
                     font-size: 5em;
@@ -81,6 +95,8 @@ body.top-background .splash {
             li {
                 padding: 1vw;
                 font-size: 1em;
+                line-height: normal;
+                list-style: none;
 
                 span {
                     font-size: 4em;

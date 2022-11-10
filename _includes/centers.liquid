@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        {% include head.liquid %}
+        <title>{{ pageTitle }} | Impact Report 2022 | College of Education | U of I</title>
+    </head>
+    <body class="{{ bodyClass }}">
+        {% include menu.liquid %}
+        <main class="article il-formatted">
+        <h1>{{ pageTitle | transformTitle: titleStart, titleEnd }}</h1>
+        {{ outreach | transformOutreach }}
+        {{ content }}
+        </div>
+        </main>
+        {% include sidenav.liquid %}
+    </body>
+</html>

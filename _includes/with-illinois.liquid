@@ -2,31 +2,13 @@
 <html lang="en">
     <head>
         {% include head.liquid %}
+        <title>{{ pageTitle }} | Impact Report 2022 | College of Education | U of I</title>
     </head>
-    <body class="{{ bodyClass }} with">
+    <body class="{{ bodyClass }}">
         {% include menu.liquid %}
-        <main>
-        <h1 class="visuallyhidden">pageTitle</h1>
-        <div class="main-wrapper">
-            <div class="information">
-                <h2>{{ tagline }}</h2>
-                <img src="/img/fundraising-goal.png" alt="Fundraising goal of 25 million with progress of 22.6 million, making it 90% met">
-                <div class="statistic-wrapper">
-                    {% for stat in stats %}
-                       <div>{{ stat | transformStat }}</div>
-                    {% endfor %}
-                </div>
-            </div>
-            <div class="investment">
+        <main class="article with il-formatted">
                 {{ content }}
-            </div>
-        </div>
-        <div class="quote-wrapper">
-        <div class="blockquote">
-            "{{ quote }}"
-            <p class="byline">{{ quotebyline }}</p>
-        </div>
-        </div>
         </main>
+        {% include sidenav.liquid %}
     </body>
 </html>

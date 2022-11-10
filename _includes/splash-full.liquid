@@ -2,10 +2,11 @@
 <html lang="en">
     <head>
         {% include head.liquid %}
+        <title>{{ pageTitle }} | Impact Report 2022 | College of Education | U of I</title>
     </head>
     <body class="{{ bodyClass }}">
         {% include menu.liquid %}
-        <main class="splash" style="background-image: url(../img/backgrounds/{{ backgroundImage }});">
+        <main class="splash il-formatted" style="background-image: url(../img/backgrounds/{{ backgroundImage }});">
         <div class="full">
         <h1 class="intro-text">{{ pageTitle }} </h1>
         <ul class="stats no-bullets">
@@ -13,7 +14,7 @@
             <li>{{ stat | transformStat }}</li>
         {% endfor %}
         </ul>
-        {{ content }}        
+        {{ content }}
         </div>
         </main>
     </body>

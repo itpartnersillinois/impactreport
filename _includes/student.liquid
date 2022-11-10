@@ -2,14 +2,18 @@
 <html lang="en">
     <head>
         {% include head.liquid %}
+        <title>{{ pageTitle }} | Impact Report 2022 | College of Education | U of I</title>
     </head>
-    <body class="{{ bodyClass }} student">
+    <body class="student {{ bodyClass }}">
         {% include menu.liquid %}
-        <main class="student" style="background-image: url(../img/backgrounds/{{ backgroundImage }}); background-position: {{ backgroundPosition }};">
+        <main class="student il-formatted">
+        <div class="student-container" style="background-image: url(/img/{{ backgroundImage }}); background-position: {{ backgroundPosition }};">
         <div class="box {{ location }}">
             <h1>{{ pageTitle }}</h1>
             {{ content }}
         </div>
+        </div>
         </main>
+        {% include sidenav.liquid %}
     </body>
 </html>

@@ -1,13 +1,20 @@
-ul.imagegrid {
+.il-formatted ul.imagegrid {
     display: grid;
     list-style: none;
-    grid-template-columns: repeat(auto-fit,300px);
+    grid-template-columns: repeat(auto-fit,200px);
     text-align: center;
     grid-gap: 20px;
     padding-left: 0;
 
+    
+    &.outreach {
+        grid-template-columns: repeat(auto-fit,300px);
+        justify-content: center;
+    }
+
     &.wide {
         grid-template-columns: repeat(auto-fit,450px);
+        justify-content: center;
     }
 
     &.extrawide {
@@ -15,14 +22,24 @@ ul.imagegrid {
         grid-gap: 50px;
     }
 
+    li {
+        list-style: none;
+        margin: 0;
+
+        a {
+            text-decoration: none;
+            font-weight: 700;
+        }
+    }
+
     img {
-        max-width: 80%;
-        width: 80%;
-        padding: 0 10%;
+        width: 100%;
+        max-width: 100%;
     }
     
     &.text {
         text-align: left;
+        
 
         li {
             background: $cloud_base;
@@ -47,6 +64,16 @@ ul.imagegrid {
             p {
                 padding: 0 10px;
             }
+        }
+    }
+
+    &.outreach {
+        padding: 30px 0;
+        background: #D9E3F4;
+
+        li {
+            background: var(--il-cloud);
+            padding: 30px;
         }
     }
 }
