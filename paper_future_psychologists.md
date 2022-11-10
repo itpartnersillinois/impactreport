@@ -18,13 +18,7 @@ In a recently published paper, the team outlined the new training paradigm, sayi
 
 The model also represents a commitment to provide mental health services in the public sector to, by and with some of the society’s most oppressed people. Grounded in the principles of liberation psychology – which emphasize collective well-being, consciousness of social injustices and resistance to the normalization of discrimination and oppression – the PPL model has the potential to transform community members’ lives, the team said.
 
-<<<<<<< HEAD
 <div class="flex-half">
 <p class="blockquote">“It includes centering social problems and the concerns of the global majority in our work and engaging diverse communities in knowledge creation from the very beginning to the very end.”— Nidia Ruedas-Gracia, Educational Psychology assistant professor and co-author.</p>
 <p><img src="/img/nidia_ruedas_gracia.png" alt="Portrait of Nidia Ruedas-Gracia" class="top-right"></p>
 </div>
-=======
-“It includes centering social problems and the concerns of the global majority in our work and engaging diverse communities in knowledge creation from the very beginning to the very end.”— Nidia Ruedas-Gracia, Educational Psychology assistant professor and co-author. { .blockquote }
-
-![Portrait of Nidia Ruedas-Gracia](/img/nidia_ruedas_gracia.png){ .top-right } 
->>>>>>> 2102f3b (All the changes for 2022)
