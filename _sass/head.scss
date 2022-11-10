@@ -8,6 +8,11 @@ ul.no-bullets {
     padding-left: 1em;
 }
 
+ul.no-bullets li {
+    list-style: none;
+    padding-left: 1em;
+}
+
 .clear {
     clear: both;
 }
@@ -19,55 +24,62 @@ ul.no-bullets {
 }
 
 .il-formatted {
-p.xx-large, ul.xx-large, li.xx-large, div.xx-large {
-    font-size: 2.5em;
-}
+    p.xx-large,
+    ul.xx-large,
+    li.xx-large,
+    div.xx-large {
+        font-family: "Montserrat", sans-serif;
+        font-weight: 700;
+        font-size: 4em;
+    }
 
-.x-large {
-    font-size: 1.5em;
-}
+    .x-large {
+        font-size: 1.5em;
+    }
 
-p.large, div.large, ul.large, li.large {
-    font-size: 1.65em;
-    font-weight: 700;
-}
+    p.large,
+    div.large,
+    ul.large,
+    li.large {
+        font-size: 1.65em;
+        font-weight: 700;
+    }
 
-.small {
-    font-size: 0.75em;
-}
+    .small {
+        font-size: 0.75em;
+    }
 
-.x-small {
-    font-size: 0.5em;
-}
+    .x-small {
+        font-size: 0.5em;
+    }
 
-.orange {
-    color: $orange_base;
-}
+    .orange {
+        color: $orange_base;
+    }
 
-.blue {
-    color: $blue_base;
-}
+    .blue {
+        color: $blue_base;
+    }
 
-.bold {
-    font-weight: bold;
-}
+    .bold {
+        font-weight: bold;
+    }
 
-.lines {
-    border-top: thin solid $blue_base;
-    border-bottom: thin solid $blue_base;
-    padding-top: 1em;
-    margin-top: 2em;
-    padding-bottom: 1em;
-    margin-bottom: 2em;
-}
+    .lines {
+        border-top: thin solid $blue_base;
+        border-bottom: thin solid $blue_base;
+        padding-top: 1em;
+        margin-top: 2em;
+        padding-bottom: 1em;
+        margin-bottom: 2em;
+    }
 
-.caption {
-    font-size: .8em;
-    font-style: italic;
-    text-align: left;
+    .caption {
+        font-size: 0.8em;
+        font-style: italic;
+        text-align: left;
+    }
 }
-}
-
 
 body.center-title h1 span.orange.bold {
     color: inherit;

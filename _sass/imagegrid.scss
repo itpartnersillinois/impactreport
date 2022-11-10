@@ -6,6 +6,12 @@
     grid-gap: 20px;
     padding-left: 0;
 
+    
+    &.outreach {
+        grid-template-columns: repeat(auto-fit,300px);
+        justify-content: center;
+    }
+
     &.wide {
         grid-template-columns: repeat(auto-fit,450px);
         justify-content: center;
@@ -62,19 +68,12 @@
     }
 
     &.outreach {
-        background: #0077BE;
+        padding: 30px 0;
+        background: #D9E3F4;
 
         li {
-            background: #0077BE;
-            color: white;
+            background: var(--il-cloud);
             padding: 30px;
-
-            a {
-                color: white;
-            }
-            a:focus, a:hover {
-                color:  var(--il-cloud-3);
-            }
         }
     }
 }
