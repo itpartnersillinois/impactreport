@@ -1,5 +1,5 @@
 .arrows {
-    .next {
+  .next {
     position: fixed;
     top: 50%;
     right: 0;
@@ -10,6 +10,10 @@
     top: 50%;
     left: 0;
   }
+    
+ a.next:hover, a.next:focus, a.previous:hover, a.previous:focus {
+  outline: black thin solid;
+}
 
   .il-icon {
     font-size: 118px;
