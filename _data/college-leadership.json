@@ -3,13 +3,13 @@
         "image": "/img/leadership/dean_chrystalla_mouza.png",
         "url": "cmouza",
         "header": "Chrystalla Mouza",
-        "subheader": "Dean"
+        "subheader": "Dean, College of Education"
     },
     {
         "image": "/img/leadership/amanda_brown.png",
         "url": "acbrown1",
         "header": "Amanda Brown",
-        "subheader": "Executive Assistant Dean for Administration"
+        "subheader": "Executive Assistant Dean, Administration"
     },
     {
         "image": "/img/leadership/kiel_christianson.png",
@@ -21,49 +21,67 @@
         "image": "/img/leadership/lisa_denson_rives.png",
         "url": "lkdenson",
         "header": "Lisa Denson-Rives",
-        "subheader": "Assistant Dean for Advancement"
+        "subheader": "Assistant Dean, Advancement"
+    },
+    {
+        "image": "/img/leadership/jill_donnel.png",
+        "url": "jilldonn",
+        "header": "Jill Donnel",
+        "subheader": "Executive Director, Council on Teacher Education"
     },
     {
         "image": "/img/leadership/sangeetha_gopalakrishnan.png",
         "url": "gsangee",
         "header": "Sangeetha Gopalakrishnan",
-        "subheader": "Director of Online Programs"
+        "subheader": "Assistant Dean, Online and Learning Innovation"
     },
     {
-        "image": "/img/leadership/nancy_latham.png",
-        "url": "nilatha",
-        "header": "Nancy Latham",
-        "subheader": "Associate Dean for Undergraduate Programs and Executive Director of the Council on Teacher Education"
+        "image": "/img/leadership/matthew_lambert.png",
+        "url": "matt5",
+        "header": "Matthew Lambert",
+        "subheader": "Professor and Head, Special Education"
     },
     {
         "image": "/img/leadership/jessica_li.png",
         "url": "jli2011",
         "header": "Jessica Li",
-        "subheader": "Associate Dean for Research and Director of the Bureau of Educational Research"
+        "subheader": "Associate Dean, Research and Director, Bureau of Educational Research"
+    },
+     {
+        "image": "/img/leadership/gina_manola.png",
+        "url": "gmanola",
+        "header": "Gina Manola",
+        "subheader": "Assistant Dean, Marketing & Communications"
     },
     {
         "image": "/img/leadership/sarah_mccarthey.png",
         "url": "mccarthe",
         "header": "Sarah McCarthey",
-        "subheader": "Head of Curriculum & Instruction"
+        "subheader": "Sheila M. Miller Professor and Interim Associate Dean, Undergraduate Programs"
     },
     {
         "image": "/img/leadership/karla_moller.png",
         "url": "kjmoller",
         "header": "Karla Möller",
-        "subheader": "Associate Dean for Graduate Programs"
+        "subheader": "Associate Dean, Graduate Programs"
+    },
+     {
+        "image": "/img/leadership/micki_ostrosky.png",
+        "url": "ostrosky",
+        "header": "Micki Ostrosky",
+        "subheader": "Grayce Wicall Gauthier Professor and Interim Head, Curriculum & Instruction"
     },
     {
         "image": "/img/leadership/yoon_pak.png",
         "url": "yoonpak",
         "header": "Yoon Pak",
-        "subheader": "Head of Education Policy, Organization & Leadership"
+        "subheader": "Professor and Head, Education Policy, Organization & Leadership"
     },
-    {
-        "image": "/img/leadership/michelle_perry.png",
-        "url": "mperry",
-        "header": "Michelle Perry",
-        "subheader": "Interim Head of Special Education"
+        {
+        "image": "/img/leadership/emily_stone.png",
+        "url": "ers",
+        "header": "Emily Stone",
+        "subheader": "Director, Public Engagement"
     },
     {
         "image": "/img/leadership/amy_summers.png",
@@ -71,10 +89,10 @@
         "header": "Amy Summers",
         "subheader": "Assistant to the Dean"
     },
-    {
-        "image": "/img/leadership/emily_stone.png",
-        "url": "ers",
-        "header": "Emily Stone",
-        "subheader": "Director of Public Engagement"
+        {
+        "image": "/img/leadership/allison_witt.png",
+        "url": "awitt1",
+        "header": "Allison Witt",
+        "subheader": "Director, International Programs"
     }
 ]
