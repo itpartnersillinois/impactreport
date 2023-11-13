@@ -167,7 +167,7 @@ module.exports = (function (eleventyConfig) {
     donors = donors + '</ul></il-nav-section>';
     return `${leadership}${facts}${stories}${research}${programs}${donors}
     <il-nav-section><a href="/archive2021/index.html" slot="label">Previous Years</a><ul class="il-subnav">
-    <li><a href="/archive2021/index.html">2021 Impact Report</a></li><li><a href="/archive2020/index.html">2020 Impact Report</a></li>
+    <li><a href="/archive2022/index.html">2022 Impact Report</a></li><li><a href="/archive2021/index.html">2021 Impact Report</a></li><li><a href="/archive2020/index.html">2020 Impact Report</a></li>
     </ul></il-nav-section>`;
   });
 
