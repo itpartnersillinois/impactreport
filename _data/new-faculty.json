@@ -16,25 +16,28 @@
         "quote": "My scholarship is centered in the examination of how Black youth engage in the reading and writing of speculative fiction to discuss and challenge their experiences with social injustice; the consideration of how intersecting oppressions infiltrate the field of education and how educators must use their imaginations to dream of ways to challenge injustice in schools; and the demonstration of how Black people use speculative storytelling to metaphorically describe modern and historical antiblackness and to dream of worlds and futures in which Black people are free from the burdens of societal injustice."
     },
     {
-        "image": "/img/new_faculty/chang_kyu_kwon.png",
-        "username": "kwonc",
-        "header": "Chang-Kyu Kwon",
+        "image": "/img/new_faculty/stacy_bennett.png",
+        "username": "bennetts",
+        "header": "Stacy Bennett",
+        "subheader": "Teaching Assistant Professor, Education Policy, Organization & Leadership",
+        "text": "Bennett is an Illinois alumna, completing her Ph.D. in Education Policy, Organization & Leadership focused on Higher Education Policy. Previously, she earned a Master of Public Policy (MPP) from the University of Chicago and a B.S. in Political Science, Geography, and Environmental Science from Kansas State University.",
+        "quote": "Professionally, I have focused on public policy, political campaigns, and grassroots advocacy through working with organizations, candidates, and elected officials at the national, state, and local levels. Prior to this, I worked in undergraduate admissions at the UIUC Gies College of Business and was an independent consultant working on a variety of education projects including grant evaluation, public awareness, and admissions consulting."
+    },
+    {
+        "image": "/img/new_faculty/vania_castro.png",
+        "username": "vaniac",
+        "header": "Vânia Castro",
+        "subheader": "Teaching Assistant Professor, Education Policy, Organization & Leadership",
+        "text": "Castro completed her Ph.D. in Applied Linguistics at the Federal University of Minas Gerais (UFMG), Brazil, in May 2021.",
+        "quote": "I held the Werner Baer Postdoctoral Fellow position at the Lemann Center for Brazilian Studies at the University of Illinois Urbana-Champaign from 2022 to 2023. Additionally, I was a visiting scholar with the CAPES/PrInt program at UIUC in 2019 and 2020, where I developed part of my doctoral study. My investigation centered on leveraging mobile devices to provide support to educators and students in underserved regions of Brazil. My current research interests include emerging technologies in education, mobile learning, multiliteracies, teacher education, and artificial intelligence."
+    },
+    {
+        "image": "/img/new_faculty/kimberly_ransom.png",
+        "username": "kransom",
+        "header": "Kimberly Ransom",
         "subheader": "Assistant Professor, Education Policy, Organization & Leadership",
-        "text": "Chang-kyu Kwon received his Ph.D. in Learning, Leadership & Organization Development from the University of Georgia in 2019 and his M.A. in Organizational Behavior & Evaluation from Claremont Graduate University. Kwon’s research is informed by adult learning and development theories and seeks to create whole person organizational systems in which people with minoritized identities can be fully themselves. He was recognized by the Academy of Human Resource Development’s 2022 Richard A. Swanson Research Excellence Award.",
-    },
-    {
-        "image": "/img/new_faculty/jessica_gladstone.png",
-        "username": "jglads2",
-        "header": "Jessica Gladstone",
-        "subheader": "Assistant Professor, Educational Psychology",
-        "text": "Jessica Gladstone received her B.S. and M.S. in Applied Psychology from the University of West Florida and her Ph.D. from the University of Maryland, specializing in both Developmental Sciences and Educational Psychology. As a postdoc at New York University and Virginia Commonwealth University, she explored student motivation from different theoretical and methodological perspectives. Her current research examines students’ STEM motivation and engagement, the impact of socializers on this, and the ways that motivation and engagement can predict achievement.",
-    },
-    {
-        "image": "/img/new_faculty/aixa_marchand.png",
-        "username": "admarch",
-        "header": "Aixa Marchand",
-        "subheader": "Assistant Professor, Educational Psychology",
-        "text": "Aixa Marchand received her Ph.D. in Psychology and Education with certificates in African American and Diasporic Studies and Graduate Teaching from the University of Michigan. Marchand’s main line of research applies an interdisciplinary lens to the societal, contextual, and cultural factors that shape the academic achievement of students of color, with a focus on working with Black parents. More specifically, her research focuses on the attributions that Black parents make about educational inequities and how these attributions may relate to their school engagement.",
+        "text": "Ransom completed her Ph.D. in Educational Studies from the University of Michigan, her M.A. from DePaul University, and her B.S. from Bradley University.",
+        "quote": "I am an interdisciplinary historian studying the history of African American education and childhood. My research examines the oral histories and material objects of Black children who once attended segregated schools in the Deep South during the Jim Crow Era (1940-1969). As a public scholar and artist, I use historical research to create public exhibits related to African American childhood in and around schools, seeking to illuminate the unique ways Black children have been marginalized from childhood status in America."
     },
     {
         "image": "/img/new_faculty/kaylin_ratner.png",
@@ -42,6 +45,7 @@
         "header": "Kaylin Ratner",
         "subheader": "Assistant Professor, Educational Psychology",
         "text": "Kaylin Ratner received a Ph.D. in Developmental Psychology from Cornell University with concentrations in Social and Personality Development, Developmental Psychopathology, and Applied Statistics. She earned a M.A. (Clinical Psychology) and B.S. (Psychology, honors) degrees from the University of Central Florida. Ratner studies how adolescents and young adults reconcile their senses of identity, purpose, and meaning in life, and how these psychosocial processes interface with mental health.",
+        "quote": ""
     },
     {
         "image": "/img/new_faculty/michele_schutz.png",
@@ -49,5 +53,6 @@
         "header": "Michele Schutz",
         "subheader": "Assistant Professor, Special Education",
         "text": "Michele Schutz earned her Ph.D. in Special Education from Vanderbilt University. She earned her bachelor’s degree in Special Education from Illinois State University and her master’s degree in Multiple Disabilities and Secondary Transition from the University of Illinois Chicago. Schutz’s research interests center on the transition of youth with significant disabilities from high school to adult outcomes, especially meaningful employment. support needs to work experiences, particularly in rural communities. She is particularly interested in the roles that various school staff play in facilitating career development for students with disabilities, particularly in rural communities.",
+        "quote": ""
     }
 ]
