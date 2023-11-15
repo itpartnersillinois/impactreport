@@ -1,17 +1,28 @@
 ---
-layout: article.liquid
+layout: article-no-title.liquid
 pageTitle: A message from Dean Mouza
 url: message_dean_mouza
 ---
-![Dean Chrystalla Mouza](/img/dean_chrystalla_mouza.png){ .top-left } 
+![We are harnessing the power of technology to revolutionize learning, personalize education, enhance accessibility, and pave the way for a more inclusive future for all. Chrystalla Mouza, Dean](/img/picture1.jpg){ .hero } 
 
-I am deeply honored to join the College of Education at Illinois and grateful to my predecessor, Dr. James D. Anderson, for his leadership and the indelible mark he has made on this College, university, and the field of education.
+<h1>A Message from Dean Mouza</h1> 
 
-Educators are at the leading edge of society. We engage daily with the needs of learners and experience their joys and struggles, lived out in classrooms and communities around the world. This is why we engage our pre-service teachers with coursework like Identity and Difference in Education (EDUC 201). And why our faculty launched a wide-range of innovative initiatives in 2022, including: programs that teach media literacy skills to high school students; online professional development series that prepare teachers and librarians in learning and teaching about Asian American history; and professional learnings programs on leading inclusive, inquiry-based social studies instruction for K-12 students.
+![Dean Chrystalla Mouza](/img/mouza-chrystalla.jpg){ .top-left }
 
-Responsiveness to the needs of learners and their communities is a hallmark of our College. Education at Illinois has a rich history of public engagement with local, regional, national, and global communities. We continue to build on this history with impactful efforts like the Champaign Freedom School and our I-Global program which connects middle school students with international peers and culture, virtually.
+My first full year serving as dean has been filled with productivity and growth. Throughout this report, you will see why I’m honored to lead and support this iconic College and the important work of our faculty, students, alumni, and staff.
+The establishment of INVITE, a new $20M NSF funded AI center is one of many robustly funded research projects our faculty secured in the past year.
 
-My primary goal as dean is to support our education community in the pursuit of excellence. As you read through this 2022 Impact Report, you’ll see why I am proud to be a part of this College—every page, another example of excellence in action by our faculty, students, staff, and alumni.
+We welcomed nine new faculty members to the College who bring a range of expertise to our top-ranked programs and we saw our fourth consecutive year of undergraduate enrollment growth.
+
+Our College continues to lead on critical issues in education by tackling the ethical and pedagogical issues around harnessing augmented reality and artificial intelligence, expanding access and supports for students with disabilities, and creating curricula to address climate justice and disparities in healthcare management.
+
+Our university is currently on the lands of the Peoria, Kaskaskia, Piankashaw, Wea, Miami, Mascoutin, Odawa, Sauk, Mesquaki, Kickapoo, Potawatomi, Ojibwe, and Chickasaw Nations.
+
+It is necessary for us to acknowledge these Native Nations and for us to work with them as we move forward as an institution.
+
+This summer, Governor J.B. Pritzker signed several laws into effect to help students and residents of the state of Illinois to properly recognize and honor the ancestry of Native Americans.
+
+Education at Illinois faculty are involved in a multidisciplinary effort to develop curricula to support this important mandate and I look forward to sharing this, and many more stories of our College’s impact with you in the coming year.
 
 Yours in Orange & Blue,
 

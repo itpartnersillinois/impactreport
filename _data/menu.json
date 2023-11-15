@@ -1,43 +1,38 @@
 [
     {
-        "title": "A message from Dean Mouza",
+        "title": "A Message from Dean Mouza",
         "menu": "Our Leadership",
         "url": "message_dean_mouza"
     },
     {
-        "title": "College of Education Leadership",
+        "title": "College Leadership",
         "menu": "Our Leadership",
         "url": "college_leadership"
     },
     {
-        "title": "Call and Response",
-        "menu": "Our Leadership",
-        "url": "call_and_response"
-    },
-    {
-        "title": "Our World-Class Programs",
+        "title": "Program Rankings",
         "menu": "College Facts",
-        "url": "world_class_programs"
+        "url": "program_rankings"
     },
     {
-        "title": "Our Enrollment Trends",
+        "title": "By the Numbers",
         "menu": "College Facts",
-        "url": "our_enrollment_trends"
+        "url": "by_the_numbers"
     },
     {
-        "title": "Priorities & Milestones",
+        "title": "2022-2023 Research Funding",
+        "menu": "Our Research",
+        "url": "research_funding"
+    },
+    {
+        "title": "Select Funding Briefs",
+        "menu": "Our Research",
+        "url": "funding_briefs"
+    },
+    {
+        "title": "Notable Books",
         "menu": "College Facts",
-        "url": "priorities_milestones"
-    },
-    {
-        "title": "Introducing Dean Mouza: Excellence, Equity, and Engagement",
-        "menu": "Our Leadership",
-        "url": "dean_mouza"
-    },
-    {
-        "title": "A Tribute to James D. Anderson",
-        "menu": "Our Leadership",
-        "url": "james_anderson"
+        "url": "notable_books"
     },
     {
         "title": "New Faculty",
@@ -45,69 +40,9 @@
         "url": "new_faculty"
     },
     {
-        "title": "Why Teachers Should Be Trauma-informed",
-        "menu": "Our Stories",
-        "url": "trauma_informed"
-    },
-    {
-        "title": "I-Global is Growing",
-        "menu": "Our Stories",
-        "url": "iglobal"
-    },
-    {
-        "title": "TEAACH Teaching of Equitable Asian American Community History",
-        "menu": "Our Research",
-        "url": "teaach"
-    },
-    {
-        "title": "Colleges of Education and Media Team Up to Help Illinois High Schoolers Understand the Media They Consume",
-        "menu": "Our Research",
-        "url": "media_consume"
-    },
-    {
-        "title": "Leading Inclusive, Inquiry-Based Teaching & Learning",
-        "menu": "Our Research",
-        "url": "leading_learning"
-    },
-    {
-        "title": "Giving Minoritized Students a Voice",
-        "menu": "Our Research",
-        "url": "giving_minority_students_voice"
-    },
-    {
-        "title": "Paper: Train Future Psychologists to Dismantle Racism, Injustice in Society",
-        "menu": "Our Research",
-        "url": "paper_future_psychologists"
-    },
-    {
-        "title": "Pursuing Justice & Equity by Design",
-        "menu": "Our Research",
-        "url": "pursuing_justice_and_equity_by_design"
-    },
-    {
-        "title": "College’s New Degree Program Builds Strong Base for Mental Health Counseling",
-        "menu": "Our Research",
-        "url": "mental_health_counseling"
-    },
-    {
-        "title": "Faculty Viewpoint: Support Program for Local Families Grounded in Culturally Responsive Collaboration, Evaluation",
-        "menu": "Our Research",
-        "url": "faculty_viewpoint"
-    },
-    {
-        "title": "Undergraduate Education",
-        "menu": "Our Programs",
-        "url": "undergrad_education"
-    },
-    {
         "title": "Undergraduate Programs",
         "menu": "Our Programs",
         "url": "undergrad_programs"
-    },
-    {
-        "title": "Graduate Education",
-        "menu": "Our Programs",
-        "url": "graduate_education"
     },
     {
         "title": "Graduate Programs",
@@ -120,14 +55,39 @@
         "url": "online_programs"
     },
     {
-        "title": "From Illinois Undergraduate to Graduate Student: Jerny Walls Finds Her Calling",
+        "title": "Underrepresented Communities to Benefit From New Online Cancer Education Program",
         "menu": "Our Stories",
-        "url": "jerny_walls"
+        "url": "cancer_education"
     },
     {
-        "title": "Online ED.D Student Wins Educator Award from U.S. EPA",
+        "title": "Can artificial intelligence be used to improve students' learning?",
         "menu": "Our Stories",
-        "url": "online_epa"
+        "url": "ai_students"
+    },
+    {
+        "title": "New NSF-Funded INVITE Institute Uses AI to Promote Equity in STEM Education",
+        "menu": "Our Research",
+        "url": "invite"
+    },
+    {
+        "title": "More AI-Funded Projects",
+        "menu": "Our Research",
+        "url": "more_ai"
+    },
+    {
+        "title": "How to Reap the Benefits of Generative AI in Education — While Avoiding the Pitfalls",
+        "menu": "Our Research",
+        "url": "generative_ai"
+    },
+    {
+        "title": "Using Augmented Reality to Bring Clarity to Complex Scientific Phenomena",
+        "menu": "Our Research",
+        "url": "augmented_reality"
+    },
+    {
+        "title": "Embodied and Immersive Technologies",
+        "menu": "Our Research",
+        "url": "emit"
     },
     {
         "title": "Our Centers and Initiatives",
@@ -135,48 +95,48 @@
         "url": "our_centers"
     },
     {
-        "title": "Announcing the Inaugural Cohort of Public Engagement Faculty Fellows",
+        "title": "Shining a Light on Climate Change, Racism, Justice, and Education",
+        "menu": "Our Research",
+        "url": "climate_change"
+    },
+    {
+        "title": "Historic Grant Funds First of its Kind Freedom School Network in Illinois",
         "menu": "Our Stories",
-        "url": "faculty_fellows"
+        "url": "freedom_school"
     },
     {
-        "title": "New Center Helps High School Teachers Enable Students with Significant Disabilities Gain Competitive Employment",
+        "title": "Supporting Youth and Young Adults",
         "menu": "Our Stories",
-        "url": "new_center"
+        "url": "youth"
     },
     {
-        "title": "Alumna Susan Ogwal Named New Policy Director for Illinois Office of Lieutenant Governor",
-        "menu": "Alumni and Donors",
-        "url": "susan_ogwal"
+        "title": "How a Traumatic Brain Injury Shaped Emily Tarconish's Mission for Disability Advocacy",
+        "menu": "Our Stories",
+        "url": "emily_tarconish"
     },
     {
-        "title": "Dr. Freeman Hrabowski III",
-        "menu": "Alumni and Donors",
-        "url": "freeman_hrabowski"
+        "title": "Colleges Must Reexamine Career Services to Boost Employment of Students with Disabilities",
+        "menu": "Our Stories",
+        "url": "career_services"
     },
     {
-        "title": "Alumnus Makes Surgical Training Model a Reality in Africa",
+        "title": "Donor Impact",
         "menu": "Alumni and Donors",
-        "url": "surgical_training"
+        "url": "donor_impact"
     },
     {
-        "title": "Douglas and Dorothy Dirks Empowering the Champaign Freedom School",
+        "title": "Former Dean Mildred Griggs: A Powerful Advocate for Social Justice",
         "menu": "Alumni and Donors",
-        "url": "douglas_dorothy"
+        "url": "dean_mildred_griggs"
     },
     {
-        "title": "McCarthey Doctoral Fellowship Supports Teacher Education Scholars",
+        "title": "Education at Illinois 2023 Alumni Award Recipients",
         "menu": "Alumni and Donors",
-        "url": "mccarthey"
+        "url": "award_recipients"
     },
     {
-        "title": "Celebrate James D. Anderson’s Legacy by Supporting Students",
+        "title": "More Donor Stories",
         "menu": "Alumni and Donors",
-        "url": "james_anderson_legacy"
-    },
-    {
-        "title": "Thank You",
-        "menu": "Alumni and Donors",
-        "url": "thank_you"
+        "url": "more_donor_stories"
     }
 ]

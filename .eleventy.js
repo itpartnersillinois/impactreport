@@ -186,20 +186,30 @@ module.exports = (function (eleventyConfig) {
 
     if (returnValue == -1) {
       return `<nav class="arrows" aria-label="forward and back navigation">
-      <a href="/${menu[0].url}/index.html" class="next"><span class="il-icon">next</span></a>
+      <a href="/${menu[0].url}/index.html" class="next" aria-label="next page"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="presentation">
+      <path d="M8 24l2.83 2.83L22 15.66V40h4V15.66l11.17 11.17L40 24 24 8 8 24z"></path>
+    </svg></a>
       </nav>`;
     } else if (returnValue == 0) {
       return `<nav class="arrows" aria-label="forward and back navigation">
-      <a href="/${menu[1].url}/index.html" class="next"><span class="il-icon">next</span></a>
+      <a href="/${menu[1].url}/index.html" class="next" aria-label="next page"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="presentation">
+      <path d="M8 24l2.83 2.83L22 15.66V40h4V15.66l11.17 11.17L40 24 24 8 8 24z"></path>
+    </svg></a>
       </nav>`;
     } else if (returnValue == menu.length - 1) {
       return `<nav class="arrows" aria-label="forward and back navigation">
-      <a href="/${menu[menu.length - 2].url}/index.html" class="back"><span class="il-icon">back</span></a>
+      <a href="/${menu[menu.length - 2].url}/index.html" class="back" aria-label="back one page"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="presentation">
+      <path d="M8 24l2.83 2.83L22 15.66V40h4V15.66l11.17 11.17L40 24 24 8 8 24z"></path>
+    </svg></a>
       </nav>`;
     } else {
       return `<nav class="arrows" aria-label="forward and back navigation">
-      <a href="/${menu[returnValue - 1].url}/index.html" class="back"><span class="il-icon">back</span></a>
-      <a href="/${menu[returnValue + 1].url}/index.html" class="next"><span class="il-icon">next</span></a>
+      <a href="/${menu[returnValue - 1].url}/index.html" class="back" aria-label="back one page"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="presentation">
+      <path d="M8 24l2.83 2.83L22 15.66V40h4V15.66l11.17 11.17L40 24 24 8 8 24z"></path>
+    </svg></a>
+      <a href="/${menu[returnValue + 1].url}/index.html" class="next" aria-label="next page"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="presentation">
+      <path d="M8 24l2.83 2.83L22 15.66V40h4V15.66l11.17 11.17L40 24 24 8 8 24z"></path>
+    </svg></a>
       </nav>`;
     }
   });
