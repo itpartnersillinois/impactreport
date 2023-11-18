@@ -18,6 +18,38 @@ body.top-background .splash {
     background-position: top;
 }
 
+// for ai
+body.storm {
+    background: #252525;
+
+main {    
+    h1 {
+        color: #009FD4;
+        font-size: 48px;
+        line-height: 58px;
+        max-width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+
+        span {
+            color: white;
+        }
+    }
+
+    p {
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 50px;
+        max-width: 800px;
+        color: white;
+        text-transform: uppercase;
+        font-size: 32px;
+        line-height: 46px;
+    }
+}
+
+}
+
 .splash {
     display: flex;
     color: white;
@@ -33,17 +65,27 @@ body.top-background .splash {
         min-height: calc(100vh - 10em);
 
         h1 {
+            font-size: 48px;
             color: white;
             line-height: normal;
         }
 
-        h2 {
+        h2, h3 {
             padding: 1em 0 0 0;
             color: white;
             line-height: normal;
         }
 
+        h2 {
+            font-size: 48px;
+        }
+
+        h3 {
+            font-size: 36px;
+        }
+
         li {
+            font-size: 24px;
             line-height: normal;
         }
 
@@ -64,15 +106,9 @@ body.top-background .splash {
 
             li {
                 padding: 1vw;
-                font-size: 1.5em;
+                font-size: 24px;
                 line-height: normal;
                 list-style: none;
-
-                span {
-                    font-size: 5em;
-                    font-weight: bold;
-                    display: block;
-                }
             }
         }
     }

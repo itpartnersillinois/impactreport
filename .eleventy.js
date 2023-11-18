@@ -35,21 +35,16 @@ module.exports = (function (eleventyConfig) {
   eleventyConfig.addFilter("transformListWithImages", function (item) {
     var returnValue = '<ul class="imagelist">';
     item.forEach(element => {
-      returnValue = returnValue + `<li><a href="https://education.illinois.edu/faculty/${element.username}"><img src="${element.image}" alt="${element.header}"></a><p class="header"><a href="https://education.illinois.edu/faculty/${element.username}">${element.header}</a></p><p class="subheader">${element.subheader}</p>${element.text}</li>`;
+      returnValue = returnValue + `<li><a href="https://education.illinois.edu/faculty/${element.username}"><img class="round" src="${element.image}" alt="${element.header}"></a><p class="header"><a href="https://education.illinois.edu/faculty/${element.username}">${element.header}</a></p><p class="subheader">${element.subheader}</p>${element.text}<div>"${element.quote}"</div></li>`;
     });
     returnValue = returnValue + '</ul>';
     return returnValue;
   });
 
-  eleventyConfig.addFilter("transformListWithImagesSimple", function (item) {
-    var returnValue = '<ul class="imagelist">';
+  eleventyConfig.addFilter("transformGridBooks", function (item) {
+    var returnValue = '<ul class="imagegrid">';
     item.forEach(element => {
-      var imageClass = element.doubleimage ? 'simple double' : 'simple';
-      if (element.username == '') {
-        returnValue = returnValue + `<li><img class="${imageClass}" src="${element.image}" alt="${element.header}"><p>${element.text}</p></li>`;
-      } else {
-        returnValue = returnValue + `<li><a href="https://education.illinois.edu/faculty/${element.username}"><img class="${imageClass}" src="${element.image}" alt="${element.header}"></a><p><a href="https://education.illinois.edu/faculty/${element.username}"><span style="font-weight: bold;">${element.header}</span></a>, ${element.text}</p></li>`;
-      }
+      returnValue = returnValue + `<li><img src="${element.image}" alt="Book by ${element.author}"><p><strong>${element.author}</strong> ${element.byline}</p></li>`;
     });
     returnValue = returnValue + '</ul>';
     return returnValue;
@@ -85,20 +80,20 @@ module.exports = (function (eleventyConfig) {
     returnValue = returnValue + '</ul>';
     return returnValue;
   });
-
-  eleventyConfig.addFilter("transformOutreach", function (item) {
-    var returnValue = '<ul class="imagegrid text outreach">';
+  
+  eleventyConfig.addFilter("transformGridEmit", function (item) {
+    var returnValue = '<ul class="imagegrid emit">';
     item.forEach(element => {
-      returnValue = returnValue + `<li><a href="${element.link}">${element.title}</a> ${element.description}</li>`;
+      returnValue = returnValue + `<li><img src="${element.image}" alt="${element.header}"></a><p><span>${element.header}</span> ${element.subheader}</p></li>`;
     });
     returnValue = returnValue + '</ul>';
     return returnValue;
   });
 
-  eleventyConfig.addFilter("transformRoundtableTopics", function (item) {
-    var returnValue = '<ul class="imagegrid text wide">';
+  eleventyConfig.addFilter("transformOutreach", function (item) {
+    var returnValue = '<ul class="imagegrid text outreach">';
     item.forEach(element => {
-      returnValue = returnValue + `<li class="nopadding"><h3>${element.speaker}</h3><p class="pi">${element.title}</p><p>${element.description}</p></li>`;
+      returnValue = returnValue + `<li><a href="${element.link}">${element.title}</a> ${element.description}</li>`;
     });
     returnValue = returnValue + '</ul>';
     return returnValue;
@@ -185,19 +180,19 @@ module.exports = (function (eleventyConfig) {
     });
 
     if (returnValue == -1) {
-      return `<nav class="arrows" aria-label="forward and back navigation">
+      return `<nav class="arrows" aria-label="forward navigation for title">
       <a href="/${menu[0].url}/index.html" class="next" aria-label="next page"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="presentation">
       <path d="M8 24l2.83 2.83L22 15.66V40h4V15.66l11.17 11.17L40 24 24 8 8 24z"></path>
     </svg></a>
       </nav>`;
     } else if (returnValue == 0) {
-      return `<nav class="arrows" aria-label="forward and back navigation">
+      return `<nav class="arrows" aria-label="forward navigation">
       <a href="/${menu[1].url}/index.html" class="next" aria-label="next page"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="presentation">
       <path d="M8 24l2.83 2.83L22 15.66V40h4V15.66l11.17 11.17L40 24 24 8 8 24z"></path>
     </svg></a>
       </nav>`;
     } else if (returnValue == menu.length - 1) {
-      return `<nav class="arrows" aria-label="forward and back navigation">
+      return `<nav class="arrows" aria-label="back navigation">
       <a href="/${menu[menu.length - 2].url}/index.html" class="back" aria-label="back one page"><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="presentation">
       <path d="M8 24l2.83 2.83L22 15.66V40h4V15.66l11.17 11.17L40 24 24 8 8 24z"></path>
     </svg></a>
