@@ -21,13 +21,11 @@ url: graduate_programs
 * Master of Education
 * Master of Science
 </div>
-<div>
 <ul class="stats no-bullets"  style="display: block;">
 <li><span>526</span> 2022-2023 on-campus graduate student enrollment</li>
 <li><span>29%</span> On-campus graduate students from underrepresented populations</li>
 <li><span>20%</span> On-campus graduate students from international populations</li>
 </ul>
-</div>
 </div>
 
 <il-image-feature class="il-theme-gray">
