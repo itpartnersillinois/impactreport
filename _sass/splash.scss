@@ -57,6 +57,7 @@ main {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    padding-bottom: 50px;
 
     .full {
         background: rgba(0,0,0,.35);
@@ -160,23 +161,10 @@ main {
 
 @media only screen and ( max-width: 1000px ) {
     .splash {
-        display: block;
-        padding: 220px 30px 50px;
-        padding-bottom: 50px;
+        padding-bottom: 110px;
         max-width: var(--il-content-max-width);
         margin: auto;
 
-        .full {
-            .intro-text {
-                    padding: 0;
-                }
-
-            h2 {
-                font-size: 1.25em;
-                padding: 0 10px;
-            }
-            }
-   
         .left {       
             width: initial;
             }
@@ -185,11 +173,6 @@ main {
             width: initial;
         }
     }
-
-    body.centered .splash .full {
-        padding: initial;
-    }
-   
 }
 
 @media only screen and (max-width: 500px ) {
