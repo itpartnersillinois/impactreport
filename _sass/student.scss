@@ -1,86 +1,19 @@
-body.student {
-    background-color: var(--il-blue);
-}
+div.student {
+    display: flex;
+    column-gap: 30px;
+    margin-top: 30px;
 
-main.student {
-    padding-top: 180px;
+    div {
+        flex: 33% 1 0;
+    }
 
-    div.student-container {
-        display: flex;
-        color: white;
-        width: 100%;
-        background-repeat: no-repeat;
-        background-size: cover;
-
-        min-height: 125vh;
-        margin: auto;
-
-        max-width: var(--il-content-max-width);
-
-        .box {
-            background: rgba(19, 41, 75, 0.8);
-            color: white;
-            position: absolute;
-            padding: 30px;
-            left: 66%;
-            width: 30%;
-            top: 68vh;
-
-            &.topleft {
-                left: 2%;
-            }
-
-            &.fullleft {
-                left: 0%;
-                height: 100%;
-                width: 27%;
-            }
-
-            &.bottomleft {
-                left: 2%;
-                top: 50vh;
-            }
-
-            &.bottomright {
-                top: 88vh;
-            }
-
-            h1 {
-                font-family: "Fjalla One";
-                color: var(--il-orange);
-                margin-bottom: 0;
-                padding-bottom: 0;
-            }
-
-            h2 {
-                font-size: 1.3em;
-                font-weight: bold;
-                color: var(--il-orange);
-                margin-top: 0;
-            }
-
-            p {
-                font-size: 1.3em;
-                line-height: 1.4em;
-            }
-
-            p.blockquote-small {
-                font-weight: bold;
-            }
-        }
+    img {
+        max-width: 100%;
     }
 }
 
-@media only screen and (max-width: 800px) {
-    .student {
-        .box {
-            width: auto;
-            left: 0;
-            top: 80vh;
-            &.fullleft {
-                height: initial;
-                width: 100%;
-            }
-        }
+@media only screen and ( max-width: 1000px ) {
+    div.student {
+        display: block;
     }
 }

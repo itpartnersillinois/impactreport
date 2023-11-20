@@ -3,7 +3,9 @@ layout: article.liquid
 pageTitle: Undergraduate Programs
 url: undergrad_programs
 ---
-![Amy Heinricks posing in a sunflower field](/img/up.png){ .left } 
+
+<div class="program">
+<div>
 
 ## Bachelor of Science plus licensure:
 
@@ -11,10 +13,9 @@ url: undergrad_programs
 * Elementary Education 
 * Middle Grades Education 
 * Special Education 
-* NEW Secondary Education: Mathematics 
-* NEW Early Childhood Professional Education
+* Secondary Education: Mathematics 
 
-## <span class="orange">NEW</span> Computer Science + Education:
+## Computer Science + Education:
 
 * Secondary Education Licensure 
 * Learning Sciences
@@ -29,19 +30,31 @@ url: undergrad_programs
 * Mathematics 
 * Physics
 
-## Bachelor of Science in Learning & Education  Studies with concentrations in:
+## Bachelor of Science in Learning & Education Studies with concentrations in:
 
-* Applied Learning Science 
+* Digital Environments for Learning, Teaching & Agency
 * Educational Equality & Cultural Understanding 
 * Workplace Training & Development 
-* Digital Environments for Learning, Teaching & Agency
 
-<ul class="stats no-bullets">
-<li><span>688</span> students enrolled in the College</li>
-<li><span class="blue">163</span> Bachelor's degrees awarded in 2021-22</li>
-<li><span>72</span> Secondary education minors awarded in 2022</li>
-<li><span class="blue">27%</span> Undergraduate students from underrepresented populations</li>
+## Bachelor of Science in Early Childhood Professional Education:
+
+* Licensure and non-licensure pathways
+
+</div>
+<ul class="stats no-bullets" style="display: block;">
+<li><span>728</span> Fall 2023 undergraduate student enrollment</li>
+<li><span>29%</span> Undergraduate students from underrepresented populations</li>
 <li><span>3%</span> Undergraduate students from international populations</li>
 </ul>
+</div>
 
-*Pictured: Amy Heinrichs is a junior from Palatine, IL. She is a part of our first-ever Early Childhood Professional Education cohort.*
+<il-image-feature class="il-theme-gray">
+<img slot="image" src="/img/10/anisa.jpg" style="max-width: initial;">
+<h2>Anisa Chatman | Creating Positive Change</h3>
+<p>Chatman is a junior in our Learning & Education Studies program. She knew she wanted to enter the field of education after presenting a research essay in high school about classroom segregation. She enjoys attending the many different cultural events on campus such as the Black and Latinx Summit and the various events hosted by the Bruce D. Nesbitt African American Cultural Center and the Central Black Student Union. She recently studied abroad in Nairobi, Kenya.</p>
+
+<p><strong>“This life-changing experience has encouraged me to learn multiple languages, understand my position as an American, and makes me eager to learn about different cultures. I believe as an educator, all of these things can be very beneficial to creating a more inclusive and welcoming space for all different kinds of students.”</strong></p>
+</il-image-feature>
+
+## 
+

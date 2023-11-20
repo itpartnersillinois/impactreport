@@ -26,4 +26,9 @@ gulp.task("copy2021", function () {
         .pipe(gulp.dest('./_site/archive2021'));
 });
 
+gulp.task("copy2022", function () {
+    return gulp.src('./archive2022/**')
+        .pipe(gulp.dest('./_site/archive2022'));
+});
+
 gulp.task("default", gulp.series("styles", "webfonts"));

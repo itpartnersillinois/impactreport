@@ -6,9 +6,21 @@
     grid-gap: 20px;
     padding-left: 0;
 
-    
+    &.emit {
+        margin-top: 30px;
+        margin-bottom: 30px;
+        img {
+            border-radius: 50%;
+        }
+        p span {
+            color: var(--il-industrial-blue);
+            font-weight: 700;
+        }    
+    }
+
+
     &.outreach {
-        grid-template-columns: repeat(auto-fit,300px);
+        grid-template-columns: repeat(auto-fit,365px);
         justify-content: center;
     }
 
@@ -42,7 +54,6 @@
         
 
         li {
-            background: $cloud_base;
             padding: 10px;
 
             &.nopadding {
@@ -64,16 +75,6 @@
             p {
                 padding: 0 10px;
             }
-        }
-    }
-
-    &.outreach {
-        padding: 30px 0;
-        background: #D9E3F4;
-
-        li {
-            background: var(--il-cloud);
-            padding: 30px;
         }
     }
 }
