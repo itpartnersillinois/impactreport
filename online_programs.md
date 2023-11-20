@@ -41,12 +41,10 @@ url: online_programs
 * Teaching Computer Science
 
 </div>
-<div>
 <ul class="stats no-bullets" style="display: block;">
 <li><span>1,012</span> 2022-2023 online graduate student enrollment</li>
 <li><span>27%</span> Online graduate students from underrepresented populations</li>
 </ul>
-</div>
 </div>
 
 <il-image-feature class="il-theme-gray">
