@@ -1,0 +1,57 @@
+[
+    {
+        "image": "/img/notable_books/kern_alexander.jpg",
+        "author": "Kern Alexander",
+        "byline": "West Academic Publishing"
+    },
+    {
+        "image": "/img/notable_books/jennifer_delaney.jpg",
+        "author": "Jennifer Delaney",
+        "byline": "American Educational Research Association Publications"
+    },
+    {
+        "image": "/img/notable_books/mark_dressman.jpg",
+        "author": "Mark Dressman",
+        "byline": "Wiley Blackwell"
+    },
+    {
+        "image": "/img/notable_books/walter_feinberg.png",
+        "author": "Walter Feinberg",
+        "byline": "Cambridge University"
+    },
+    {
+        "image": "/img/notable_books/jon_hale.jpg",
+        "author": "Jon Hale",
+        "byline": "University of North Carolina Press"
+    },
+    {
+        "image": "/img/notable_books/linda_herrera.png",
+        "author": "Linda Herrera",
+        "byline": "The American University in Cairo Press"
+    },
+    {
+        "image": "/img/notable_books/rodney_hopson.jpg",
+        "author": "Rodney Hopson",
+        "byline": "Information Age Publishing"
+    },
+    {
+        "image": "/img/notable_books/h_chad_lane.png",
+        "author": "H. Chad Lane",
+        "byline": "Edward Elgar Publishing"
+    },
+    {
+        "image": "/img/notable_books/stephanie_sanders_smith.png",
+        "author": "Stephanie Sanders-Smith",
+        "byline": "Routledge Taylor & Francis Group"
+    },
+    {
+        "image": "/img/notable_books/michaelene_ostrosky.png",
+        "author": "Michaelene Ostrosky",
+        "byline": "Brookes Publishing"
+    },
+    {
+        "image": "/img/notable_books/arlette_willis.png",
+        "author": "Arlette Willis",
+        "byline": "Routledge"
+    }
+]

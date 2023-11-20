@@ -7,10 +7,7 @@ body.center-title h1 {
     max-width: var(--il-content-max-width);
     margin: auto;
 
-    h1,
-    h2,
-    h3,
-    h4 {
+    h1 {
         color: $blue_base;
         font-family: "Montserrat", sans-serif;
         font-weight: 700;
@@ -21,17 +18,40 @@ body.center-title h1 {
     }
 
     h1 {
-        font-size: 4em;
+        font-size: 48px;
         margin-bottom: 0;
         padding-bottom: 0;
     }
 
     h2 {
+        font-size: 48px;
         margin-top: 1.5em;
+        clear: both;
+
+        &.centered {
+            margin-top: 1em;
+            padding-top: .5em;
+            text-align: center;
+            border-top: thin solid var(--il-orange);
+        }
+    }
+
+    h3 {
+        font-size: 36px;
+    }
+
+    h3.emit {
+        font-size: 29px;
+        color: var(--il-industrial-blue);
     }
 
     p {
-        line-height: 1.8em;
+        line-height: 28px;
+        font-size: 18px;
+
+        &.line {
+            border-top: thin solid var(--il-orange);
+        }
     }
 
     p.byline {
@@ -40,8 +60,14 @@ body.center-title h1 {
         padding-bottom: 1.5em;
     }
 
+    div.clear {
+        clear: both;
+        height: 0;
+        margin: 0;
+        padding: 0;
+    }
+
     li {
-        line-height: 1.8em;
         margin-bottom: .4em;
     }
 
@@ -56,6 +82,14 @@ body.center-title h1 {
         &.full {
             width: 100%;
             max-width: 100%;
+        }
+
+        &.fixed-small-width {
+            width: 150px;
+        }
+
+        &.fixed-medium-width {
+            width: 350px;
         }
 
         &.left {
@@ -84,6 +118,12 @@ body.center-title h1 {
             display: block;
             border-radius: 50%;
             padding: 0 30px;
+        }
+
+        &.hero {
+            margin: -40px calc(50% - 50vw) 0 calc(50% - 50vw);
+            min-width: calc(100vw - 2px);
+            display: block;
         }
     }
 
@@ -118,12 +158,9 @@ body.center-title h1 {
 
         li {
             padding: 1vw;
-            font-size: 1.5em;
             text-align: center;
             list-style: none;
             margin: 0;
-            font-weight: bold;
-            font-family: "Montserrat", sans-serif;
 
             img {
                 width: 100%;
@@ -134,13 +171,28 @@ body.center-title h1 {
                 font-size: 8rem;
                 font-weight: bold;
                 display: block;
-                color: $orange_base;
+                color: var(--il-orange);
                 line-height: initial;
             }
+        }
 
-            span.blue {
-                color: $blue_base;
-            }
+        li:nth-child(odd) span {
+            color: var(--il-industrial-blue);
+        }
+    }
+
+    .stats.horizontal li {
+        display: flex;
+        text-transform: uppercase;
+        justify-content: center;
+        align-items: center;
+        column-gap: 10px;
+        margin: 40px;
+
+        span {
+            color: var(--il-blue);
+            border-right: thin solid var(--il-blue);
+            padding-right: 10px;
         }
     }
 }
