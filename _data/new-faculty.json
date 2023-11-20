@@ -1,51 +1,74 @@
 [
     {
-        "image": "/img/new_faculty/mari_altshuler.png",
-        "username": "mshuler",
-        "header": "Mari Altshuler",
-        "subheader": "Teaching Assistant Professor, Curriculum & Instruction",
-        "text": "Mari Altshuler aims to support young children and their teachers in believing that they are capable math learners and thinkers. She studies how early elementary school students form relationships with mathematics,. Her research highlights the importance of making space in math classrooms for students to exercise agency. Altshuler recently completed her Ph.D. in Learning Sciences at Northwestern University in Evanston, where she worked with in-service and pre-service elementary school teachers to explore students’ complex mathematical ideas. "
+        "image": "/img/new_faculty/elizabeth_dyer.jpg",
+        "username": "edyer",
+        "header": "Elizabeth Dyer",
+        "subheader": "Assistant Professor, Curriculum & Instruction",
+        "text": "Dyer completed her Ph.D. in Learning Sciences at Northwestern University and a B.A. degree in Astrophysics and Mathematics from the University of California, Berkeley.",
+        "quote": "My work focuses on educators’ professional learning in K-12 mathematics, science, and STEM contexts. I use a learning sciences perspective to investigate the reasoning, sensemaking, and processes used by educators as they transform and reimagine their practice. This involves using a variety of research methodologies, including qualitative, quantitative, and computational methods, and relies heavily on video data from classrooms and professional learning experiences."
     },
     {
-        "image": "/img/new_faculty/lorenzo_baber.png",
-        "username": "ldbaber",
-        "header": "Lorenzo Baber",
-        "subheader": "Professor, Education Policy, Organization & Leadership",
-        "text": "Lorenzo Baber returns to the University of Illinois Urbana-Champaign after serving as a tenured faculty member at Loyola University Chicago and Iowa State University. He is the new director of the College’s Office of Community College Research and Leadership. His scholarly interests examine equity and social justice in postsecondary education. His research foci include leadership within community college contexts, experiences of minoritized students in postsecondary STEM education, and use of critical social theory to inform higher education policies and practices. He holds a Ph.D. in Education Policy Studies from Pennsylvania State University."
+        "image": "/img/new_faculty/stephanie_toliver.jpg",
+        "username": "stoliver",
+        "header": "Stephanie Toliver",
+        "subheader": "Assistant Professor, Curriculum & Instruction",
+        "text": "Toliver completed her Ph.D. in Language and Literacy Education and a graduate certificate in Diversity, Equity, and Inclusion from the University of Georgia. Prior to that, she completed an M.S. in Curriculum and Instruction after earning a B.A. in English Education—both from Florida Agricultural and Mechanical University (FAMU), an HBCU in Tallahassee, Florida.",
+        "quote": "My scholarship is centered in the examination of how Black youth engage in the reading and writing of speculative fiction to discuss and challenge their experiences with social injustice; the consideration of how intersecting oppressions infiltrate the field of education and how educators must use their imaginations to dream of ways to challenge injustice in schools; and the demonstration of how Black people use speculative storytelling to metaphorically describe modern and historical antiblackness and to dream of worlds and futures in which Black people are free from the burdens of societal injustice."
     },
     {
-        "image": "/img/new_faculty/chang_kyu_kwon.png",
-        "username": "kwonc",
-        "header": "Chang-Kyu Kwon",
+        "image": "/img/new_faculty/stacy_bennett.jpg",
+        "username": "bennetts",
+        "header": "Stacy Bennett",
+        "subheader": "Teaching Assistant Professor, Education Policy, Organization & Leadership",
+        "text": "Bennett is an Illinois alumna, completing her Ph.D. in Education Policy, Organization & Leadership focused on Higher Education Policy. Previously, she earned a Master of Public Policy (MPP) from the University of Chicago and a B.S. in Political Science, Geography, and Environmental Science from Kansas State University.",
+        "quote": "Professionally, I have focused on public policy, political campaigns, and grassroots advocacy through working with organizations, candidates, and elected officials at the national, state, and local levels. Prior to this, I worked in undergraduate admissions at the UIUC Gies College of Business and was an independent consultant working on a variety of education projects including grant evaluation, public awareness, and admissions consulting."
+    },
+    {
+        "image": "/img/new_faculty/vania_castro.png",
+        "username": "vaniac",
+        "header": "Vânia Castro",
+        "subheader": "Teaching Assistant Professor, Education Policy, Organization & Leadership",
+        "text": "Castro completed her Ph.D. in Applied Linguistics at the Federal University of Minas Gerais (UFMG), Brazil, in May 2021.",
+        "quote": "I held the Werner Baer Postdoctoral Fellow position at the Lemann Center for Brazilian Studies at the University of Illinois Urbana-Champaign from 2022 to 2023. Additionally, I was a visiting scholar with the CAPES/PrInt program at UIUC in 2019 and 2020, where I developed part of my doctoral study. My investigation centered on leveraging mobile devices to provide support to educators and students in underserved regions of Brazil. My current research interests include emerging technologies in education, mobile learning, multiliteracies, teacher education, and artificial intelligence."
+    },
+    {
+        "image": "/img/new_faculty/kimberly_ransom.jpg",
+        "username": "kransom",
+        "header": "Kimberly Ransom",
         "subheader": "Assistant Professor, Education Policy, Organization & Leadership",
-        "text": "Chang-kyu Kwon received his Ph.D. in Learning, Leadership & Organization Development from the University of Georgia in 2019 and his M.A. in Organizational Behavior & Evaluation from Claremont Graduate University. Kwon’s research is informed by adult learning and development theories and seeks to create whole person organizational systems in which people with minoritized identities can be fully themselves. He was recognized by the Academy of Human Resource Development’s 2022 Richard A. Swanson Research Excellence Award."
+        "text": "Ransom completed her Ph.D. in Educational Studies from the University of Michigan, her M.A. from DePaul University, and her B.S. from Bradley University.",
+        "quote": "I am an interdisciplinary historian studying the history of African American education and childhood. My research examines the oral histories and material objects of Black children who once attended segregated schools in the Deep South during the Jim Crow Era (1940-1969). As a public scholar and artist, I use historical research to create public exhibits related to African American childhood in and around schools, seeking to illuminate the unique ways Black children have been marginalized from childhood status in America."
     },
     {
-        "image": "/img/new_faculty/jessica_gladstone.png",
-        "username": "jglads2",
-        "header": "Jessica Gladstone",
+        "image": "/img/new_faculty/gabriel_rodriguez.jpg",
+        "username": "grodrig2",
+        "header": "Gabriel Rodriguez",
+        "subheader": "Assistant Professor, Education Policy, Organization & Leadership",
+        "text": "A three-time graduate of the University of Illinois Urbana-Champaign, Rodriguez completed his Ph.D. in Education Policy, Organization & Leadership focused on Educational Policy Studies.",
+        "quote": "My research has two main areas of focus. The first centers on learning from high school youth of color’s sense of belonging, identities, and activism in demographically changing [sub]urban schools and communities. The second focuses on teachers of color in urban schools and how they advocate for educational justice and organize against market-based reforms. My qualitative research draws from anthropological and sociological perspectives, as well as frameworks in critical youth studies and ethnic studies."
+    },
+    {
+        "image": "/img/new_faculty/nicolas_tanchuk.jpg",
+        "username": "ntanchuk",
+        "header": "Nicolas Tanchuk",
+        "subheader": "Assistant Professor, Education Policy, Organization & Leadership",
+        "text": "Chen earned her Ph.D. in Psychology from South China Normal University and most recently served as a research associate at the Learning Research and Development Center at the University of Pittsburgh.",
+        "quote": "My philosophical and empirical work focuses on the intersection between values and evidence in the design of educational experiences. I am especially interested in how democratic institutions, law, and markets can be redesigned to support learning and problem-solving across differences in identity and context. I have emerging research interests in the sciences, politics, and epistemology of educational technology."
+    },
+    {
+        "image": "/img/new_faculty/lin_chen.jpg",
+        "username": "linchen8",
+        "header": "Lin Chen",
         "subheader": "Assistant Professor, Educational Psychology",
-        "text": "Jessica Gladstone received her B.S. and M.S. in Applied Psychology from the University of West Florida and her Ph.D. from the University of Maryland, specializing in both Developmental Sciences and Educational Psychology. As a postdoc at New York University and Virginia Commonwealth University, she explored student motivation from different theoretical and methodological perspectives. Her current research examines students’ STEM motivation and engagement, the impact of socializers on this, and the ways that motivation and engagement can predict achievement."
+        "text": "Tanchuk joins the College as an assistant professor of Philosophy of Education. He holds a Ph.D. in Philosophy and Education from Columbia University’s Teachers College.",
+        "quote": "Before moving to the United States, I held a faculty position at Sun Yat-sen University, China. My research broadly focuses on the cognitive processes underlying reading comprehension, which I investigate using EEG, eye tracking, behavioral measures, and computational methods. The goal of my research is to enhance language education for both first and second language learners by gaining a better understanding of the cognitive processes contributing to language comprehension and the causes of reading difficulty."
     },
     {
-        "image": "/img/new_faculty/aixa_marchand.png",
-        "username": "admarch",
-        "header": "Aixa Marchand",
-        "subheader": "Assistant Professor, Educational Psychology",
-        "text": "Aixa Marchand received her Ph.D. in Psychology and Education with certificates in African American and Diasporic Studies and Graduate Teaching from the University of Michigan. Marchand’s main line of research applies an interdisciplinary lens to the societal, contextual, and cultural factors that shape the academic achievement of students of color, with a focus on working with Black parents. More specifically, her research focuses on the attributions that Black parents make about educational inequities and how these attributions may relate to their school engagement."
-    },
-    {
-        "image": "/img/new_faculty/kaylin_ratner.png",
-        "username": "kratner",
-        "header": "Kaylin Ratner",
-        "subheader": "Assistant Professor, Educational Psychology",
-        "text": "Kaylin Ratner received a Ph.D. in Developmental Psychology from Cornell University with concentrations in Social and Personality Development, Developmental Psychopathology, and Applied Statistics. She earned a M.A. (Clinical Psychology) and B.S. (Psychology, honors) degrees from the University of Central Florida. Ratner studies how adolescents and young adults reconcile their senses of identity, purpose, and meaning in life, and how these psychosocial processes interface with mental health."
-    },
-    {
-        "image": "/img/new_faculty/michele_schutz.png",
-        "username": "maschutz",
-        "header": "Michele Schutz",
-        "subheader": "Assistant Professor, Special Education",
-        "text": "Michele Schutz earned her Ph.D. in Special Education from Vanderbilt University. She earned her bachelor’s degree in Special Education from Illinois State University and her master’s degree in Multiple Disabilities and Secondary Transition from the University of Illinois Chicago. Schutz’s research interests center on the transition of youth with significant disabilities from high school to adult outcomes, especially meaningful employment. support needs to work experiences, particularly in rural communities. She is particularly interested in the roles that various school staff play in facilitating career development for students with disabilities, particularly in rural communities."
+        "image": "/img/new_faculty/matthew_lambert.jpg",
+        "username": "matt5",
+        "header": "Matt Lambert",
+        "subheader": "Professor and Department Head, Special Education",
+        "text": "Lambert earned his Ph.D. and M.Ed.. in Educational Psychology from Texas Tech University and his B.S. in Applied Behavior Analysis from the University of North Texas.",
+        "quote": "At the University of Nebraska, I held faculty and leadership positions for 10 years in the Department of Special Education and Communication Disorders. While I have always held appointments in special education, my doctoral training was in educational psychology with an emphasis in utilizing advanced quantitative and measurement methodologies to study the emotional and behavioral wellbeing of school-aged children with disabilities. Prior to my doctoral studies, I worked as an applied behavior analyst with young students with concomitant intellectual, behavioral, and sensory disabilities. My work now represents a blended focus of substantive and methodological issues related to special education research. Over the years, my research has focused broadly on assessment and interventions for students with emotional and behavioral disorders."
     }
 ]

@@ -7,6 +7,22 @@
 <link type="text/css" rel="stylesheet" href="/style/site.css">
 <script src="https://cdn.toolkit.illinois.edu/2/toolkit.js"></script>
 <script src="https://cdn.disability.illinois.edu/skipto.min.js"></script>
+<script>
+  window.addEventListener("keydown", (event) => {
+      if (event.code === 'ArrowRight') {
+          let buttonClick = document.querySelector('nav a.next');
+          if (buttonClick != null) {
+              buttonClick.click();
+          }
+      } else if (event.code === 'ArrowLeft') {
+          let buttonClick = document.querySelector('nav a.back');
+          if (buttonClick != null) {
+              buttonClick.click();
+          }
+      }
+      return;
+  });
+</script>
 <script>var SkipToConfig = { 'settings': { 'skipTo': { displayOption: 'popup', colorTheme: 'illinois' } } };</script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-J52L2WJ6ED"></script>
 <script>
