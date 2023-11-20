@@ -1,5 +1,4 @@
 .arrows {
-
     .next {
       position: fixed;
       bottom: 20px;
@@ -35,6 +34,10 @@
       fill: var(--il-blue);
       background: white;
   }
+    
+ a.next:hover, a.next:focus, a.back:hover, a.back:focus {
+  outline: black thin solid;
+}
 
   .il-icon {
     font-size: 118px;
