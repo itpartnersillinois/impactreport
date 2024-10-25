@@ -5,7 +5,7 @@ section: Discovery
 ---
 <ilw-content>
 
-![Cartoon of a pregnant woman being treated by a physician](/img/discovery/stine.jpg)
+![Elizabeth A. L. Stine-Morrow smiling at camera](/img/discovery/stine.jpg){.half}
 
 Older adults learned a memory task best after practicing multiple related tasks, suggesting that diverse cognitive training supports mental sharpness as we age.
 

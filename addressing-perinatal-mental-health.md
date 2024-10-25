@@ -3,6 +3,7 @@ layout: article.liquid
 pageTitle: Addressing Perinatal Mental Health Issues Through a Collaborative Research Approach
 byline: By Andy Olson, Office of the Vice Chancellor for Research and Innovation, University of Illinois
 section: Innovation
+headImage: ""
 ---
 <ilw-content>
 

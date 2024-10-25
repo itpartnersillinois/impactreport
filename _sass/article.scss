@@ -13,6 +13,17 @@ main#article {
     .section-pill.Innovation {
         background: #773ea3;
     }
+    .section-pill.Discovery {
+        background: #ff5f05;
+    }
+    .section-pill.Community {
+        background: #ffbe2e;
+        color: black;
+    }
+    .section-pill.Momentum {
+        background: #007e8e;
+    }
+    
     .byline {
         font-style: italic;
         font-size: 1rem;
@@ -43,5 +54,42 @@ main#article {
 
     img.circle {
         border-radius: 50%;
+    }
+
+    .quote::before {
+        content: url(/img/orange-quote.png);
+        padding-right: 6px;
+    }
+
+    .quote {
+        font-size: 1.2em;
+    }
+
+}
+
+@media (min-width: 600px) {
+    main#article {
+        .float-left {
+            width: 200px;
+            float: left;
+            padding: 0 20px 20px 0;
+        }
+        .float-right {
+            width: 200px;
+            float: right;
+            padding: 0 0 20px 20px;
+        }
+    }
+}
+
+
+@media (min-width: 800px) {
+    main#article {
+        .half {
+            max-width: 400px;
+            float: left;
+            width: 40%;
+            padding: 0 20px 20px 0;
+        }
     }
 }

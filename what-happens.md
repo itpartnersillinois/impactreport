@@ -13,7 +13,8 @@ bodyClass: good-things
 
 ![Teenage boy playing guitar in a private room](/img/discovery/goodthings.jpg)
 
-![Kaylin Ratner](/img/discovery/ratner.jpg)
+![Kaylin Ratner](/img/discovery/ratner.jpg) 
+*Photo by Fred Zwicky* {.float-left}
 
 Kaylin Ratner has been conducting research with the nonprofit, **GripTape** for the past four years that essentially turns traditional education on its head.
 

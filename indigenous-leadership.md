@@ -1,5 +1,5 @@
 ---
-layout: article-indigineous.liquid
+layout: article-indigenous.liquid
 pageTitle: Indigenous Leadership
 byline: "Image: Canyon de Chelly National Monument, Navajo Nation, Arizona, USA"
 section: Community

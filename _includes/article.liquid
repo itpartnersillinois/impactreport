@@ -9,15 +9,15 @@
             {% include header.liquid %}
         </header>
         <main id="article">
-            {% if headImage !== null && headImage !== "" %}
+            {% if headImage %}
             <img src="{{ headImage }}" alt="{{ headAlt }}" class="headImage">
             {% endif %}
             <ilw-content>
-                {% if section !== null && section !== "" %}
+                {% if section %}
                 <div class="section-pill {{ section }}">{{ section }}</div>
                 {% endif %}
                 <h1>{{ pageTitle }}</h1>
-                {% if byline !== null && byline !== "" %}
+                {% if byline %}
                 <p class="byline article-byline">{{ byline }}</p>
                 {% endif %}
             </ilw-content>
