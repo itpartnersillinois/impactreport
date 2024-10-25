@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        {% include head.liquid %}
+    </head>
+    <body class="{{ bodyClass }}">
+    <ilw-page class="ilw-font ilw-margin">
+        <header>
+            {% include header.liquid %}
+        </header>
+        <main>
+            <h1>{{ pageTitle }}</h1>
+            {{ content }}
+            <ilw-grid class="college-leadership">
+            {%- for person in college-leadership %}
+                <div><img src="/img/college-leadership/{{ person.netid }}.jpg" alt=""><h2><a href="https://education.illinois.edu/profile/{{ person.netid }}">{{ person.name }}</a></h2> <p>{{ person.title }}</p></div>
+            {% endfor -%}
+            </ilw-grid>
+            {% include arrows.liquid %}
+        </main>
+        {% include footer.liquid %}
+    </ilw-page>
+    </body>
+</html>

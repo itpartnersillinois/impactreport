@@ -1,182 +1,199 @@
 [
     {
-        "title": "A message from Dean Mouza",
-        "menu": "Our Leadership",
-        "url": "message_dean_mouza"
+        "title": "Dean's Message",
+        "menu": "Our College",
+        "url": "deans-message"
     },
     {
-        "title": "College of Education Leadership",
-        "menu": "Our Leadership",
-        "url": "college_leadership"
+        "title": "College Leadership",
+        "menu": "Our College",
+        "url": "college-leadership"
     },
     {
-        "title": "Call and Response",
-        "menu": "Our Leadership",
-        "url": "call_and_response"
+        "title": "Program Rankings & Milestones",
+        "menu": "Our College",
+        "url": "program-rankings"
     },
     {
-        "title": "Our World-Class Programs",
-        "menu": "College Facts",
-        "url": "world_class_programs"
+        "title": "16 Scholars Join Education at Illinois in 2024",
+        "menu": "Our College",
+        "url": "new-faculty"
     },
     {
-        "title": "Our Enrollment Trends",
-        "menu": "College Facts",
-        "url": "our_enrollment_trends"
+        "title": "Research Funding & Briefs",
+        "menu": "Our College",
+        "url": "research-funding"
     },
     {
-        "title": "Priorities & Milestones",
-        "menu": "College Facts",
-        "url": "priorities_milestones"
+        "title": "Connection is the Catalyst",
+        "menu": "Our College",
+        "url": "connection"
     },
     {
-        "title": "Introducing Dean Mouza: Excellence, Equity, and Engagement",
-        "menu": "Our Leadership",
-        "url": "dean_mouza"
+        "title": "Addressing Perinatal Mental Health",
+        "longtitle": "Addressing Perinatal Mental Health Issues Through a Collaborative Research Approach",
+        "menu": "Connection Through Innovation",
+        "url": "addressing-perinatal-mental-health"
     },
     {
-        "title": "A Tribute to James D. Anderson",
-        "menu": "Our Leadership",
-        "url": "james_anderson"
+        "title": "Illinois Researchers Create Tools & Disrupt Education",
+        "longtitle": "Illinois Researchers Stimulate Learning, Create Tools & Disrupt Education",
+        "menu": "Connection Through Innovation",
+        "url": "illinois-researchers-create-tools"
     },
     {
-        "title": "New Faculty",
-        "menu": "College Facts",
-        "url": "new_faculty"
+        "title": "Shaping the Future of Computer Science Education",
+        "longtitle": "Helping Policymakers Shape the Future of Computer Science Education",
+        "menu": "Connection Through Innovation",
+        "url": "shaping-future"
     },
     {
-        "title": "Why Teachers Should Be Trauma-informed",
-        "menu": "Our Stories",
-        "url": "trauma_informed"
+        "title": "Preparing Engineering Students for the Workforce",
+        "longtitle": "Collaborative Learning Experiences Prepare Engineering Students for the Workforce",
+        "menu": "Connection Through Innovation",
+        "url": "preparing-engineering"
     },
     {
-        "title": "I-Global is Growing",
-        "menu": "Our Stories",
-        "url": "iglobal"
+        "title": "What Happens When Students Follow Their Passion?",
+        "menu": "Connection Through Discovery",
+        "url": "what-happens"
     },
     {
-        "title": "TEAACH Teaching of Equitable Asian American Community History",
-        "menu": "Our Research",
-        "url": "teaach"
+        "title": "Book Club Explores Complexities & Joy of Black Life",
+        "longtitle": "High School Book Club Explores the Complexities, Joys of Black Life",
+        "menu": "Connection Through Discovery",
+        "url": "book-club"
     },
     {
-        "title": "Colleges of Education and Media Team Up to Help Illinois High Schoolers Understand the Media They Consume",
-        "menu": "Our Research",
-        "url": "media_consume"
+        "title": "White Teachers Struggle with Race Relations",
+        "longtitle": "Whether a Racial Minority or Majority at Their School, White Teachers Struggle with Race Relations",
+        "menu": "Connection Through Discovery",
+        "url": "white-teachers-struggle-with-race-relations"
     },
     {
-        "title": "Leading Inclusive, Inquiry-Based Teaching & Learning",
-        "menu": "Our Research",
-        "url": "leading_learning"
+        "title": "Supporting Learning & Memory",
+        "longtitle": "Variety is the Spice of Learning and Memory",
+        "menu": "Connection Through Discovery",
+        "url": "supporting-learning"
     },
     {
-        "title": "Giving Minoritized Students a Voice",
-        "menu": "Our Research",
-        "url": "giving_minority_students_voice"
+        "title": "Center for Culturally Responsive Evaluation & Assessment (CREA)",
+        "longtitle": "CREA: Embodying Cognitive, Cultural and Interdisciplinary Diversity",
+        "menu": "Connection Through Discovery",
+        "url": "crea"
     },
     {
-        "title": "Paper: Train Future Psychologists to Dismantle Racism, Injustice in Society",
-        "menu": "Our Research",
-        "url": "paper_future_psychologists"
+        "title": "Bringing Justice & Active Learning to Social Studies",
+        "longtitle": "How to Bring Justice & Active Learning Front and Center in Social Studies",
+        "menu": "Connection Through Momentum",
+        "url": "bringing-justice"
     },
     {
-        "title": "Pursuing Justice & Equity by Design",
-        "menu": "Our Research",
-        "url": "pursuing_justice_and_equity_by_design"
+        "title": "How To Make Education More Racially Equitable",
+        "longtitle": "Bucking the Status Quo: How to Make Education More Racially Equitable",
+        "menu": "Connection Through Momentum",
+        "url": "how-to-make-education-more-racially-equitable"
     },
     {
-        "title": "College’s New Degree Program Builds Strong Base for Mental Health Counseling",
-        "menu": "Our Research",
-        "url": "mental_health_counseling"
+        "title": "Building Schools That Support Students",
+        "menu": "Connection Through Momentum",
+        "url": "building-schools"
     },
     {
-        "title": "Faculty Viewpoint: Support Program for Local Families Grounded in Culturally Responsive Collaboration, Evaluation",
-        "menu": "Our Research",
-        "url": "faculty_viewpoint"
+        "title": "Licensure Recommendation for Trauma-Informed Care",
+        "longtitle": "Education at Illinois Leaders Create Licensure Recommendations for K-12 Teachers on Trauma-Informed Practices",
+        "menu": "Connection Through Momentum",
+        "url": "licensure"
     },
     {
-        "title": "Undergraduate Education",
-        "menu": "Our Programs",
-        "url": "undergrad_education"
+        "title": "Center for Education in Small Urban Communities",
+        "longtitle": "Center for Education in Small Urban Communities: Transforming Education for Action, Collaboration, and Hope",
+        "menu": "Connection Through Momentum",
+        "url": "small-urban"
+    },
+    {
+        "title": "Indigenous Leadership",
+        "menu": "Connection Through Community",
+        "url": "indigenous-leadership"
+    },
+    {
+        "title": "Creating a Sense of Belonging",
+        "longtitle": "Cultural Capital is Key to a Sense of Belonging for College Students of Color",
+        "menu": "Connection Through Community",
+        "url": "creating-a-sense-of-belonging"
+    },
+    {
+        "title": "Wellbeing Initiative for Practitioners",
+        "longtitle": "Neville Leads Wellbeing Initiative for Practitioners",
+        "menu": "Connection Through Community",
+        "url": "wellbeing-initiative"
+    },
+    {
+        "title": "Breaking Down Language Barriers",
+        "longtitle": "Breaking Down Language Barriers to Serve Immigrant Needs",
+        "menu": "Connection Through Community",
+        "url": "breaking-down-language-barriers"
+    },
+    {
+        "title": "Office of Community College Research & Leadership",
+        "longtitle": "OCCRL Leads its Second Illinois Community College Leadership Institute",
+        "menu": "Connection Through Community",
+        "url": "occrl"
+    },
+    {
+        "title": "Centers & Initiatives",
+        "menu": "Connection Through Community",
+        "url": "centers"
+    },
+    {
+        "title": "Public Engagement Fellows",
+        "longtitle": "2024-25 Public Engagement Fellows",
+        "menu": "Connection Through Community",
+        "url": "public-engagement-fellows"
     },
     {
         "title": "Undergraduate Programs",
         "menu": "Our Programs",
-        "url": "undergrad_programs"
-    },
-    {
-        "title": "Graduate Education",
-        "menu": "Our Programs",
-        "url": "graduate_education"
+        "url": "undergraduate-programs"
     },
     {
         "title": "Graduate Programs",
         "menu": "Our Programs",
-        "url": "graduate_programs"
+        "url": "graduate-programs"
     },
     {
-        "title": "Online Programs",
+        "title": "Online Graduate Programs",
         "menu": "Our Programs",
-        "url": "online_programs"
+        "url": "online-graduate-programs"
     },
     {
-        "title": "From Illinois Undergraduate to Graduate Student: Jerny Walls Finds Her Calling",
-        "menu": "Our Stories",
-        "url": "jerny_walls"
-    },
-    {
-        "title": "Online ED.D Student Wins Educator Award from U.S. EPA",
-        "menu": "Our Stories",
-        "url": "online_epa"
-    },
-    {
-        "title": "Our Centers and Initiatives",
-        "menu": "Our Research",
-        "url": "our_centers"
-    },
-    {
-        "title": "Announcing the Inaugural Cohort of Public Engagement Faculty Fellows",
-        "menu": "Our Stories",
-        "url": "faculty_fellows"
-    },
-    {
-        "title": "New Center Helps High School Teachers Enable Students with Significant Disabilities Gain Competitive Employment",
-        "menu": "Our Stories",
-        "url": "new_center"
-    },
-    {
-        "title": "Alumna Susan Ogwal Named New Policy Director for Illinois Office of Lieutenant Governor",
+        "title": "Dean Emeritus James D. Anderson Receives Honorary Degree",
         "menu": "Alumni and Donors",
-        "url": "susan_ogwal"
+        "url": "dean-emeritus"
     },
     {
-        "title": "Dr. Freeman Hrabowski III",
+        "title": "Tjelmeland Named Illinois Alumni Association Award Winner",
         "menu": "Alumni and Donors",
-        "url": "freeman_hrabowski"
+        "url": "tjelmeland"
     },
     {
-        "title": "Alumnus Makes Surgical Training Model a Reality in Africa",
+        "title": "Two Alumni Win 2024 Golden Apple Award for Excellence in Teaching & Leadership",
         "menu": "Alumni and Donors",
-        "url": "surgical_training"
+        "url": "two-alumni"
     },
     {
-        "title": "Douglas and Dorothy Dirks Empowering the Champaign Freedom School",
+        "title": "Discovering Her Calling, Staying Connected",
         "menu": "Alumni and Donors",
-        "url": "douglas_dorothy"
+        "url": "discovering-her-calling"
     },
     {
-        "title": "McCarthey Doctoral Fellowship Supports Teacher Education Scholars",
+        "title": "An Illinois Legacy: Three Generations of Teachers and a Commitment to Special Education",
         "menu": "Alumni and Donors",
-        "url": "mccarthey"
+        "url": "illinois-legacy"
     },
     {
-        "title": "Celebrate James D. Anderson’s Legacy by Supporting Students",
+        "title": "Donor Impact",
         "menu": "Alumni and Donors",
-        "url": "james_anderson_legacy"
-    },
-    {
-        "title": "Thank You",
-        "menu": "Alumni and Donors",
-        "url": "thank_you"
+        "url": "donor-impact"
     }
 ]

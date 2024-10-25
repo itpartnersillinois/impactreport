@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        {% include head.liquid %}
+    </head>
+    <body>
+    <ilw-page class="ilw-font ilw-margin">
+        <header>
+            {% include header.liquid %}
+        </header>
+        <main>
+            <ilw-hero width="full" shadow="true" alwayson="true"><img src="/img/connections/pattern.jpg" alt="" slot="background">
+            <h1>{{ title }}</h1>
+            <ul class="ilw-buttons">
+                <li><a href="/addressing-perinatal-mental-health/index.html">Innovation</a></li>
+                <li><a href="/what-happens/index.html">Discovery</a></li>
+                <li><a href="/bringing-justice/index.html">Momentum</a></li>
+                <li><a href="/indigenous-leadership/index.html">Community</a></li>
+            </ul>
+            </ilw-hero>
+            <ilw-content class="connection">
+                <img src="img/connections/color_block_l.jpg" alt="">
+                <h2>Connection through INNOVATION</h2>
+                <p>We invite diverse perspectives to solve complex problems and build on our collective strenths.</p>
+                <h2>Connection through DISCOVERY</h2>
+                <p>We nurture the exploration of passion and purpose to create authentic foundations for meaningful impact.</p>
+                <h2>Connection through MOMENTUM</h2>
+                <p>We leverage our research and partnerships to drive change in the state, nation, and world.</p>
+                <h2>Connection through COMMUNITY</h2>
+                <p>We build pathways to belonging that celebrate our shared commitment to making the world a better place.</p>
+            </ilw-content>
+
+            <img src="img/connections/high_five.jpg" alt="Two cartoon characters giving high-fives">
+            
+            <ilw-columns>
+                <ilw-statistic><span slot="stat">100%</span> 100% of our strategic initiativesaddress issues of access and equity.</ilw-statistic>
+                <ilw-statistic><span slot="stat">2M</span> Two million Illinois K-12 students areserved annually by our graduates asteachers, leaders, and policymakers.</ilw-statistic>
+            </ilw-columns>
+            
+            <ilw-columns>
+                <ilw-statistic><span slot="stat">27K+</span> Over 27 thousand Illinois families are served each day by our early intervention systems.</ilw-statistic>
+                <ilw-statistic><span slot="stat">33%</span> 33% of our tenure-system faculty are PI on interdisciplinary, externally funded research, collaborating across campus and beyond.</ilw-statistic>
+            </ilw-columns>
+            
+            {% include arrows.liquid %}
+        </main>
+        {% include footer.liquid %}
+    </ilw-page>
+    </body>
+</html>

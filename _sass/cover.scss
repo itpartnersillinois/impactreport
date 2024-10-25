@@ -1,0 +1,41 @@
+main.cover ilw-content {
+    img {
+        width: 100%;
+        max-width: 100%;
+    }
+    .cover-text {
+        background: var(--il-orange);
+        text-align: center;
+        padding: 2.5rem 1.25rem;
+
+        h1 {
+            margin: 0;
+            padding: 0;
+            span {
+                display: block;
+                color: white;
+                font-style: normal;
+                font-weight: 700;
+                text-align: center;
+            }
+            span.impact {
+                font-family: var(--il-font-heading);
+                font-size: 2rem;
+                line-height: 2.25rem; /* 112.5% */
+            }
+            span.title {
+                font-family: var(--il-font-heading);
+                font-size: 3.1875rem;
+                line-height: 3.5625rem; /* 111.765% */
+                letter-spacing: 0.1275rem;
+                text-transform: uppercase;
+            }
+            span.education {
+                font-family: var(--il-font-sans);
+                font-size: 1.5625rem;
+                font-weight: 600;
+                line-height: 2rem; /* 128% */
+            }
+        }
+    }
+}

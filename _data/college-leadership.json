@@ -1,80 +1,82 @@
 [
     {
-        "image": "/img/leadership/dean_chrystalla_mouza.png",
-        "url": "cmouza",
-        "header": "Chrystalla Mouza",
-        "subheader": "Dean"
+        "netid": "tbjones",
+        "name": "Tamara Bertrand Jones",
+        "title": "Associate Dean for Faculty Affairs"
     },
     {
-        "image": "/img/leadership/amanda_brown.png",
-        "url": "acbrown1",
-        "header": "Amanda Brown",
-        "subheader": "Executive Assistant Dean for Administration"
+        "netid": "acbrown1",
+        "name": "Amanda Brown",
+        "title": "Executive Assistant Dean, Administration"
     },
     {
-        "image": "/img/leadership/kiel_christianson.png",
-        "url": "kiel",
-        "header": "Kiel Christianson",
-        "subheader": "Chair of Educational Psychology"
+        "netid": "kiel",
+        "name": "Kiel Christianson",
+        "title": "Chair, Educational Psychology"
     },
     {
-        "image": "/img/leadership/lisa_denson_rives.png",
-        "url": "lkdenson",
-        "header": "Lisa Denson-Rives",
-        "subheader": "Assistant Dean for Advancement"
+        "netid": "jilldonn",
+        "name": "Jill Donnel",
+        "title": "Executive Director, Council on Teacher Education"
     },
     {
-        "image": "/img/leadership/sangeetha_gopalakrishnan.png",
-        "url": "gsangee",
-        "header": "Sangeetha Gopalakrishnan",
-        "subheader": "Director of Online Programs"
+        "netid": "gsangee",
+        "name": "Sangeetha Gopalakrishnan",
+        "title": "Director of Online Programs"
     },
     {
-        "image": "/img/leadership/nancy_latham.png",
-        "url": "nilatha",
-        "header": "Nancy Latham",
-        "subheader": "Associate Dean for Undergraduate Programs and Executive Director of the Council on Teacher Education"
+        "netid": "matt5",
+        "name": "Matthew Lambert",
+        "title": "Professor and Head, Special Education"
     },
     {
-        "image": "/img/leadership/jessica_li.png",
-        "url": "jli2011",
-        "header": "Jessica Li",
-        "subheader": "Associate Dean for Research and Director of the Bureau of Educational Research"
+        "netid": "jli2011",
+        "name": "Jessica Li",
+        "title": "Associate Dean, Research and Director, Bureau of Educational Research"
     },
     {
-        "image": "/img/leadership/sarah_mccarthey.png",
-        "url": "mccarthe",
-        "header": "Sarah McCarthey",
-        "subheader": "Head of Curriculum & Instruction"
+        "netid": "gmanola",
+        "name": "Gina Manola",
+        "title": "Assistant Dean, Marketing & Communications"
     },
     {
-        "image": "/img/leadership/karla_moller.png",
-        "url": "kjmoller",
-        "header": "Karla Möller",
-        "subheader": "Associate Dean for Graduate Programs"
+        "netid": "masonc",
+        "name": "Curtis Mason",
+        "title": "Associate Dean, Undergraduate Programs"
     },
     {
-        "image": "/img/leadership/yoon_pak.png",
-        "url": "yoonpak",
-        "header": "Yoon Pak",
-        "subheader": "Head of Education Policy, Organization & Leadership"
+        "netid": "kjmoller",
+        "name": "Karla Möller",
+        "title": "Associate Dean, Graduate Programs"
     },
     {
-        "image": "/img/leadership/michelle_perry.png",
-        "url": "mperry",
-        "header": "Michelle Perry",
-        "subheader": "Interim Head of Special Education"
+        "netid": "hneville",
+        "name": "Helen Neville",
+        "title": "Professor and Interim Head, Curriculum & Instruction"
     },
     {
-        "image": "/img/leadership/amy_summers.png",
-        "url": "arsummer",
-        "header": "Amy Summers",
-        "subheader": "Assistant to the Dean"
+        "netid": "yoonpak",
+        "name": "Yoon Pak",
+        "title": "Professor and Head, Education Policy, Organization & Leadership"
     },
     {
-        "image": "/img/leadership/emily_stone.png",
-        "url": "ers",
-        "header": "Emily Stone",
-        "subheader": "Director of Public Engagement"
+        "netid": "ers",
+        "name": "Emily Stone",
+        "title": "Director, Public Engagement"
+    },
+    {
+        "netid": "arsummer",
+        "name": "Amy Summers",
+        "title": "Assistant to the Dean"
+    },
+    {
+        "netid": "awitt1",
+        "name": "Allison Witt",
+        "title": "Director, International Programs"
+    },
+    {
+        "netid": "hpzorn",
+        "name": "Heather Zorn",
+        "title": "Interim Chief Advancement Office"
     }
 ]

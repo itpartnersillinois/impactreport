@@ -1,23 +1,50 @@
-$blue_base: #13294B;
-$orange_base: #ff5f05;
-$orange_algeld_base: #c84113;
-$white_base: #FEFEFE;
-$cloud_base: #F8FAFC;
-$black_base: #030303;
+body {
+    margin: 0;
+    padding: 0;
 
-@import 'article.scss';
-@import 'blockquote.scss';
-@import 'button.scss';
-@import 'contents.scss';
-@import 'title.scss';
-@import 'head.scss';
-@import 'imagelist.scss';
-@import 'imagegrid.scss';
-@import 'numbers.scss';
-@import 'splash.scss';
-@import 'student.scss';
-@import 'tenways.scss';
-@import 'with.scss';
-@import 'arrows.scss';
-@import 'callresponse.scss';
-@import 'flex_tweaks.scss';
+    img {
+        max-width: 100% !important;
+    }
+}
+
+nav.footer-links ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    li {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        font-family: var(--il-font-sans);
+        font-size: 1.125rem;
+        font-style: normal;
+        color: var(--il-blue);
+    }
+}
+
+nav.arrows {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+nav.arrows a {
+    color: var(--il-blue);
+    border: 2px solid var(--il-blue);
+    display: inline-block;
+    border-radius: 0.25rem;
+}
+
+nav.arrows a.back {
+    padding: 4px 4px 0 0;
+}
+
+nav.arrows a.next {
+    padding: 4px 0 0 4px;
+}
+
+nav.arrows a:hover,
+nav.arrows a:focus {
+    background: var(--il-blue);
+    color: white;
+}

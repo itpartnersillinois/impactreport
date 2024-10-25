@@ -1,0 +1,26 @@
+.dean-intro {
+    h2 {
+        font-size: 2.625rem;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 3rem;
+        text-transform: uppercase;
+    }
+
+    p {
+        font-size: 1.5625rem;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 2rem; /* 128% */
+    }
+}
+
+.dean-welcome {
+    color: var(--il-orange);
+    font-family: "Source Sans Pro";
+    font-size: 2.1875rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 2.6875rem; /* 122.857% */
+    text-transform: uppercase;
+}

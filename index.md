@@ -1,4 +1,4 @@
 ---
-layout: title.liquid
-pageTitle: A message from Dean Mouza
+layout: cover.liquid
+pageTitle: 2024 Impact Report
 ---

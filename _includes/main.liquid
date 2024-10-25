@@ -4,10 +4,15 @@
         {% include head.liquid %}
     </head>
     <body class="{{ bodyClass }}">
-        <main class="article il-formatted">
-        <h1>{{ pageTitle }}</h1>
-        {{ content }}
+    <ilw-page class="ilw-font ilw-margin">
+        <header>
+            {% include header.liquid %}
+        </header>
+        <main>
+            {{ content }}
+            {% include arrows.liquid %}
         </main>
-        {% include sidenav.liquid %}
+        {% include footer.liquid %}
+    </ilw-page>
     </body>
 </html>

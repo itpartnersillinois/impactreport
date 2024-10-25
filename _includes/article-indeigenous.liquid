@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        {% include head.liquid %}
+    </head>
+    <body class="{{ bodyClass }}">
+    <ilw-page class="ilw-font ilw-margin">
+        <header>
+            {% include header.liquid %}
+        </header>
+        <main id="article">
+            <ilw-content>
+                <div class="section-pill {{ section }}">{{ section }}</div>
+            </ilw-content>
+            <ilw-hero width="full" alwayson="true"><img src="/img/community/indigenous.jpg" alt="" slot="background"><h1>{{ pageTitle }}</h1></ilw-hero>
+            <p class="byline article-byline">{{ byline }}</p>
+            {{ content }}
+            {% include arrows.liquid %}
+        </main>
+        {% include footer.liquid %}
+    </ilw-page>
+    </body>
+</html>
