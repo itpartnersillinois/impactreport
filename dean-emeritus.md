@@ -19,7 +19,7 @@ University presidents and deans, international literacy experts, education polic
 
 </ilw-content>
 
-<ilw-columns>
+<ilw-columns width="page">
 <ilw-statistic><span slot="stat">33,526</span> Number of alumni worldwide and growing</ilw-statistic>
 <ilw-statistic><span slot="stat">50</span> Our alumni live in all U.S. states</ilw-statistic>
 </ilw-columns>

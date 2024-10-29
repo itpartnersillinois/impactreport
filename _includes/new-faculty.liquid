@@ -15,6 +15,7 @@
                 <ilw-statistic theme="blue" ><span slot="stat">27</span> Specialized Faculty</ilw-statistic>
                 <ilw-statistic theme="blue" ><span slot="stat">31%</span> Tenure System Faculty From Underrepresented Populations</ilw-statistic>
             </ilw-columns>
+            <ilw-content width="page">
             <div class="new-faculty">
             {%- for person in new-faculty %}
                 <div>
@@ -26,6 +27,7 @@
                 </div>
             {% endfor -%}
             </div>
+            </ilw-content>
             {% include arrows.liquid %}
         </main>
         {% include footer.liquid %}

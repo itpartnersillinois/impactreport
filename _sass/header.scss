@@ -25,6 +25,7 @@ header {
         border-bottom: none;
         height: 100%;
         background: var(--heading-background);
+        border-right: 2px solid #d5d3d3;
 
         p {
             display: none;
@@ -35,6 +36,10 @@ header {
             width: calc(var(--menu-width) - 20px);
             border-bottom: 5px solid var(--il-orange);
             background: white;
+        }
+
+        a:hover img#header-image, a:focus img#header-image {
+            filter: grayscale(80%);
         }
     }
 }

@@ -17,7 +17,7 @@ Through interdisciplinary research, culturally responsive practice, and public e
 
 # Dean’s Message
 
-![Dean Chrystalla Mouza, smiiling and looking confident](/img/dean.webp)
+![Dean Chrystalla Mouza, smiiling and looking confident](/img/dean.webp){.dean-left}
 
 <p class="dean-welcome">Welcome</p>
 

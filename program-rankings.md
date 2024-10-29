@@ -3,11 +3,13 @@ layout: main.liquid
 pageTitle: Program Rankings & Milestones
 bodyClass: program-rankings
 ---
-<ilw-content width="page" id="main-h1" class="main-h1-line program-ranking-stats">
+<ilw-content width="page" id="main-h1" class="main-h1-line">
 
 # Program Rankings & Milestones
 
 ## Program Rankings{.orange}
+
+<ilw-statistic size="x-large" class="orange float-right"><span slot="stat">#9</span> Ranked #9 public university in the nation<span slot="source">U.S. News & World Report</span></ilw-statistic>
 
 *2024 U.S. News & World Report* rankings for our departments and programs
 
@@ -22,8 +24,6 @@ bodyClass: program-rankings
 * **#21** Higher Education Administration
 
 </ilw-content>
-
-<ilw-statistic class="orange"><span slot="stat">#9</span> Ranked #9 public university in the nation<span slot="source">U.S. News & World Report</span></ilw-statistic>
 
 <ilw-content width="page">
 

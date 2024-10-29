@@ -15,12 +15,12 @@ Our research makes a difference in people's lives locally, nationally, and globa
 
 </ilw-content>
 
-<ilw-columns>
+<ilw-columns width="page">
 <ilw-statistic class="orange"><span slot="stat">$62M</span> Active Grant Funding</ilw-statistic>
 <ilw-statistic class="orange"><span slot="stat">69</span> Active Grants</ilw-statistic>
 <ilw-statistic class="orange"><span slot="stat">20</span> Major Foundation Grants</ilw-statistic>
 </ilw-columns>
-<ilw-columns>
+<ilw-columns width="page">
 <ilw-statistic class="orange"><span slot="stat">15</span> State of Illinois Agency Grants</ilw-statistic>
 <ilw-statistic class="orange"><span slot="stat">20</span> National Science Foundation Grants</ilw-statistic>
 <ilw-statistic class="orange"><span slot="stat">8</span> U.S. Department of Education Grants</ilw-statistic>

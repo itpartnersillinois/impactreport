@@ -20,7 +20,7 @@ The research effort at Illinois is housed at the Beckman Institute for Advanced 
 
 “If it’s untreated, that presents risk for both mom and baby,” said Tabb Dina. “It could become substance-use for coping, gestational diabetes, poor birth outcomes, or increased C-sections. For the baby, that could lead to a stay in the NICU, having low birth weight, and trouble with cognition later on.”
 
-<ilw-columns>
+<ilw-columns padding="3.75rem 0 0 0">
 <div>
 
 ![Tabb Dina and David Huang](/img/innovation/IDEA_collab.webp)
