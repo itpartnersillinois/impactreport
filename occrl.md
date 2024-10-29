@@ -4,7 +4,7 @@ pageTitle: OCCRL Leads its Second Illinois Community College Leadership Institut
 byline: By Sal Nudo
 section: Community
 ---
-<ilw-content>
+<ilw-content width="page">
 
 The **Office of Community College Research and Leadership (OCCRL)** uses research and evaluation to improve policies, programs, and practices that enhance education and equity across the P-20 education spectrum. The 35-year initiative is a part of the Department of Education Policy, Organization & Leadership in the College of Education.{.introduction}
 
@@ -16,11 +16,10 @@ The Institute began in 2023 under the direction of OCCRL Director **Lorenzo Babe
 
 “The 48 community colleges in Illinois are spread throughout the state, especially in rural areas, making it challenging to find equity-minded individuals to be in community with,” says H.M. Kuneyl, a third-year doctoral student and coordinator of ICCLI. “Our goal is to help facilitate that sense of community for these scholars and practitioners who are shining as leaders.”
 
-Through scholarship and public engagement OCCRL continues to inform policies and leadership across postsecondary  contexts. With local, state,
-and national stakeholders, OCCRL influences the increasing role of community colleges in sustaining equitable pathways in higher education.{.quote}
+Through scholarship and public engagement OCCRL continues to inform policies and leadership across postsecondary  contexts. With local, state,and national stakeholders, OCCRL influences the increasing role of community colleges in sustaining equitable pathways in higher education.{.quote}
 
 We intentionally center our work around elevating educational practices that support underserved student populations and historically marginalized communities. We remain committed to extending the mission of the College of Education to connect engaging research with inclusive practices,” says Baber.
 
 </ilw-content>
 
-<ilw-statistic><span slot="stat">10K+</span> OCCRL helps elevate the transfer process for the more than 10,000 students who transfer every year from the 48 community colleges in Illinois to the many public and private colleges and universities in the state.</ilw-statistic>
+<ilw-statistic class="orange compact" ><span slot="stat">10K+</span> OCCRL helps elevate the transfer process for the more than 10,000 students who transfer every year from the 48 community colleges in Illinois to the many public and private colleges and universities in the state.</ilw-statistic>

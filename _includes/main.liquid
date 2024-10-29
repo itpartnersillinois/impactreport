@@ -4,7 +4,7 @@
         {% include head.liquid %}
     </head>
     <body class="{{ bodyClass }}">
-    <ilw-page class="ilw-font ilw-margin">
+    <div class="page">
         <header>
             {% include header.liquid %}
         </header>
@@ -12,7 +12,7 @@
             {{ content }}
             {% include arrows.liquid %}
         </main>
-        {% include footer.liquid %}
-    </ilw-page>
+    </div>
+    {% include footer.liquid %}
     </body>
 </html>

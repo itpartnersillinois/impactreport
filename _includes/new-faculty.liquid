@@ -4,12 +4,12 @@
         {% include head.liquid %}
     </head>
     <body class="{{ bodyClass }}">
-    <ilw-page class="ilw-font ilw-margin">
+    <div class="page new-faculty-page">
         <header>
             {% include header.liquid %}
         </header>
         <main>
-            <ilw-hero width="full" alwayson="true" align="bottom-left"><img src="/img/new-faculty/background.jpg" alt="" slot="background"><h1>{{ pageTitle }}</h1></ilw-hero>
+            <ilw-hero alwayson="true" align="bottom-left"><img src="/img/new-faculty/background.jpg" alt="" slot="background"><h1>{{ pageTitle }}</h1></ilw-hero>
             <ilw-columns theme="blue" width="fixed">
                 <ilw-statistic theme="blue" ><span slot="stat">80</span> Tenure System Faculty</ilw-statistic>
                 <ilw-statistic theme="blue" ><span slot="stat">27</span> Specialized Faculty</ilw-statistic>
@@ -29,6 +29,6 @@
             {% include arrows.liquid %}
         </main>
         {% include footer.liquid %}
-    </ilw-page>
+    </div>
     </body>
 </html>

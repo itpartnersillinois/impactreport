@@ -2,10 +2,9 @@
 layout: article.liquid
 pageTitle: Two Alumni Win 2024 Golden Apple Award for Excellence in Teaching & Leadership
 ---
-<ilw-content>
+<ilw-content width="page">
 
-![Alicia Carlisle](/img/alumni/carlisle.jpg){.left}
-![Joseph Cella](/img/alumni/cella.jpg){.left}
+![Alicia Carlisle](/img/alumni/carlisle.jpg){.left .small} ![Joseph Cella](/img/alumni/cella.jpg){.left .small}
 
 The Golden Apple Foundation, the leading Illinois-based nonprofit committed to preparing, mentoring, and honoring great educators who advance educational opportunities for students, recognized **Alicia Carlisle** ‘11 C&I, a first grade teacher at Turner Drew Language Academy in Chicago, and **Joseph Cella**, ‘10 C&I, a Pre-K teacher at GEMS World Academy in Chicago, with the prestigious annual award.
 

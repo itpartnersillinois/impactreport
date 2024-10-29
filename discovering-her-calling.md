@@ -3,7 +3,7 @@ layout: article.liquid
 pageTitle: Discovering Her Calling, Staying Connected
 byline: By Makenna Norman, The Daily Illini
 ---
-<ilw-content>
+<ilw-content width="page">
 
 ![Gabriella Potocki](/img/alumni/potocki.jpg){.left}
 

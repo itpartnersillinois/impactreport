@@ -4,7 +4,7 @@ pageTitle: How to Bring Justice & Active Learning Front and Center in Social Stu
 byline: By Tom Hanlon
 section: Momentum
 ---
-<ilw-content>
+<ilw-content width="page">
 
 Asif Wilson is leading a team of researchers and educators in equipping K-12 social studies teachers in Illinois to create inquiry-based, justice-centered learning experiences for their students.{.introduction}
 

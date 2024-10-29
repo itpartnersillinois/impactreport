@@ -4,15 +4,18 @@
         {% include head.liquid %}
     </head>
     <body class="{{ bodyClass }}">
-    <ilw-page class="ilw-font ilw-margin">
+    <div class="page">
         <header>
             {% include header.liquid %}
         </header>
         <main id="article">
             {% if headImage %}
-            <img src="{{ headImage }}" alt="{{ headAlt }}" class="headImage">
+            <img src="{{ headImage }}" alt="{{ headAlt }}" class="ilw-image-cover headImage">
+            <ilw-spacer height="30px"></ilw-spacer>
+            {% else %}
+            <ilw-spacer height="60px"></ilw-spacer>
             {% endif %}
-            <ilw-content>
+            <ilw-content width="page">
                 {% if section %}
                 <div class="section-pill {{ section }}">{{ section }}</div>
                 {% endif %}
@@ -25,6 +28,6 @@
             {% include arrows.liquid %}
         </main>
         {% include footer.liquid %}
-    </ilw-page>
+    </div>
     </body>
 </html>

@@ -3,7 +3,7 @@ layout: article.liquid
 pageTitle: "An Illinois Legacy: Three Generations of Teachers and Commitment to Special Education"
 byline: By Orion Buckingham
 ---
-<ilw-content>
+<ilw-content width="page">
 
 ![Three generations of women smiling and standing in front of an alumni background](/img/alumni/kamienski.jpg){.full}
 L to R: Kara Kamienski, Sophie Kamienski, Cathy Jo Stratman. Photo provided by Kara Kamienski{.byline}

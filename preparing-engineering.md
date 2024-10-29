@@ -3,7 +3,7 @@ layout: article.liquid
 pageTitle: Collaborative Learning Experiences Prepare Engineering Students for the Workforce
 section: Innovation
 ---
-<ilw-content>
+<ilw-content width="page">
 
 ![Emma Mercier](/img/innovation/mercier.jpg){.half}
 

@@ -4,7 +4,7 @@ pageTitle: Indigenous Leadership
 byline: "Image: Canyon de Chelly National Monument, Navajo Nation, Arizona, USA"
 section: Community
 ---
-<ilw-content>
+<ilw-content width="page">
 
 
 ## Navajo Scholar’s Research Aids Educators of Native Students

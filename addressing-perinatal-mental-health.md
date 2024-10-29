@@ -3,9 +3,8 @@ layout: article.liquid
 pageTitle: Addressing Perinatal Mental Health Issues Through a Collaborative Research Approach
 byline: By Andy Olson, Office of the Vice Chancellor for Research and Innovation, University of Illinois
 section: Innovation
-headImage: ""
 ---
-<ilw-content>
+<ilw-content width="page">
 
 Illinois researchers are developing better practices for supporting perinatal mental health needs.{.introduction}
 
@@ -23,14 +22,16 @@ The research effort at Illinois is housed at the Beckman Institute for Advanced 
 
 <ilw-columns>
 <div>
+
 ![Tabb Dina and David Huang](/img/innovation/IDEA_collab.webp)
 Photo by Becky Ponder{.byline}
+
 </div>
-<ilw-statistic><span slot="stat">$21M</span> A $21 million dollar PCORI Grant Funds their work</ilw-statistic>
+<ilw-statistic class="orange"><span slot="stat">$21M</span> A $21 million dollar PCORI Grant Funds their work</ilw-statistic>
+
+</ilw-columns>
 
 **Karen Tabb Dina and David Huang, College of Education, have been collaborating on perinatal mental health research since 2017, when the two received their first Patient-Centered Outcomes Research Institute (PCORI) award.**
-
-<ilw-columns>
 
 ## The Power of Interdisciplinary Problem Solving
 

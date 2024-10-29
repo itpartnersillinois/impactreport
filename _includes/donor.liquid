@@ -4,26 +4,29 @@
         {% include head.liquid %}
     </head>
     <body class="{{ bodyClass }}">
-    <ilw-page class="ilw-font ilw-margin">
+    <div class="page">
         <header>
             {% include header.liquid %}
         </header>
         <main>
-            {{ content }}
-            <ilw-grid>
-                <ilw-statistic><span slot="stat">$6.6M</span> Dollars raised</ilw-statistic>
-                <ilw-statistic><span slot="stat">728</span> Number of donors</ilw-statistic>
-                <ilw-statistic><span slot="stat">$250K</span> General purpose gifts</ilw-statistic>
-                <ilw-statistic><span slot="stat">1,270</span> Number of total gifts</ilw-statistic>
-                <ilw-statistic><span slot="stat">699</span> Gifts between $1-$100</ilw-statistic>
-                <ilw-statistic><span slot="stat">181</span> Scholarship and fellowship recipients</ilw-statistic>
-            </ilw-grid>
-            <div>July 1, 2023 - June 30, 2024</div>
+            <div id="main-h1" class="main-h1-line"><ilw-content width="page">
+            <h1>Donor Impact</h1>
+            </ilw-content></div>
 
-            <ilw-content>
+            {{ content }}
+            <ilw-grid width="page">
+                <ilw-statistic class="orange"><span slot="stat">$6.6M</span> Dollars raised</ilw-statistic>
+                <ilw-statistic><span slot="stat">728</span> Number of donors</ilw-statistic>
+                <ilw-statistic class="orange"><span slot="stat">$250K</span> General purpose gifts</ilw-statistic>
+                <ilw-statistic><span slot="stat">1,270</span> Number of total gifts</ilw-statistic>
+                <ilw-statistic class="orange"><span slot="stat">699</span> Gifts between $1-$100</ilw-statistic>
+                <ilw-statistic><span slot="stat">181</span> Scholarship and fellowship recipients<span slot="source">July 1, 2023 - June 30, 2024</span></ilw-statistic>
+            </ilw-grid>
+
+            <ilw-content width="page" id="pay-it-forward">
             <h2>Pay it Forward</h2>
             <p>Friends, donors, and alumni create lasting impact in the field of education by giving to priority initiatives of the College like these:</p>
-            <ilw-columns>
+            <ilw-columns gap="20px">
                 <ilw-content class="donor">
                     <h3>Fund for Excellence</h3>
                     <p>This fund is used at the discretion of the Dean to support the most pressing needs of the College. These funds allow the Dean to address these needs in a timely manner and move forward initiatives identified throughout the academic year.</p>
@@ -38,16 +41,16 @@
                     <h3>Youth Literature Festival Fund</h3>
                     <p>Donations provide unrestricted support of a biennial Youth Literature Festival organized by the Center for Education in Small Urban Communities within the College of Education.</p>
                     <ilw-spacer width="20px"></ilw-spacer>
-                    <div class="ilw-buttons">
-                        <a href="https://uif.uillinois.edu/how-to-give">Invest in the Future of Education</a>
-                        <a href="https://give.education.illinois.edu">Give</a>
-                    </div>
+                    <ul class="ilw-buttons">
+                        <li><a href="https://uif.uillinois.edu/how-to-give">Invest in the Future of Education</a></li>
+                        <li><a href="https://give.education.illinois.edu">Give</a></li>
+                    </ul>
                 </ilw-content>
             </ilw-columns>
 
             {% include arrows.liquid %}
         </main>
         {% include footer.liquid %}
-    </ilw-page>
+    </div>
     </body>
 </html>

@@ -3,7 +3,7 @@ layout: article.liquid
 pageTitle: "Bucking the Status Quo: How to Make Education More Racially Equitable"
 section: Momentum
 ---
-<ilw-content>
+<ilw-content width="page">
 
 ![Osly J. Flores](/img/momentum/flores.jpg){.half}
 

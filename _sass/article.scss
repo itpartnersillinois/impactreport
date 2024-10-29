@@ -1,29 +1,4 @@
 main#article {
-    .section-pill {
-        border-radius: 0.25rem;
-        color: white;
-        background: black;
-        display: flex;
-        padding: 0rem 0.375rem;
-        justify-content: center;
-        align-items: center;
-        width: 100px;
-        font-weight: bold;
-    }
-    .section-pill.Innovation {
-        background: #773ea3;
-    }
-    .section-pill.Discovery {
-        background: #ff5f05;
-    }
-    .section-pill.Community {
-        background: #ffbe2e;
-        color: black;
-    }
-    .section-pill.Momentum {
-        background: #007e8e;
-    }
-    
     .byline {
         font-style: italic;
         font-size: 1rem;
@@ -35,6 +10,10 @@ main#article {
         margin-top: 1.25rem;
     }
 
+    ilw-content {
+        display: block;
+        clear: both;
+    }
     ilw-content h2 {
         color: var(--il-blue);
         font-size: 2.1875rem;
@@ -54,6 +33,7 @@ main#article {
 
     img.circle {
         border-radius: 50%;
+        width: 300px;
     }
 
     .quote::before {
@@ -65,16 +45,26 @@ main#article {
         font-size: 1.2em;
     }
 
+    .float-left, .left, .float-right, .right, .half {
+        font-style: italic;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: normal;
+    }
+
+    img.small {
+        width: 150px;
+    }
 }
 
 @media (min-width: 600px) {
     main#article {
-        .float-left {
+        .float-left, .left {
             width: 200px;
             float: left;
             padding: 0 20px 20px 0;
         }
-        .float-right {
+        .float-right, .right {
             width: 200px;
             float: right;
             padding: 0 0 20px 20px;
@@ -90,6 +80,7 @@ main#article {
             float: left;
             width: 40%;
             padding: 0 20px 20px 0;
-        }
+            margin: 0;
+       }
     }
 }

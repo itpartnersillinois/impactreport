@@ -2,7 +2,7 @@
 layout: article.liquid
 pageTitle: Tjelmeland Named Illinois Alumni Association Award Winner
 ---
-<ilw-content>
+<ilw-content width="page">
 
 ![Michelle Tjelmenland, with hand on hip](/img/alumni/tjelmeland.jpg) Photo by Orion Buckingham{.left}
 

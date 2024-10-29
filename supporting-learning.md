@@ -3,7 +3,7 @@ layout: article.liquid
 pageTitle: Variety is the Spice of Learning and Memory
 section: Discovery
 ---
-<ilw-content>
+<ilw-content width="page">
 
 ![Elizabeth A. L. Stine-Morrow smiling at camera](/img/discovery/stine.jpg){.half}
 

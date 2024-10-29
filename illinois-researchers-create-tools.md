@@ -6,38 +6,34 @@ section: Innovation
 headImage: /img/innovation/researchers.jpg
 headAlt: The School for Center and Design
 ---
-<ilw-content>
+<ilw-content width="page">
 
 The College of Education and the Siebel Center for Design have been collaborating on disrupting education since 2018.{.introduction}
 
 </ilw-content>
 
-<ilw-columns>
-
+<ilw-columns width="page" gap="20px">
 <ilw-content>
 
 ![](/img/innovation/switzky.jpg){.circle}
 **Rachel Switzky**
 
 </ilw-content>
-
 <ilw-content>
 
 ![](/img/innovation/shehab.jpg){.circle}
 **Saad Shehab**
 
 </ilw-content>
-
 <ilw-content>
 
-![](/img/innovation/masin.jpg){.circle}
+![](/img/innovation/mason.jpg){.circle}
 **Curtis Mason**
 
 </ilw-content>
-
 </ilw-columns>
 
-<ilw-content>
+<ilw-content width="page">
 
 Human-centered design is a problem-solving approach that uses design thinking to identify the unmet needs of a population to develop solutions collaboratively and iteratively.
 
@@ -67,37 +63,37 @@ Faculty focus on collaborative research, development, and innovation that brings
 
 </ilw-content>
 
-<ilw-columns>
+<ilw-columns width="page" gap="20px">
 <ilw-content>
 
-![](/img/innovation/switzky.jpg){.circle}
+![](/img/innovation/castro.jpg){.circle}
 **Vania Castro**
 Teaching assistant professor
 
 </ilw-content>
 <ilw-content>
 
-![](/img/innovation/shehab.jpg){.circle}
+![](/img/innovation/cope.jpg){.circle}
 **William Cope**
 Professor
 
 </ilw-content>
 <ilw-content>
 
-![](/img/innovation/masin.jpg){.circle}
+![](/img/innovation/gonzalez.jpg){.circle}
 **Gloriana González**
 Professor
 
 </ilw-content>
 <ilw-content>
 
-![](/img/innovation/masin.jpg){.circle}
+![](/img/innovation/herrmann.jpg){.circle}
 **Mary Herrmann**
 Teaching associate professor
 
 </ilw-content>
 </ilw-columns>
-<ilw-columns>
+<ilw-columns width="page" gap="20px">
 <ilw-content>
 
 ![](/img/innovation/kalantzis.jpg){.circle}
@@ -127,4 +123,3 @@ Associate professor
 
 </ilw-content>
 </ilw-columns>
-

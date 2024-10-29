@@ -3,7 +3,7 @@ layout: article.liquid
 pageTitle: Neville Leads Wellbeing Initiative for Practitioners
 section: Community
 ---
-<ilw-content>
+<ilw-content width="page">
 
 ![Helen Neville](/img/community/neville.jpg){.half}
 

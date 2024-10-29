@@ -4,15 +4,26 @@
         {% include head.liquid %}
     </head>
     <body class="{{ bodyClass }}">
-    <ilw-page class="ilw-font ilw-margin">
+    <div class="page">
         <header>
             {% include header.liquid %}
         </header>
         <main>
+        <div id="main-h1" class="main-h1-line"><ilw-content width="page">
+        <div class="section-pill Community">Community</div>
+        <h1>Centers & Initiatives</h1>
+        </ilw-content></div>
+        <ilw-content class="centers">
+           <ilw-grid width="page">
+            {%- for center in centers %}
+                <p><a href="{{ center.link }}">{{ center.title }}</a> {{ center.description }}</p>
+            {% endfor -%}
+            </ilw-grid>
+        </ilw-content>
             {{ content }}
             {% include arrows.liquid %}
         </main>
         {% include footer.liquid %}
-    </ilw-page>
+    </div>
     </body>
 </html>

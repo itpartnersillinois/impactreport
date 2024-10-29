@@ -2,8 +2,11 @@
 layout: main.liquid
 pageTitle: Undergraduate Programs
 ---
-<ilw-columns>
-<ilw-content>
+<div id="main-h1" class="main-h1-line"><ilw-content width="page">
+
+# Undergraduate Programs
+
+</ilw-content></div><ilw-columns width="page"><ilw-content>
 
 **Bachelor of Science plus licensure:**
 * Early Childhood Education
@@ -36,14 +39,14 @@ pageTitle: Undergraduate Programs
 </ilw-content>
 
 <div>
-<ilw-statistic><span slot="stat">749</span> Fall 2024 undergraduate student enrollment</ilw-statistic>
+<ilw-statistic class="orange"><span slot="stat">749</span> Fall 2024 undergraduate student enrollment</ilw-statistic>
 <ilw-statistic><span slot="stat">30%</span> Undergraduate students from underrepresented populations</ilw-statistic>
 </div>
 </ilw-columns>
 
-<ilw-columns>
+<ilw-columns gap="20px" theme="gray">
 <div class="ilw-image-cover"><img src="/img/programs/cisneros.jpg" alt=""></div>
-<ilw-content>
+<ilw-content theme="gray" mode="inset">
 
 ## Andres Cisneros
 

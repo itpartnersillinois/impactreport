@@ -2,7 +2,7 @@
 layout: article.liquid
 pageTitle: Dean Emeritus James D. Anderson Receives Honorary Degree
 ---
-<ilw-content>
+<ilw-content width="page">
 
 ![James Anderson receives his degree from President Tim Kileen at the University of Illinois](/img/alumni/anderson.jpg){.full}
 Dr. James D. Anderson accepts his honorary degree from University of Illinois President Tim Killeen at the 2024 Commencement Ceremony, May 11, 2024. Photo by Fred Zwicky.{.byline}

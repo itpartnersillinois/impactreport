@@ -5,7 +5,7 @@ byline: By Tom Hanlon
 section: Discovery
 bodyClass: good-things
 ---
-<ilw-content>
+<ilw-content width="page">
 
 ## Good things
 

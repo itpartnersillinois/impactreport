@@ -4,33 +4,33 @@
         {% include head.liquid %}
     </head>
     <body class="{{ bodyClass }}">
-    <ilw-page class="ilw-font ilw-margin">
+    <div class="page">
         <header>
             {% include header.liquid %}
         </header>
-        <main id="article">
-            <ilw-content>
+        <main id="article" class="crea">
+            <ilw-content width="page">
                 <div class="section-pill {{ section }}">{{ section }}</div>
             </ilw-content>
-            <ilw-hero width="full" alwayson="true"><img src="/img/discovery/crea.jpg" alt="" slot="background"><h1>{{ pageTitle }}</h1></ilw-hero>
-            <ilw-content width="page" theme="blue">
+            <ilw-hero align="bottom" alwayson="true"><img src="/img/discovery/crea.jpg" alt="" slot="background"><h1>{{ pageTitle }}</h1></ilw-hero>
+            <ilw-content  mode="introduction" theme="blue" padding="4rem">
                 <p>After 12 years as an established strategic initiative of the College of Education, in fall 2023 the Center for Culturally Responsive Evaluation and Assessment was designated a permanent research center of the University of Illinois Urbana-Champaign campus.</p>
             </ilw-content>
 
-            <ilw-columns width="fixed">
+            <ilw-columns width="page" gap="20px">
                 <div>
                 {{ content }}
                 </div>
                 <ilw-statistic><span slot="stat">4</span> CREA has established four U.S. and international affiliates to address and implement culturally responsive evaluation and assessment.</ilw-statistic>
             </ilw-columns>
 
-            <ilw-content>
-            <div>
+            <ilw-content width="page">
+            <div style="clear: both;">
                 <img src="/img/discovery/hood.jpg" alt="Denice Ward Hood" class="float-left">
                 <p class="quote">CREA is an interdisciplinary endeavor that brings researchers together from across the College and University, as well as domestic and international research partners, to address the growing need for policy-relevant studies that take seriously the influences of cultural norms, practices, and expectations in the design, implementation, and evaluation of social and educational interventions.”</p>
                 <p> — <strong>Denice Ward Hood</strong>, Director of the Center for Culturally Responsive Evaluation and Assessment</p>
             </div>
-            <div>
+            <div style="clear: both;">
                 <img src="/img/discovery/clement.jpg" alt="Valencia Clement" class="float-left">
                 <p class="quote">Our work has the ability transform the way teachers and schools view students, thus impacting how young people see themselves and their learning environments.”</p>
                 <p><strong>Valencia Clement</strong> is a first-generation Haitian-American artist, activist and researcher, and the inaugural <strong>Stafford Hood Fellow of Culturally Responsive Assessment</strong> at the Center for Measurement Justice.</p>
@@ -40,6 +40,6 @@
             {% include arrows.liquid %}
         </main>
         {% include footer.liquid %}
-    </ilw-page>
+    </div>
     </body>
 </html>

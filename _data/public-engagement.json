@@ -1,3 +1,38 @@
 [
-    
+    {
+        "netid": "giselle",
+        "name": "Giselle Martinez Negrette",
+        "title": "Assistant Professor, Curriculum & Instruction",
+        "text": "Martinez Negrette is working in dual language classrooms to explore how teachers mediate culture and how this mediation impacts teaching practices and social interactions between teachers and students."
+    },
+    {
+        "netid": "grodrig2",
+        "name": "Gabriel Rodrigeuz",
+        "title": "Assistant Professor, Education Policy, Organization & Leadership",
+        "text": "Rodriguez is partnering with Latinx educators from Highland Park High School to build upon existing efforts to improve Latinx students’ sense of belonging."
+    },
+    {
+        "netid": "stoliver",
+        "name": "Stephanie Toliver",
+        "title": "Assistant Professor, Curriculum & Instruction",
+        "text": "Toliver co-designed a project to engage Urbana youth in exploring their identities and envisioning equitable Black futures through creative writing, speculative design and open discussions."
+    },
+    {
+        "netid": "mshuler",
+        "name": "Mari Altshuler",
+        "title": "Teaching Assistant Professor, Curriculum & Instruction",
+        "text": "Altshuler is aiming to support a local school community and bring math teaching and learning to life for the College’s elementary education students."
+    },
+    {
+        "netid": "cmn",
+        "name": "Chris Napolitano",
+        "title": "Associate Professor, Educational Psychology",
+        "text": "Napolitano proposed a new course, Research in Action that integrates adolescent development, research design, and psychological measurement through a service learning partnership with a local youth-serving organization."
+    },
+    {
+        "netid": "ejt",
+        "name": "Emily Tarconish",
+        "title": "Teaching Assistant Professor, Special Education",
+        "text": "Tarconish is partnering with Community Choices, a local non-profit that works to support individuals with disabilities to maintain independence, to develop a business accessibility evaluation based on the feedback of disabled community members."
+    }
 ]

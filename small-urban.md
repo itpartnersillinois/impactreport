@@ -6,7 +6,7 @@ headImage: /img/momentum/campus.jpg
 headAlt: University of Illinois campus seen from above
 
 ---
-<ilw-content>
+<ilw-content width="page">
 
 ![Victor Perez](/img/momentum/perez.jpg){.float-left}
 
@@ -24,5 +24,5 @@ Over the years, Perez adds, the academy has helped bridge the gap between resear
 
 </ilw-content>
 
-<ilw-statistic><span slot="stat">180+</span> Over 180 educators attended the TEACH Academy to learn how to promote equity and inclusion in the classroom through data-driven decision making.</ilw-statistic>
+<ilw-statistic class="orange compact"><span slot="stat">180+</span> Over 180 educators attended the TEACH Academy to learn how to promote equity and inclusion in the classroom through data-driven decision making.</ilw-statistic>
 

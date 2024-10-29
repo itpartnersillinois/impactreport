@@ -1,0 +1,51 @@
+.connection-page ilw-hero {
+    --ilw-hero--text-width: 80%;
+}
+
+.connection {
+    margin: 40px;
+    display: block;
+
+    img {
+        width: 150px;
+        padding: 30px;
+    }
+
+    h2 {
+        text-indent: -25px;
+        margin-left: 25px;
+    }
+
+    p {
+        margin-left: 25px;
+    }
+
+    .dot {
+        height: 15px;
+        width: 15px;
+        background-color: #bbb;
+        border-radius: 50%;
+        display: inline-block;
+        margin-right: 10px;
+        vertical-align: middle;
+    }
+
+    h2.inn .dot {
+        background-color: #773ea3;
+    }
+    h2.dis .dot {
+        background-color: #ff5f05;
+    }
+    h2.com .dot {
+        background-color: #ffbe2e;
+    }
+    h2.mom .dot {
+        background-color: #007e8e;
+    }
+}
+
+@media (min-width: 800px) {
+    .connection img {
+        float: right;
+    }
+}

@@ -4,20 +4,20 @@
         {% include head.liquid %}
     </head>
     <body class="{{ bodyClass }}">
-    <ilw-page class="ilw-font ilw-margin">
+    <div class="page">
         <header>
             {% include header.liquid %}
         </header>
-        <main id="article">
-            <ilw-content>
+        <main id="article" class="indigenous">
+            <ilw-content width="page">
                 <div class="section-pill {{ section }}">{{ section }}</div>
             </ilw-content>
-            <ilw-hero width="full" alwayson="true"><img src="/img/community/indigenous.jpg" alt="" slot="background"><h1>{{ pageTitle }}</h1></ilw-hero>
-            <p class="byline article-byline">{{ byline }}</p>
+            <ilw-hero alwayson="true"><img src="/img/community/indigenous.jpg" alt="" slot="background"><h1>{{ pageTitle }}</h1></ilw-hero>
+            <p class="byline article-byline" style="text-align: center;">{{ byline }}</p>
             {{ content }}
             {% include arrows.liquid %}
         </main>
         {% include footer.liquid %}
-    </ilw-page>
+    </div>
     </body>
 </html>

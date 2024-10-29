@@ -2,7 +2,13 @@
 layout: main.liquid
 pageTitle: Graduate Programs
 ---
-<ilw-columns>
+<div id="main-h1" class="main-h1-line"><ilw-content width="page">
+
+# Graduate Programs
+
+</ilw-content></div>
+
+<ilw-columns width="page">
 <ilw-content>
 
 **On-campus graduate students apply to one of our four departments:**
@@ -22,15 +28,16 @@ pageTitle: Graduate Programs
 </ilw-content>
 
 <div>
-<ilw-statistic><span slot="stat">437</span> Fall 2024 total on-campus graduate student enrollment</ilw-statistic>
+<ilw-statistic class="orange"><span slot="stat">437</span> Fall 2024 total on-campus graduate student enrollment</ilw-statistic>
 <ilw-statistic><span slot="stat">29%</span> On-campus graduate students from underrepresented populations</ilw-statistic>
-<ilw-statistic><span slot="stat">26%</span> On-campus graduate students from international populations</ilw-statistic>
+<ilw-statistic class="orange"><span slot="stat">26%</span> On-campus graduate students from international populations</ilw-statistic>
 </div>
+
 </ilw-columns>
 
-<ilw-columns>
+<ilw-columns gap="20px" theme="gray">
 <div class="ilw-image-cover"><img src="/img/programs/nguyen.jpg" alt=""></div>
-<ilw-content>
+<ilw-content theme="gray" mode="inset">
 
 ## Huong Thi Dieu Nguyen
 

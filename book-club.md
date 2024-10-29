@@ -3,7 +3,7 @@ layout: article.liquid
 pageTitle: High School Book Club Explores the Complexities, Joys of Black Life
 section: Discovery
 ---
-<ilw-content>
+<ilw-content width="page">
 
 ![Rachel McMillan smiling at the camera](/img/discovery/mcmillian.jpg){.half}
 

@@ -3,7 +3,7 @@ layout: article.liquid
 pageTitle: Whether a Racial Minority or Majority at Their School, White Teachers Struggle with Race Relations
 section: Discovery
 ---
-<ilw-content>
+<ilw-content width="page">
 
 ![Cartoon of a pregnant woman being treated by a physician](/img/discovery/nelson.jpg){.half}
 

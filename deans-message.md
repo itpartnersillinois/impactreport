@@ -3,7 +3,7 @@ layout: main.liquid
 pageTitle: Dean's Message
 ---
 
-<ilw-content theme="blue" width="auto" padding="3.75rem 2.5rem" class="dean-intro">
+<ilw-content theme="blue" padding="3.75rem 2.5rem" class="dean-intro">
 
 ![block I](/img/block-i.webp)
 
@@ -13,7 +13,7 @@ Through interdisciplinary research, culturally responsive practice, and public e
 
 </ilw-content>
 
-<ilw-content>
+<ilw-content width="page">
 
 # Dean’s Message
 
@@ -40,7 +40,7 @@ Dean, College of Education
 
 </ilw-content>
 
-<ilw-content>
+<ilw-content width="page">
 <div class="dean-illinois">
 
 ![outline of the state of Illinois](/img/illinois-outline.webp)

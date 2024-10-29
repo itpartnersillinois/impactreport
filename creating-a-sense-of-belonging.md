@@ -4,32 +4,28 @@ pageTitle: Cultural Capital is Key to a Sense of Belonging for College Students 
 section: Community
 ---
 
-<ilw-columns>
-
+<ilw-columns width="page" gap="20px">
 <ilw-content>
 
 ![Amir Maghsoodi](/img/community/maghsoodi.jpg)
 **Amir Maghsoodi**
 
 </ilw-content>
-
 <ilw-content>
 
 ![Nidia Ruedas-Gracia](/img/community/ruedas.jpg)
 **Nidia Ruedas-Gracia**
 
 </ilw-content>
-
 <ilw-content>
 
 ![Ge Jiang](/img/community/jiang.jpg)
 **Ge Jiang**
 
 </ilw-content>
-
 </ilw-columns>
 
-<ilw-content>
+<ilw-content width="page">
 
 College students’ sense of belonging contributes to academic achievement and persistence at college as well as offering protective effects against anxiety and depression.
 

@@ -2,7 +2,13 @@
 layout: main.liquid
 pageTitle: Online Graduate Programs
 ---
-<ilw-columns>
+<div id="main-h1" class="main-h1-line"><ilw-content width="page">
+
+# Online Graduate Programs
+
+</ilw-content></div>
+
+<ilw-columns width="page">
 <ilw-content>
 
 **Doctoral and Master’s Degree Programs in**
@@ -47,14 +53,14 @@ pageTitle: Online Graduate Programs
 </ilw-content>
 
 <div>
-<ilw-statistic><span slot="stat">871</span> 2023-24 online graduate student enrollment</ilw-statistic>
+<ilw-statistic class="orange"><span slot="stat">871</span> 2023-24 online graduate student enrollment</ilw-statistic>
 <ilw-statistic><span slot="stat">25%</span> Online graduate students from underrepresented populations</ilw-statistic>
 </div>
 </ilw-columns>
 
-<ilw-columns>
+<ilw-columns gap="20px" theme="gray">
 <div class="ilw-image-cover"><img src="/img/programs/bunch.jpg" alt=""></div>
-<ilw-content>
+<ilw-content theme="gray" mode="inset">
 
 ## Marlee Bunch
 
