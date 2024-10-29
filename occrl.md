@@ -21,5 +21,4 @@ Through scholarship and public engagement OCCRL continues to inform policies and
 We intentionally center our work around elevating educational practices that support underserved student populations and historically marginalized communities. We remain committed to extending the mission of the College of Education to connect engaging research with inclusive practices,” says Baber.
 
 </ilw-content>
-
-<ilw-statistic class="orange compact" ><span slot="stat">10K+</span> OCCRL helps elevate the transfer process for the more than 10,000 students who transfer every year from the 48 community colleges in Illinois to the many public and private colleges and universities in the state.</ilw-statistic>
+<ilw-columns width="page"><ilw-statistic class="orange compact" ><span slot="stat">10K+</span> OCCRL helps elevate the transfer process for the more than 10,000 students who transfer every year from the 48 community colleges in Illinois to the many public and private colleges and universities in the state.</ilw-statistic></ilw-columns>

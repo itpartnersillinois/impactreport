@@ -13,7 +13,7 @@ By Tom Hanlon{.byline}
 
 Oliver Tapaha’s research pushes the boundaries of Indigenous-centered, culturally-responsive education and leadership. Through it, he gives Navajo and other Indigenous peoples a voice and a way to reconnect with their roots.{.introduction}
 
-![Oliver Tapaha](/img/community/tapaha.jpg)
+![Oliver Tapaha](/img/community/tapaha.jpg){.half}
 
 **Oliver Tapaha**, an Illinois Distinguished Postdoctoral Scholar in the department of Education Policy, Organization & Leadership is a citizen of the Diné (Navajo) tribe from northeastern Arizona. (“Citizen” means he is more than one-quarter Navajo.)
 

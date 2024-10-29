@@ -3,7 +3,7 @@ layout: article-crea.liquid
 pageTitle: "CREA: Embodying Cognitive, Cultural and Interdisciplinary Diversity"
 section: Discovery
 ---
-<ilw-content width="page">
+<ilw-content>
 
 ## CREA’S Mission
 

@@ -1,5 +1,5 @@
 ---
-layout: article.liquid
+layout: article-what-happens.liquid
 pageTitle: What Happens When Students Follow Their Passion?
 byline: By Tom Hanlon
 section: Discovery
@@ -7,11 +7,7 @@ bodyClass: good-things
 ---
 <ilw-content width="page">
 
-## Good things
-
 **Kaylin Ratner** has been studying the impact on students when they are allowed to choose—in a beyond-school-time program—their own learning challenge. The results are fascinating.{.introduction}
-
-![Teenage boy playing guitar in a private room](/img/discovery/goodthings.jpg)
 
 ![Kaylin Ratner](/img/discovery/ratner.jpg) 
 *Photo by Fred Zwicky* {.float-left}

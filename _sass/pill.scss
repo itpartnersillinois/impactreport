@@ -27,23 +27,25 @@
 .crea .section-pill.Discovery {
     position: absolute;
     z-index: 10;
-    left: 40%;
     text-align: center;
+    right: 50px;
+    top: 775px;
 }
 
 .indigenous .section-pill.Community {
     position: absolute;
     z-index: 10;
-    left: 40%;
+    right: 40px;
     text-align: center;
+    top: 360px;
 }
 
 @media (min-width: 800px) {
     .crea .section-pill.Discovery {
-        left: 55%;
+        top: 450px;
     }
-    
+
     .indigenous .section-pill.Community {
-        left: 55%;
+        top: 40px;
     }
 }

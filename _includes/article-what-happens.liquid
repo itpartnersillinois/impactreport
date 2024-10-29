@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        {% include head.liquid %}
+    </head>
+    <body class="{{ bodyClass }}">
+    <div class="page">
+        <header>
+            {% include header.liquid %}
+        </header>
+        <main id="article">
+            <ilw-spacer height="60px"></ilw-spacer>
+            <ilw-content width="page">
+                <ilw-columns gap="20px">
+                <img src="/img/discovery/goodthings.jpg" alt="Teenage boy playing guitar in a private room" />
+                <div>
+                {% if section %}
+                <div class="section-pill {{ section }}">{{ section }}</div>
+                {% endif %}
+                <h1 class="what-happens-title">What Happens When Students Follow Their Passion?</h1>
+                <p class="what-happens-subtitle">Good things.</p>
+                {% if byline %}
+                <p class="byline article-byline">{{ byline }}</p>
+                {% endif %}
+                </div>
+                </ilw-columns>
+            </ilw-content>
+            {{ content }}
+            {% include arrows.liquid %}
+        </main>
+        {% include footer.liquid %}
+    </div>
+    </body>
+</html>

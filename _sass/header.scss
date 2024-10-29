@@ -7,11 +7,17 @@ header {
     }
     p {
         color: var(--il-blue--il-blue, #13294b);
-        font-family: "Source Sans Pro";
+        font-family: var(--il-font-sans);
         font-size: 1.5625rem;
         font-style: normal;
         font-weight: 700;
         line-height: 1.8125rem;
+
+        a {
+            color: var(--il-blue--il-blue, #13294b);
+            text-decoration: none;
+            font-family: var(--il-font-sans);
+        }
     }
 }
 

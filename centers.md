@@ -3,7 +3,7 @@ layout: centers.liquid
 pageTitle: Centers & Initiatives
 section: Community
 ---
-<ilw-columns width="page" theme="gray" mode="2x1">
+<ilw-columns width="page" theme="gray" mode="2x1" gap="20px">
 <ilw-content mode="inset" theme="gray">
 
 ## Youth Literature Festival

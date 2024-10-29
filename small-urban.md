@@ -24,5 +24,5 @@ Over the years, Perez adds, the academy has helped bridge the gap between resear
 
 </ilw-content>
 
-<ilw-statistic class="orange compact"><span slot="stat">180+</span> Over 180 educators attended the TEACH Academy to learn how to promote equity and inclusion in the classroom through data-driven decision making.</ilw-statistic>
+<ilw-columns width="page"><ilw-statistic class="orange compact"><span slot="stat">180+</span> Over 180 educators attended the TEACH Academy to learn how to promote equity and inclusion in the classroom through data-driven decision making.</ilw-statistic></ilw-columns>
 
