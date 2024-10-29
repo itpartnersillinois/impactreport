@@ -43,7 +43,7 @@ Dean, College of Education
 <ilw-content width="page">
 <div class="dean-illinois">
 
-![outline of the state of Illinois](/img/illinois-outline.webp)
+![outline of the state of Illinois](/img/illinois-outline.webp) {.illinois}
 
 The University of Illinois Urbana-Champaign sits on the lands of the Peoria, Kaskaskia, Piankashaw, Wea, Miami, Mascoutin, Odawa, Sauk, Mesquaki, Kickapoo, Potawatomi, Ojibwe, and Chickasaw Nations. It is necessary for us to acknowledge these Native Nations and for us to work with them as we move forward as an institution. Over the next 150 years, we will be a vibrant community inclusive of all our differences, with Native peoples at the core of our efforts.
 

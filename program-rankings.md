@@ -3,7 +3,7 @@ layout: main.liquid
 pageTitle: Program Rankings & Milestones
 bodyClass: program-rankings
 ---
-<ilw-content width="page" id="main-h1" class="main-h1-line">
+<ilw-content width="page" id="main-h1" class="main-h1-line program-ranking-stats">
 
 # Program Rankings & Milestones
 
