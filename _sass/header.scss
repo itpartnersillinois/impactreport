@@ -19,11 +19,27 @@ header {
             font-family: var(--il-font-sans);
         }
     }
+    p.menu-share {
+        margin-left: 1rem;
+        font-size: 1.4rem;
+        margin-bottom: 0;
+    }
+    .menu-share-links {
+        margin-left: 1rem;
+        display: flex;
+        column-gap: 5px;
+        margin-bottom: 40px;
+
+        a {
+            padding: 0;
+        }
+    }
+
 }
 
 @media (min-width: 800px) {
     header {
-        position: absolute;
+        position: fixed;
         top: 0;
         left: 0;
         width: var(--menu-width);
@@ -32,9 +48,15 @@ header {
         height: 100%;
         background: var(--heading-background);
         border-right: 2px solid #d5d3d3;
+        overflow-y: auto;
+        overflow-x: hidden;
 
         p {
             display: none;
+        }
+
+        p.menu-share {
+            display: block;
         }
 
         img#header-image {
@@ -42,10 +64,6 @@ header {
             width: calc(var(--menu-width) - 20px);
             border-bottom: 5px solid var(--il-orange);
             background: white;
-        }
-
-        a:hover img#header-image, a:focus img#header-image {
-            filter: grayscale(80%);
         }
     }
 }

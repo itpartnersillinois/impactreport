@@ -27,7 +27,7 @@ The research effort at Illinois is housed at the Beckman Institute for Advanced 
 Photo by Becky Ponder{.byline}
 
 </div>
-<ilw-statistic class="orange"><span slot="stat">$21M</span> A $21 million dollar PCORI Grant Funds their work</ilw-statistic>
+<ilw-statistic class="orange margin-90"><span slot="stat">$21M</span> A $21 million dollar PCORI Grant Funds their work</ilw-statistic>
 
 </ilw-columns>
 

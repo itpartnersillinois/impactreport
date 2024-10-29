@@ -25,6 +25,7 @@ module.exports = (function (eleventyConfig) {
     let returnValue = '';
     let counter = 0;
     let currentMenu = '';
+    let currentUrl = '';
     menu.forEach(item => {
       if (currentMenu != item.menu) {
         if (currentMenu != '') {
@@ -43,6 +44,9 @@ module.exports = (function (eleventyConfig) {
         counter++;
       }
       let ariaCurrent = item.title === title || item.longtitle === title ? ' aria-current="page"' : '';
+      if (item.title === title || item.longtitle === title) {
+        currentUrl = item.url;
+      }
       returnValue += `<li><a href="/${item.url}/index.html"${ariaCurrent}>${item.title}</a></li>`;
     });
     returnValue += `</ul></li>`;
@@ -62,6 +66,22 @@ module.exports = (function (eleventyConfig) {
     returnValue += `<li><a href="/archive2021/index.html">2021 Impact Report</a></li>`;
     returnValue += `<li><a href="/archive2020/index.html">2020 Impact Report</a></li>`;
     returnValue += `</ul></li>`;
+    // adding print links
+    returnValue += `<li class="line"><p class="menu-share">Share</p>`;
+    returnValue += `<div class="menu-share-links">`;
+    if (currentUrl == '') {
+      returnValue += `<a aria-label="Share on email" title="Share on email" href="mailto:?subject=https://impactreport.education.illinois.edu/" rel="external"><ilw-icon type="solid" icon="email"></ilw-icon></a>`;
+      returnValue += `<a aria-label="Share on Twitter" title="Share on Twitter" class="twitter" target="_blank" onclick="window.open(this.href,'_blank','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=700,height=400,top=500,left=500');return false;" href="https://twitter.com/share?url=https://impactreport.education.illinois.edu/"><ilw-icon type="solid" icon="twitter"></ilw-icon></a>`;
+      returnValue += `<a aria-label="Share on Facebook" title="Share on Facebook" class="facebook" target="_blank" onclick="window.open(this.href,'_blank','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=700,height=400,top=500,left=500');return false;" href="https://www.facebook.com/sharer.php?u=https://impactreport.education.illinois.edu/"><ilw-icon type="solid" icon="facebook"></ilw-icon></a>`;
+      returnValue += `<a aria-label="Share on LinkedIn" title="Share on LinkedIn" class="linkedin" target="_blank" onclick="window.open(this.href,'_blank','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=700,height=400,top=500,left=500');return false;" href="https://www.linkedin.com/sharing/share-offsite/?url=https://impactreport.education.illinois.edu/"><ilw-icon type="solid" icon="linkedin"></ilw-icon></a>`;
+    } else {
+      returnValue += `<a aria-label="Share on email" title="Share on email" href="mailto:?subject=https://impactreport.education.illinois.edu/${currentUrl}/index.html" rel="external"><ilw-icon type="solid" icon="email"></ilw-icon></a>`;
+      returnValue += `<a aria-label="Share on Twitter" title="Share on Twitter" class="twitter" target="_blank" onclick="window.open(this.href,'_blank','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=700,height=400,top=500,left=500');return false;" href="https://twitter.com/share?url=https://impactreport.education.illinois.edu/${currentUrl}/index.html"><ilw-icon type="solid" icon="twitter"></a>`;
+      returnValue += `<a aria-label="Share on Facebook" title="Share on Facebook" class="facebook" target="_blank" onclick="window.open(this.href,'_blank','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=700,height=400,top=500,left=500');return false;" href="https://www.facebook.com/sharer.php?u=https://impactreport.education.illinois.edu/${currentUrl}/index.html"><ilw-icon type="solid" icon="facebook"></ilw-icon></a>`;
+      returnValue += `<a aria-label="Share on LinkedIn" title="Share on LinkedIn" class="linkedin" target="_blank" onclick="window.open(this.href,'_blank','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=700,height=400,top=500,left=500');return false;" href="https://www.linkedin.com/sharing/share-offsite/?url=https://impactreport.education.illinois.edu/${currentUrl}/index.html"><ilw-icon type="solid" icon="linkedin"></ilw-icon></a>`;
+    }
+    returnValue += `</div></li>`;
+
     return returnValue;
   });
 

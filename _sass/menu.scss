@@ -87,10 +87,11 @@ header nav {
       position: relative;
       flex-direction: column;
     }
-    li.line {
-      border-top: 2px solid #C6C7C6;
-      margin-top: 10px;
-    }
+  }
+
+  li.line {
+    border-top: 2px solid #C6C7C6;
+    margin-top: 10px;
   }
 
   button {

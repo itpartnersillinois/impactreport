@@ -57,6 +57,11 @@ main#article {
     }
 }
 
+.margin-90 {
+    margin: auto;
+    width: 90%;
+}
+
 @media (min-width: 600px) {
     main#article {
         .float-left, .left {
